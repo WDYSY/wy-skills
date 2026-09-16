@@ -490,6 +490,12 @@ C (AI-generated) supports three implementation modes sharing one `image_prompts.
 
 > All three modes share one output contract: file at `project/images/<filename>`. Step 6 SVG references are mode-agnostic.
 
+### Cover Background — Engine Preference
+
+The cover row from Strategist `§VIII` prefers the **Qwen backend** — `qwen-image-2.0-pro`, the model the user calls "image2.0" — whenever Path A is available: `IMAGE_BACKEND=qwen` plus `QWEN_API_KEY` / `DASHSCOPE_API_KEY`, so `image_gen.py --manifest` produces it. A missing key is **not** a reason to halt or to ask: the resolved fallback path (Path B, then Offline Manual) produces the same row, and the final delivery names the engine that actually produced the image.
+
+Keep that row engine-agnostic — same assembled prompt, same `cover_bg.png` filename, same `page_role: hero_page` + §4.1 Primitive D + `text_policy: none` contract, `image_size: 2K` at the deck canvas ratio — so configuring Qwen later regenerates the cover without touching any SVG.
+
 ### Path A — `image_gen.py --manifest` (Default)
 
 ```bash
