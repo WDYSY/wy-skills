@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P02 - 市场窗口期分析</title>
+  <desc>采用广泛但规模化未至，dense类型</desc>
+  <!-- 背景 -->
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <!-- 页眉 -->
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P02 · AI 商业化洞察</text>
+  <!-- 页面标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">AI 的真正机会，不在"是否采用"</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">而在"如何从试点走向规模化"</text>
+  <!-- 装饰线 -->
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <!-- 核心数据卡片 -->
+  <rect x="64" y="196" width="360" height="220" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+  <!-- 数据数字 -->
+  <text x="244" y="270" font-family="Cambria, SimSun, serif" font-size="90" font-weight="bold" fill="#1F6FB2" text-anchor="middle">71%</text>
+  <text x="244" y="315" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">McKinsey 2025</text>
+  <text x="244" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" fill="#1F2933" text-anchor="middle">多数组织已规律性使用 AI</text>
+  <text x="244" y="368" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">至少一个业务职能</text>
+  <!-- 中间对比区 -->
+  <!-- 左指标：采用率 -->
+  <g transform="translate(480, 196)">
+    <text x="0" y="28" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">采用率</text>
+    <!-- 进度条背景 -->
+    <rect x="0" y="40" width="340" height="16" rx="8" fill="#D8DEE6"/>
+    <!-- 进度条填充 -->
+    <rect x="0" y="40" width="340" height="16" rx="8" fill="#1F6FB2"/>
+    <text x="340" y="72" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">71% 已采用</text>
+    <!-- 状态标签 -->
+    <rect x="0" y="84" width="80" height="28" rx="6" fill="#2E8B57"/>
+    <text x="40" y="104" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="white" text-anchor="middle">高</text>
+  </g>
+  <!-- 右指标：规模化率 -->
+  <g transform="translate(480, 320)">
+    <text x="0" y="28" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">规模化率</text>
+    <!-- 进度条背景 -->
+    <rect x="0" y="40" width="340" height="16" rx="8" fill="#D8DEE6"/>
+    <!-- 进度条填充 - 低 -->
+    <rect x="0" y="40" width="96" height="16" rx="8" fill="#C44E3B"/>
+    <text x="340" y="72" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">约 28% 实现企业级规模化</text>
+    <!-- 状态标签 -->
+    <rect x="0" y="84" width="80" height="28" rx="6" fill="#C44E3B"/>
+    <text x="40" y="104" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="white" text-anchor="middle">低</text>
+  </g>
+  <!-- 差距说明卡片 -->
+  <g transform="translate(64, 440)">
+    <rect x="0" y="0" width="1152" height="120" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="24" y="36" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">窗口洞察</text>
+    <text x="24" y="72" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" fill="#1F2933">企业已广泛使用 AI，但尚未形成组织级闭环。</text>
+    <text x="24" y="102" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" fill="#1F2933">机会在于把零散试点收束为<tspan font-weight="600" fill="#1F6FB2">平台化能力</tspan>，实现跨团队可复制。</text>
+  </g>
+  <!-- 数据来源 -->
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">来源：McKinsey Global Institute, 2025</text>
+</svg>

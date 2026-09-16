@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D"/>
+  <circle cx="600" cy="400" r="300" fill="#4CAF50" fill-opacity="0.05"/>
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#4CAF50">重点站点分析 · 04</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">ko-kr + en-my — 多渠道均衡</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#4CAF50" fill-opacity="0.4"/>
+
+  <!-- Left card: ko-kr -->
+  <rect x="60" y="180" width="560" height="380" rx="16" fill="#4FC3F7" fill-opacity="0.06" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="88" y="225" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4FC3F7">ko-kr 韩语</text>
+  <text x="88" y="255" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">PV 55,648（第 6 名）· UV 14,796</text>
+
+  <text x="88" y="300" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">站内</text>
+  <rect x="170" y="288" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="170" y="288" width="173" height="16" rx="4" fill="#4FC3F7"/>
+  <text x="570" y="300" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4FC3F7" text-anchor="end">44.3%</text>
+
+  <text x="88" y="338" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">Partner</text>
+  <rect x="170" y="326" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="170" y="326" width="59" height="16" rx="4" fill="#4CAF50"/>
+  <text x="570" y="338" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4CAF50" text-anchor="end">15.0%</text>
+
+  <text x="88" y="376" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">PPC</text>
+  <rect x="170" y="364" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="170" y="364" width="45" height="16" rx="4" fill="#FF6B6B"/>
+  <text x="570" y="376" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FF6B6B" text-anchor="end">11.6%</text>
+
+  <text x="88" y="414" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">SEO</text>
+  <rect x="170" y="402" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="170" y="402" width="38" height="16" rx="4" fill="#9C6BDB"/>
+  <text x="570" y="414" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#9C6BDB" text-anchor="end">9.7%</text>
+
+  <text x="88" y="452" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">APP-PUSH</text>
+  <rect x="170" y="440" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="170" y="440" width="25" height="16" rx="4" fill="#FFB74D"/>
+  <text x="570" y="452" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FFB74D" text-anchor="end">6.5%</text>
+
+  <!-- Right card: en-my -->
+  <rect x="660" y="180" width="560" height="380" rx="16" fill="#4CAF50" fill-opacity="0.06" stroke="#4CAF50" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="688" y="225" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4CAF50">en-my 马来英文</text>
+  <text x="688" y="255" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">PV 146,071（第 4 名）· UV 11,297</text>
+
+  <text x="688" y="300" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">站内</text>
+  <rect x="770" y="288" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="770" y="288" width="215" height="16" rx="4" fill="#4FC3F7"/>
+  <text x="1170" y="300" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4FC3F7" text-anchor="end">55.0%</text>
+
+  <text x="688" y="338" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">Partner</text>
+  <rect x="770" y="326" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="770" y="326" width="63" height="16" rx="4" fill="#4CAF50"/>
+  <text x="1170" y="338" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4CAF50" text-anchor="end">16.1%</text>
+
+  <text x="688" y="376" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">APP-PUSH</text>
+  <rect x="770" y="364" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="770" y="364" width="36" height="16" rx="4" fill="#FFB74D"/>
+  <text x="1170" y="376" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FFB74D" text-anchor="end">9.3%</text>
+
+  <text x="688" y="414" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">PPC</text>
+  <rect x="770" y="402" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="770" y="402" width="33" height="16" rx="4" fill="#FF6B6B"/>
+  <text x="1170" y="414" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FF6B6B" text-anchor="end">8.4%</text>
+
+  <text x="688" y="452" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">SEO</text>
+  <rect x="770" y="440" width="390" height="16" rx="4" fill="#1A2D4A" fill-opacity="0.8"/>
+  <rect x="770" y="440" width="20" height="16" rx="4" fill="#9C6BDB"/>
+  <text x="1170" y="452" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#9C6BDB" text-anchor="end">5.2%</text>
+
+  <!-- Bottom insight -->
+  <rect x="60" y="580" width="1160" height="60" rx="12" fill="#1A2D4A" fill-opacity="0.6" stroke="#4CAF50" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="100" y="615" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="20" font-weight="700" fill="#E8F0FA">共同特征：站内 44-55%，外部渠道 8-16%，多渠道并进</text>
+
+  <text x="60" y="677" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext</text>
+  <text x="1220" y="677" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">10</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D"/>
+  <circle cx="200" cy="100" r="220" fill="#FFB74D" fill-opacity="0.05"/>
+  <circle cx="1100" cy="600" r="250" fill="#4FC3F7" fill-opacity="0.06"/>
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#FFB74D">运营策略</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">一站一策：差异化运营</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#FFB74D" fill-opacity="0.4"/>
+
+  <!-- 4 glass cards in 2x2 -->
+  <!-- Card 1: zh-hk -->
+  <rect x="60" y="175" width="560" height="230" rx="16" fill="#4FC3F7" fill-opacity="0.06" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="88" y="215" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4FC3F7">zh-hk 香港</text>
+  <text x="88" y="255" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#FFB74D">站内 66.6% 是全站最高</text>
+  <text x="88" y="292" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">策略：加强平台内交叉引流</text>
+  <text x="88" y="325" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">Partner 联盟是第二抓手（13.3%）</text>
+  <text x="88" y="360" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">对外投放依赖低，侧重内部生态</text>
+
+  <!-- Card 2: en-sg -->
+  <rect x="660" y="175" width="560" height="230" rx="16" fill="#FFB74D" fill-opacity="0.05" stroke="#FFB74D" stroke-width="1" stroke-opacity="0.25"/>
+  <text x="688" y="215" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#FFB74D">en-sg 新加坡</text>
+  <text x="688" y="255" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#4FC3F7">APP-PUSH 23% 是全站最高</text>
+  <text x="688" y="292" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">策略：深耕 Push 召回能力</text>
+  <text x="688" y="325" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">绑定演出/演唱会开票提醒</text>
+  <text x="688" y="360" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">如 BIGBANG 新加坡演唱会热点</text>
+
+  <!-- Card 3: ru-ru -->
+  <rect x="60" y="435" width="560" height="230" rx="16" fill="#9C6BDB" fill-opacity="0.06" stroke="#9C6BDB" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="88" y="475" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#9C6BDB">ru-ru 俄语</text>
+  <text x="88" y="515" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#4FC3F7">SEO 28.4% 是全站最高</text>
+  <text x="88" y="552" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">策略：加大 SEO 内容建设</text>
+  <text x="88" y="585" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">关键词覆盖，驱动自然流量</text>
+  <text x="88" y="620" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">用户习惯搜索引擎，不敏感投放</text>
+
+  <!-- Card 4: ko-kr + en-my -->
+  <rect x="660" y="435" width="560" height="230" rx="16" fill="#4CAF50" fill-opacity="0.05" stroke="#4CAF50" stroke-width="1" stroke-opacity="0.25"/>
+  <text x="688" y="475" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4CAF50">ko-kr + en-my</text>
+  <text x="688" y="515" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#E8F0FA">多渠道均衡型</text>
+  <text x="688" y="552" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">策略：维持多渠道并进</text>
+  <text x="688" y="585" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">优化 Partner + PPC 性价比</text>
+  <text x="688" y="620" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">站内 44-55%，外部 8-16%</text>
+
+  <text x="60" y="690" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">四个主要抓手：Partner 联盟 + SEO + APP-PUSH + PPC</text>
+  <text x="1220" y="690" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">11</text>
+</svg>

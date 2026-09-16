@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P07 - ROI 三层业务价值</title>
+  <desc>效率、质量、复制三层叠加，dense类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P07 · 商业价值</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">ROI 不只体现在人效</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">更体现在质量提升与平台复制</text>
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <text x="64" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">短期看效率，中期看质量，长期看平台扩张 — 三层价值叠加才是完整 ROI</text>
+
+  <!-- 三层价值卡片 -->
+  <!-- 第1层：效率收益 -->
+  <g transform="translate(64, 228)">
+    <rect x="0" y="0" width="368" height="380" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="10" rx="12" fill="#1F6FB2"/>
+    <rect x="0" y="10" width="368" height="10" fill="#1F6FB2"/>
+    <!-- 时间图标 -->
+    <g transform="translate(24, 36)" stroke="#1F6FB2" stroke-width="2" fill="none">
+      <circle cx="20" cy="20" r="18"/>
+      <polyline points="20,10 20,20 28,26"/>
+    </g>
+    <text x="80" y="56" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">效率收益</text>
+    <text x="24" y="84" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">短期价值 · 人力节省</text>
+    <!-- 核心数字 -->
+    <text x="184" y="140" font-family="Cambria, SimSun, serif" font-size="56" font-weight="bold" fill="#1F6FB2" text-anchor="middle">60%</text>
+    <text x="184" y="170" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773" text-anchor="middle">人力时间节省估算</text>
+    <!-- 条形图 -->
+    <text x="24" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">响应效率提升</text>
+    <rect x="24" y="212" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="212" width="280" height="12" rx="6" fill="#1F6FB2"/>
+    <text x="352" y="224" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↑</text>
+
+    <text x="24" y="250" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">知识检索耗时</text>
+    <rect x="24" y="262" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="262" width="224" height="12" rx="6" fill="#7FA9D6"/>
+    <text x="352" y="274" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↓</text>
+
+    <text x="24" y="300" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">人工升级频次</text>
+    <rect x="24" y="312" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="312" width="160" height="12" rx="6" fill="#7FA9D6"/>
+    <text x="352" y="324" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↓</text>
+
+    <rect x="24" y="344" width="320" height="28" rx="6" fill="#1F6FB2" opacity="0.1"/>
+    <text x="184" y="364" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F6FB2" text-anchor="middle">回收期：6-9 个月</text>
+  </g>
+
+  <!-- 第2层：质量收益 -->
+  <g transform="translate(456, 228)">
+    <rect x="0" y="0" width="368" height="380" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="10" rx="12" fill="#2E8B57"/>
+    <rect x="0" y="10" width="368" height="10" fill="#2E8B57"/>
+    <!-- 星星/质量图标 -->
+    <g transform="translate(24, 36)" stroke="#2E8B57" stroke-width="2" fill="none">
+      <polygon points="20,4 24,14 35,15 27,23 29,34 20,28 11,34 13,23 5,15 16,14"/>
+    </g>
+    <text x="80" y="56" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">质量收益</text>
+    <text x="24" y="84" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">中期价值 · 体验与准确性</text>
+    <!-- 核心数字 -->
+    <text x="184" y="140" font-family="Cambria, SimSun, serif" font-size="56" font-weight="bold" fill="#2E8B57" text-anchor="middle">+35%</text>
+    <text x="184" y="170" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773" text-anchor="middle">高意向线索占比提升</text>
+    <!-- 条形图 -->
+    <text x="24" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">客户满意度</text>
+    <rect x="24" y="212" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="212" width="272" height="12" rx="6" fill="#2E8B57"/>
+    <text x="352" y="224" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↑</text>
+
+    <text x="24" y="250" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">答案准确率</text>
+    <rect x="24" y="262" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="262" width="288" height="12" rx="6" fill="#2E8B57"/>
+    <text x="352" y="274" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↑</text>
+
+    <text x="24" y="300" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">升级误判率</text>
+    <rect x="24" y="312" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="312" width="112" height="12" rx="6" fill="#2E8B57"/>
+    <text x="352" y="324" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↓</text>
+
+    <rect x="24" y="344" width="320" height="28" rx="6" fill="#2E8B57" opacity="0.1"/>
+    <text x="184" y="364" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#2E8B57" text-anchor="middle">品牌口碑正向积累</text>
+  </g>
+
+  <!-- 第3层：复制收益 -->
+  <g transform="translate(848, 228)">
+    <rect x="0" y="0" width="368" height="380" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="10" rx="12" fill="#17324D"/>
+    <rect x="0" y="10" width="368" height="10" fill="#17324D"/>
+    <!-- 复制/扩张图标 -->
+    <g transform="translate(24, 36)" stroke="#17324D" stroke-width="2" fill="none">
+      <rect x="0" y="0" width="22" height="18" rx="3"/>
+      <rect x="6" y="10" width="22" height="18" rx="3"/>
+      <line x1="20" y1="5" x2="28" y2="5"/>
+      <line x1="28" y1="5" x2="28" y2="13"/>
+    </g>
+    <text x="80" y="56" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">复制收益</text>
+    <text x="24" y="84" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">长期价值 · 平台规模效应</text>
+    <!-- 核心数字 -->
+    <text x="184" y="140" font-family="Cambria, SimSun, serif" font-size="56" font-weight="bold" fill="#17324D" text-anchor="middle">3×</text>
+    <text x="184" y="170" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773" text-anchor="middle">新场景部署效率提升</text>
+    <!-- 条形图 -->
+    <text x="24" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">模板复用率</text>
+    <rect x="24" y="212" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="212" width="288" height="12" rx="6" fill="#17324D"/>
+    <text x="352" y="224" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↑</text>
+
+    <text x="24" y="250" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">知识库积累速度</text>
+    <rect x="24" y="262" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="262" width="256" height="12" rx="6" fill="#17324D"/>
+    <text x="352" y="274" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↑</text>
+
+    <text x="24" y="300" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">跨部门复制成本</text>
+    <rect x="24" y="312" width="320" height="12" rx="6" fill="#D8DEE6"/>
+    <rect x="24" y="312" width="128" height="12" rx="6" fill="#17324D"/>
+    <text x="352" y="324" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">↓</text>
+
+    <rect x="24" y="344" width="320" height="28" rx="6" fill="#17324D" opacity="0.1"/>
+    <text x="184" y="364" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#17324D" text-anchor="middle">平台网络效应</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P07</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">5 / 6</text>
+</svg>

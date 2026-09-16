@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81" />
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">渠道指纹：同样的六个渠道，三个站三种形状</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">同样六个渠道在 zh-hk、en-sg、ru-ru 上呈现出三种完全不同的形状。</text>
+    <line x1="60" y1="150" x2="1220" y2="150" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="radar-figure">
+    <polygon points="440,220 587.2,305 587.2,475 440,560 292.8,475 292.8,305" fill="#F7F9FB" stroke="#D5DDE6" stroke-width="1" />
+    <polygon points="440,262.5 550.4,326.3 550.4,453.8 440,517.5 329.6,453.8 329.6,326.3" fill="none" stroke="#E7EDF3" stroke-width="1" />
+    <polygon points="440,305 513.6,347.5 513.6,432.5 440,475 366.4,432.5 366.4,347.5" fill="none" stroke="#E7EDF3" stroke-width="1" />
+    <polygon points="440,347.5 476.8,368.8 476.8,411.3 440,432.5 403.2,411.3 403.2,368.8" fill="none" stroke="#E7EDF3" stroke-width="1" />
+    <line x1="440" y1="390" x2="440" y2="220" stroke="#D5DDE6" stroke-width="1" />
+    <line x1="440" y1="390" x2="587.2" y2="305" stroke="#D5DDE6" stroke-width="1" />
+    <line x1="440" y1="390" x2="587.2" y2="475" stroke="#D5DDE6" stroke-width="1" />
+    <line x1="440" y1="390" x2="440" y2="560" stroke="#D5DDE6" stroke-width="1" />
+    <line x1="440" y1="390" x2="292.8" y2="475" stroke="#D5DDE6" stroke-width="1" />
+    <line x1="440" y1="390" x2="292.8" y2="305" stroke="#D5DDE6" stroke-width="1" />
+    
+
+    <polygon points="440,286.3 488.4,362.0 462.7,403.1 440,419.4 424.4,399.0 431.6,385.1" fill="#E8833A" fill-opacity="0.18" stroke="#E8833A" stroke-width="2.5" />
+    <polygon points="440,313.0 470.5,372.4 462.3,402.9 440,459.0 414.8,404.6 434.1,386.6" fill="#4A90C4" fill-opacity="0.18" stroke="#4A90C4" stroke-width="2.5" />
+    <polygon points="440,228.2 451.3,383.4 468.0,406.2 440,400.9 429.5,396.1 429.1,383.7" fill="#0F4C81" fill-opacity="0.18" stroke="#0F4C81" stroke-width="2.5" />
+
+    <text x="440" y="200" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">站内</text>
+    <text x="600" y="298" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">APP-PUSH</text>
+    <text x="600" y="492" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">Partner</text>
+    <text x="440" y="588" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">SEO</text>
+    <text x="280" y="492" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">PPC</text>
+    <text x="280" y="298" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#1B2430">其他/EDM</text>
+
+    <path fill="#0F4C81" d="M303,612 H311 A3,3 0 0 1 314,615 V623 A3,3 0 0 1 311,626 H303 A3,3 0 0 1 300,623 V615 A3,3 0 0 1 303,612 Z" />
+    <text x="322" y="625" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#5A6675">zh-hk</text>
+    <path fill="#E8833A" d="M403,612 H411 A3,3 0 0 1 414,615 V623 A3,3 0 0 1 411,626 H403 A3,3 0 0 1 400,623 V615 A3,3 0 0 1 403,612 Z" />
+    <text x="422" y="625" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#5A6675">en-sg</text>
+    <path fill="#4A90C4" d="M503,612 H511 A3,3 0 0 1 514,615 V623 A3,3 0 0 1 511,626 H503 A3,3 0 0 1 500,623 V615 A3,3 0 0 1 503,612 Z" />
+    <text x="522" y="625" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#5A6675">ru-ru</text>
+  </g>
+
+  <g id="fingerprint-notes">
+    <path fill="#0F4C81" d="M724,214 H724 A4,4 0 0 1 728,218 V238 A4,4 0 0 1 724,242 H724 A4,4 0 0 1 720,238 V218 A4,4 0 0 1 724,214 Z" />
+    <text x="744" y="240" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">zh-hk 站内凸起</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="280">站内 66.6% 把整条形状向外推，</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="306">其余维度普遍收敛在 4.5%–13.3%。</text><path fill="#E8833A" d="M724,342 H724 A4,4 0 0 1 728,346 V366 A4,4 0 0 1 724,370 H724 A4,4 0 0 1 720,366 V346 A4,4 0 0 1 724,342 Z" />
+    <text x="744" y="368" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#E8833A">en-sg 的 Push 尖角</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="408">APP-PUSH 23.0% 是全站最高，</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="434">在雷达上形成唯一明显外突的角。</text><path fill="#4A90C4" d="M724,470 H724 A4,4 0 0 1 728,474 V494 A4,4 0 0 1 724,498 H724 A4,4 0 0 1 720,494 V474 A4,4 0 0 1 724,470 Z" />
+    <text x="744" y="496" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#4A90C4">ru-ru 的 SEO 长刺</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="536">SEO 28.4% 远超其他渠道，</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="720" y="562">站内 31.7% 却是六站最低。</text></g>
+
+  <g id="page-note">
+    <text x="60" y="668" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">维度为该站渠道占比（%），三条系列共用同一 0–70% 刻度——四道同心环分别为 17.5% / 35% / 52.5% / 70%，故形状可直接横向比较。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">流量来源口径 = trip_channel · 数据窗口 2026-08-10 至 2026-08-17</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P07 / 12</text>
+  </g>
+</svg>

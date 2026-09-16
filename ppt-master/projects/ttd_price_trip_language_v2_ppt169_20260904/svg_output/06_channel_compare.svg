@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D"/>
+  <circle cx="1000" cy="400" r="250" fill="#4FC3F7" fill-opacity="0.05"/>
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#4FC3F7">渠道对比</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">各语言站流量来源差异显著</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#4FC3F7" fill-opacity="0.4"/>
+
+  <!-- Legend -->
+  <g transform="translate(600, 80)">
+    <rect x="0" y="0" width="12" height="12" rx="3" fill="#4FC3F7"/>
+    <text x="18" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">站内</text>
+    <rect x="70" y="0" width="12" height="12" rx="3" fill="#FFB74D"/>
+    <text x="88" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">APP-PUSH</text>
+    <rect x="160" y="0" width="12" height="12" rx="3" fill="#4CAF50"/>
+    <text x="178" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">Partner</text>
+    <rect x="250" y="0" width="12" height="12" rx="3" fill="#9C6BDB"/>
+    <text x="268" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">SEO</text>
+    <rect x="330" y="0" width="12" height="12" rx="3" fill="#FF6B6B"/>
+    <text x="348" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">PPC</text>
+    <rect x="410" y="0" width="12" height="12" rx="3" fill="#5C7590"/>
+    <text x="428" y="11" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="12" fill="#8FA8C8">其他</text>
+  </g>
+
+  <!-- Chart area -->
+  <!-- Y axis grid: 底部 580, 100%=410px -->
+  <!-- 30%-580, 40%-495, 50%-410, 60%-325, 70%-240 -->
+  <line x1="80" y1="240" x2="1170" y2="240" stroke="#5C7590" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="80" y1="325" x2="1170" y2="325" stroke="#5C7590" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="80" y1="410" x2="1170" y2="410" stroke="#5C7590" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="80" y1="495" x2="1170" y2="495" stroke="#5C7590" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="80" y1="580" x2="1170" y2="580" stroke="#8FA8C8" stroke-width="2"/>
+
+  <text x="65" y="245" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="10" fill="#5C7590" text-anchor="end">70%</text>
+  <text x="65" y="330" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="10" fill="#5C7590" text-anchor="end">60%</text>
+  <text x="65" y="415" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="10" fill="#5C7590" text-anchor="end">50%</text>
+  <text x="65" y="500" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="10" fill="#5C7590" text-anchor="end">40%</text>
+  <text x="65" y="585" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="10" fill="#5C7590" text-anchor="end">30%</text>
+
+  <!-- Group 1: zh-hk @ x=200 -->
+  <!-- 站内 66.6% => h=273 -->
+  <rect x="168" y="307" width="16" height="273" rx="4" fill="#4FC3F7"/>
+  <!-- APP-PUSH 5.4% => h=22 -->
+  <rect x="190" y="558" width="16" height="22" rx="4" fill="#FFB74D"/>
+  <!-- Partner 13.3% => h=55 -->
+  <rect x="212" y="525" width="16" height="55" rx="4" fill="#4CAF50"/>
+  <!-- SEO 4.5% => h=18 -->
+  <rect x="234" y="562" width="16" height="18" rx="4" fill="#9C6BDB"/>
+  <!-- PPC 5.0% => h=20 -->
+  <rect x="256" y="560" width="16" height="20" rx="4" fill="#FF6B6B"/>
+
+  <!-- Group 2: en-sg @ x=410 -->
+  <rect x="378" y="414" width="16" height="166" rx="4" fill="#4FC3F7" fill-opacity="0.85"/>
+  <rect x="400" y="485" width="16" height="95" rx="4" fill="#FFB74D"/>
+  <rect x="422" y="531" width="16" height="49" rx="4" fill="#4CAF50"/>
+  <rect x="444" y="523" width="16" height="57" rx="4" fill="#9C6BDB"/>
+  <rect x="466" y="546" width="16" height="34" rx="4" fill="#FF6B6B"/>
+
+  <!-- Group 3: en-my @ x=620 -->
+  <rect x="588" y="347" width="16" height="233" rx="4" fill="#4FC3F7" fill-opacity="0.75"/>
+  <rect x="610" y="536" width="16" height="44" rx="4" fill="#FFB74D"/>
+  <rect x="632" y="510" width="16" height="70" rx="4" fill="#4CAF50"/>
+  <rect x="654" y="558" width="16" height="22" rx="4" fill="#9C6BDB"/>
+  <rect x="676" y="538" width="16" height="42" rx="4" fill="#FF6B6B"/>
+
+  <!-- Group 4: ru-ru @ x=830 -->
+  <rect x="798" y="443" width="16" height="137" rx="4" fill="#4FC3F7" fill-opacity="0.65"/>
+  <rect x="820" y="510" width="16" height="70" rx="4" fill="#FFB74D"/>
+  <rect x="842" y="529" width="16" height="51" rx="4" fill="#4CAF50"/>
+  <rect x="864" y="456" width="16" height="124" rx="4" fill="#9C6BDB"/>
+  <rect x="886" y="523" width="16" height="57" rx="4" fill="#FF6B6B"/>
+
+  <!-- Group 5: ko-kr @ x=1040 -->
+  <rect x="1008" y="399" width="16" height="181" rx="4" fill="#4FC3F7" fill-opacity="0.9"/>
+  <rect x="1030" y="550" width="16" height="30" rx="4" fill="#FFB74D"/>
+  <rect x="1052" y="502" width="16" height="78" rx="4" fill="#4CAF50"/>
+  <rect x="1074" y="540" width="16" height="40" rx="4" fill="#9C6BDB"/>
+  <rect x="1096" y="526" width="16" height="54" rx="4" fill="#FF6B6B"/>
+
+  <!-- X labels -->
+  <text x="200" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" font-weight="700" fill="#E8F0FA" text-anchor="middle">zh-hk</text>
+  <text x="410" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" font-weight="700" fill="#E8F0FA" text-anchor="middle">en-sg</text>
+  <text x="620" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" font-weight="700" fill="#E8F0FA" text-anchor="middle">en-my</text>
+  <text x="830" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" font-weight="700" fill="#E8F0FA" text-anchor="middle">ru-ru</text>
+  <text x="1040" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" font-weight="700" fill="#E8F0FA" text-anchor="middle">ko-kr</text>
+
+  <!-- Insight -->
+  <rect x="60" y="640" width="1160" height="40" rx="12" fill="#1A2D4A" fill-opacity="0.6" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="640" y="665" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="700" fill="#E8F0FA" text-anchor="middle">站内是大盘主力（32%-67%），每站渠道侧重差异巨大 — 运营应一站一策</text>
+
+  <text x="1220" y="712" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">06</text>
+</svg>

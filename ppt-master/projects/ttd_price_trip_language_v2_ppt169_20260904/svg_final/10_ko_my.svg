@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D" />
+  <circle cx="600" cy="400" r="300" fill="#4CAF50" fill-opacity="0.05" />
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#4CAF50">重点站点分析 · 04</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">ko-kr + en-my — 多渠道均衡</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#4CAF50" fill-opacity="0.4" />
+
+  
+  <path fill="#4FC3F7" fill-opacity="0.06" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.3" d="M76,180 H604 A16,16 0 0 1 620,196 V544 A16,16 0 0 1 604,560 H76 A16,16 0 0 1 60,544 V196 A16,16 0 0 1 76,180 Z" />
+  <text x="88" y="225" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4FC3F7">ko-kr 韩语</text>
+  <text x="88" y="255" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">PV 55,648（第 6 名）· UV 14,796</text>
+
+  <text x="88" y="300" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">站内</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M174,288 H556 A4,4 0 0 1 560,292 V300 A4,4 0 0 1 556,304 H174 A4,4 0 0 1 170,300 V292 A4,4 0 0 1 174,288 Z" />
+  <path fill="#4FC3F7" d="M174,288 H339 A4,4 0 0 1 343,292 V300 A4,4 0 0 1 339,304 H174 A4,4 0 0 1 170,300 V292 A4,4 0 0 1 174,288 Z" />
+  <text x="570" y="300" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4FC3F7" text-anchor="end">44.3%</text>
+
+  <text x="88" y="338" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">Partner</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M174,326 H556 A4,4 0 0 1 560,330 V338 A4,4 0 0 1 556,342 H174 A4,4 0 0 1 170,338 V330 A4,4 0 0 1 174,326 Z" />
+  <path fill="#4CAF50" d="M174,326 H225 A4,4 0 0 1 229,330 V338 A4,4 0 0 1 225,342 H174 A4,4 0 0 1 170,338 V330 A4,4 0 0 1 174,326 Z" />
+  <text x="570" y="338" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4CAF50" text-anchor="end">15.0%</text>
+
+  <text x="88" y="376" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">PPC</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M174,364 H556 A4,4 0 0 1 560,368 V376 A4,4 0 0 1 556,380 H174 A4,4 0 0 1 170,376 V368 A4,4 0 0 1 174,364 Z" />
+  <path fill="#FF6B6B" d="M174,364 H211 A4,4 0 0 1 215,368 V376 A4,4 0 0 1 211,380 H174 A4,4 0 0 1 170,376 V368 A4,4 0 0 1 174,364 Z" />
+  <text x="570" y="376" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FF6B6B" text-anchor="end">11.6%</text>
+
+  <text x="88" y="414" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">SEO</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M174,402 H556 A4,4 0 0 1 560,406 V414 A4,4 0 0 1 556,418 H174 A4,4 0 0 1 170,414 V406 A4,4 0 0 1 174,402 Z" />
+  <path fill="#9C6BDB" d="M174,402 H204 A4,4 0 0 1 208,406 V414 A4,4 0 0 1 204,418 H174 A4,4 0 0 1 170,414 V406 A4,4 0 0 1 174,402 Z" />
+  <text x="570" y="414" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#9C6BDB" text-anchor="end">9.7%</text>
+
+  <text x="88" y="452" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">APP-PUSH</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M174,440 H556 A4,4 0 0 1 560,444 V452 A4,4 0 0 1 556,456 H174 A4,4 0 0 1 170,452 V444 A4,4 0 0 1 174,440 Z" />
+  <path fill="#FFB74D" d="M174,440 H191 A4,4 0 0 1 195,444 V452 A4,4 0 0 1 191,456 H174 A4,4 0 0 1 170,452 V444 A4,4 0 0 1 174,440 Z" />
+  <text x="570" y="452" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FFB74D" text-anchor="end">6.5%</text>
+
+  
+  <path fill="#4CAF50" fill-opacity="0.06" stroke="#4CAF50" stroke-width="1" stroke-opacity="0.3" d="M676,180 H1204 A16,16 0 0 1 1220,196 V544 A16,16 0 0 1 1204,560 H676 A16,16 0 0 1 660,544 V196 A16,16 0 0 1 676,180 Z" />
+  <text x="688" y="225" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="26" font-weight="700" fill="#4CAF50">en-my 马来英文</text>
+  <text x="688" y="255" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">PV 146,071（第 4 名）· UV 11,297</text>
+
+  <text x="688" y="300" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">站内</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M774,288 H1156 A4,4 0 0 1 1160,292 V300 A4,4 0 0 1 1156,304 H774 A4,4 0 0 1 770,300 V292 A4,4 0 0 1 774,288 Z" />
+  <path fill="#4FC3F7" d="M774,288 H981 A4,4 0 0 1 985,292 V300 A4,4 0 0 1 981,304 H774 A4,4 0 0 1 770,300 V292 A4,4 0 0 1 774,288 Z" />
+  <text x="1170" y="300" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4FC3F7" text-anchor="end">55.0%</text>
+
+  <text x="688" y="338" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">Partner</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M774,326 H1156 A4,4 0 0 1 1160,330 V338 A4,4 0 0 1 1156,342 H774 A4,4 0 0 1 770,338 V330 A4,4 0 0 1 774,326 Z" />
+  <path fill="#4CAF50" d="M774,326 H829 A4,4 0 0 1 833,330 V338 A4,4 0 0 1 829,342 H774 A4,4 0 0 1 770,338 V330 A4,4 0 0 1 774,326 Z" />
+  <text x="1170" y="338" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#4CAF50" text-anchor="end">16.1%</text>
+
+  <text x="688" y="376" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">APP-PUSH</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M774,364 H1156 A4,4 0 0 1 1160,368 V376 A4,4 0 0 1 1156,380 H774 A4,4 0 0 1 770,376 V368 A4,4 0 0 1 774,364 Z" />
+  <path fill="#FFB74D" d="M774,364 H802 A4,4 0 0 1 806,368 V376 A4,4 0 0 1 802,380 H774 A4,4 0 0 1 770,376 V368 A4,4 0 0 1 774,364 Z" />
+  <text x="1170" y="376" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FFB74D" text-anchor="end">9.3%</text>
+
+  <text x="688" y="414" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">PPC</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M774,402 H1156 A4,4 0 0 1 1160,406 V414 A4,4 0 0 1 1156,418 H774 A4,4 0 0 1 770,414 V406 A4,4 0 0 1 774,402 Z" />
+  <path fill="#FF6B6B" d="M774,402 H799 A4,4 0 0 1 803,406 V414 A4,4 0 0 1 799,418 H774 A4,4 0 0 1 770,414 V406 A4,4 0 0 1 774,402 Z" />
+  <text x="1170" y="414" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#FF6B6B" text-anchor="end">8.4%</text>
+
+  <text x="688" y="452" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#E8F0FA">SEO</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M774,440 H1156 A4,4 0 0 1 1160,444 V452 A4,4 0 0 1 1156,456 H774 A4,4 0 0 1 770,452 V444 A4,4 0 0 1 774,440 Z" />
+  <path fill="#9C6BDB" d="M774,440 H786 A4,4 0 0 1 790,444 V452 A4,4 0 0 1 786,456 H774 A4,4 0 0 1 770,452 V444 A4,4 0 0 1 774,440 Z" />
+  <text x="1170" y="452" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="14" font-weight="600" fill="#9C6BDB" text-anchor="end">5.2%</text>
+
+  
+  <path fill="#1A2D4A" fill-opacity="0.6" stroke="#4CAF50" stroke-width="1" stroke-opacity="0.3" d="M72,580 H1208 A12,12 0 0 1 1220,592 V628 A12,12 0 0 1 1208,640 H72 A12,12 0 0 1 60,628 V592 A12,12 0 0 1 72,580 Z" />
+  <text x="100" y="615" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="20" font-weight="700" fill="#E8F0FA">共同特征：站内 44-55%，外部渠道 8-16%，多渠道并进</text>
+
+  <text x="60" y="677" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext</text>
+  <text x="1220" y="677" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">10</text>
+</svg>

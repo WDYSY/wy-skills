@@ -1,0 +1,188 @@
+{
+  "lang": "zh",
+  "tier": 2,
+  "recommend": {
+    "canvas": "ppt169",
+    "mode": "pyramid",
+    "visual_style": "editorial",
+    "icons": "tabler-outline",
+    "image_usage": [
+      "ai",
+      "placeholder"
+    ],
+    "image_ai_path": "auto",
+    "formula_policy": "text-only",
+    "generation_mode": "continuous",
+    "delivery_purpose": "balanced"
+  },
+  "page_count": {
+    "value": "16"
+  },
+  "audience": {
+    "value": "技术团队、AI Coding 实践者、研发管理者"
+  },
+  "content_divergence": {
+    "value": "忠于原文事实，适度重组以增强演示表达"
+  },
+  "image_notes": {
+    "value": "封面和章节过渡页用 AI 主视觉；正文分析页以文字、结构图、数据卡片为主；缺图位置允许 placeholder；不做写实人物海报。"
+  },
+  "color": {
+    "selected": 0,
+    "candidates": [
+      {
+        "name": "科技编辑蓝",
+        "note": "克制、专业、适合方法论复盘",
+        "palette": {
+          "background": "#F7F9FC",
+          "secondary_bg": "#EEF3F8",
+          "primary": "#1F4E79",
+          "accent": "#4F8EF7",
+          "secondary_accent": "#7FB3FF",
+          "body_text": "#1F2937"
+        }
+      },
+      {
+        "name": "深色技术风",
+        "note": "更强科技感，适合舞台演示",
+        "palette": {
+          "background": "#0F172A",
+          "secondary_bg": "#1E293B",
+          "primary": "#E2E8F0",
+          "accent": "#38BDF8",
+          "secondary_accent": "#818CF8",
+          "body_text": "#E5E7EB"
+        }
+      },
+      {
+        "name": "得物红蓝对比",
+        "note": "更有品牌张力，但攻击性略强",
+        "palette": {
+          "background": "#FAFAFB",
+          "secondary_bg": "#F1F5F9",
+          "primary": "#0F172A",
+          "accent": "#D7263D",
+          "secondary_accent": "#2563EB",
+          "body_text": "#111827"
+        }
+      }
+    ]
+  },
+  "typography": {
+    "selected": 0,
+    "candidates": [
+      {
+        "name": "现代中文无衬线",
+        "note": "信息清晰，适合技术复盘",
+        "sample_heading": "AI 编程能力边界探索",
+        "sample_heading_latin": "AI Coding in Practice",
+        "sample_body": "用结构化规范把不确定性消除在执行之前",
+        "sample_body_latin": "Use structured specs to reduce uncertainty before execution.",
+        "heading": {
+          "cjk": "思源黑体",
+          "latin": "Inter",
+          "css": "\"Source Han Sans SC\",\"Microsoft YaHei\",Inter,Arial,sans-serif"
+        },
+        "body": {
+          "cjk": "思源黑体",
+          "latin": "Inter",
+          "css": "\"Source Han Sans SC\",\"Microsoft YaHei\",Inter,Arial,sans-serif"
+        },
+        "body_size": 24
+      },
+      {
+        "name": "报告型雅黑",
+        "note": "商务感更强，兼容稳妥",
+        "sample_heading": "Spec Coding 项目实战",
+        "sample_heading_latin": "Spec Coding Project Review",
+        "sample_body": "10 天、2.5 万行代码、提效 36%",
+        "sample_body_latin": "10 days, 25k lines, 36% efficiency gain.",
+        "heading": {
+          "cjk": "微软雅黑",
+          "latin": "Arial",
+          "css": "\"Microsoft YaHei\",Arial,sans-serif"
+        },
+        "body": {
+          "cjk": "微软雅黑",
+          "latin": "Arial",
+          "css": "\"Microsoft YaHei\",Arial,sans-serif"
+        },
+        "body_size": 24
+      },
+      {
+        "name": "编辑感宋黑配",
+        "note": "标题更有文章气质",
+        "sample_heading": "从 Copilot 到执行者",
+        "sample_heading_latin": "From Copilot to Executor",
+        "sample_body": "规范是杠杆，AI 是力，工作流是支点",
+        "sample_body_latin": "Specs are leverage; AI is force; workflow is the fulcrum.",
+        "heading": {
+          "cjk": "思源宋体",
+          "latin": "Georgia",
+          "css": "\"Source Han Serif SC\",Georgia,\"Times New Roman\",serif"
+        },
+        "body": {
+          "cjk": "思源黑体",
+          "latin": "Arial",
+          "css": "\"Source Han Sans SC\",\"Microsoft YaHei\",Arial,sans-serif"
+        },
+        "body_size": 24
+      }
+    ]
+  },
+  "image_strategy": {
+    "selected": 0,
+    "candidates": [
+      {
+        "name": "方案A",
+        "rendering": "editorial",
+        "palette": "cool-corporate",
+        "visual": "抽象系统界面、流程图层、屏幕与节点拼贴",
+        "color": "冷静蓝灰底，局部高亮蓝色强调",
+        "mood": "专业、理性、具方法论感"
+      },
+      {
+        "name": "方案B",
+        "rendering": "digital-dashboard",
+        "palette": "cool-corporate",
+        "visual": "数据面板、代码窗口、图表微发光",
+        "color": "深浅蓝对比，少量霓虹强调",
+        "mood": "科技、分析、执行导向"
+      },
+      {
+        "name": "方案C",
+        "rendering": "vector-illustration",
+        "palette": "cool-corporate",
+        "visual": "简洁矢量人物与流程模块结合",
+        "color": "低饱和商务蓝为主",
+        "mood": "易懂、现代、轻叙事"
+      }
+    ]
+  },
+  "visual_style_spectrum": [
+    {
+      "id": "swiss-minimal",
+      "tag_zh": "稳妥专业",
+      "tag_en": "Safe & professional",
+      "note_zh": "像咨询报告精简版",
+      "note_en": "like a concise consulting report"
+    },
+    {
+      "id": "editorial",
+      "tag_zh": "编辑质感",
+      "tag_en": "Editorial depth",
+      "note_zh": "像技术专题长文被浓缩成演示",
+      "note_en": "like a tech feature distilled into slides"
+    },
+    {
+      "id": "dark-tech",
+      "tag_zh": "硬核科技",
+      "tag_en": "Bold tech",
+      "note_zh": "像 AI 产品发布会分析篇",
+      "note_en": "like an AI product launch analysis"
+    }
+  ],
+  "refine_spec": {
+    "value": false
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "schema": "template_fill_pptx_plan.v1",
+  "status": "confirmed",
+  "source_pptx": "/Users/temptrip/Downloads/唯美森系水彩晕染小鹿PPT模板.pptx",
+  "accepted_warnings": [],
+  "slides": [
+    {
+      "source_slide": 1,
+      "purpose": "cover",
+      "layout_rationale": {
+        "layout_pattern": "hero_cover",
+        "why_fit": "封面页适合放主题与关键数据。",
+        "risk": "副标题需保持简短。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s01_sh18",
+          "text": "Claude Code × Spec Coding 实战复盘"
+        },
+        {
+          "slot_id": "s01_sh30",
+          "text": "10天 / 2.5万行代码 / 2754次工具调用｜得物技术"
+        },
+        {
+          "slot_id": "s01_sh34",
+          "text": "AI编程能力边界探索 · ppt-master-trip · gpt-5.4-2026-03-05"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 2,
+      "purpose": "toc",
+      "layout_rationale": {
+        "layout_pattern": "agenda",
+        "why_fit": "目录页可以呈现四段结构。",
+        "risk": "短句即可，避免超长。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s02_sh10",
+          "text": "目录"
+        },
+        {
+          "slot_id": "s02_sh18",
+          "text": "01 Spec Coding 与实战背景"
+        },
+        {
+          "slot_id": "s02_sh19",
+          "text": "02 项目与数据概览"
+        },
+        {
+          "slot_id": "s02_sh20",
+          "text": "03 10天时间线与典型案例"
+        },
+        {
+          "slot_id": "s02_sh21",
+          "text": "04 规范体系、MCP 与经验总结"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 3,
+      "purpose": "chapter",
+      "layout_rationale": {
+        "layout_pattern": "chapter_divider",
+        "why_fit": "章节页适合引出第一部分。",
+        "risk": "整句不要太长。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s03_sh29",
+          "text": "第一部分"
+        },
+        {
+          "slot_id": "s03_sh30",
+          "text": "Spec Coding：在写代码之前，先写规格文档"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 5,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "title_body_metric",
+        "why_fit": "正文+指标结构适合解释概念并放关键数字。",
+        "risk": "正文需要压缩到图示容量。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s05_sh9",
+          "text": "Spec Coding 工作流"
+        },
+        {
+          "slot_id": "s05_sh12",
+          "text": "什么是规格驱动编码"
+        },
+        {
+          "slot_id": "s05_sh13",
+          "text": "在写代码之前，先写规格文档；每个功能变更经历 proposal→design→specs→tasks，减少返工、适合复杂功能、可审计。"
+        },
+        {
+          "slot_id": "s05_sh11",
+          "text": "10天 · 2.5万行 · 2754次调用 · 提效36%"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 10,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "four_key_messages",
+        "why_fit": "四卡片摘要页可概括项目与数据。",
+        "risk": "正文需短句。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s10_sh12",
+          "text": "中后台"
+        },
+        {
+          "slot_id": "s10_sh13",
+          "text": "核心功能"
+        },
+        {
+          "slot_id": "s10_sh14",
+          "text": "全景交付"
+        },
+        {
+          "slot_id": "s10_sh15",
+          "text": "快速提效"
+        },
+        {
+          "slot_id": "s10_sh16",
+          "text": "项目从0到1完成，覆盖表格、表单、卡片列表、数据看板等中后台常见功能。"
+        },
+        {
+          "slot_id": "s10_sh17",
+          "text": "全程使用 Claude Code 辅助开发，先规格后编码。"
+        },
+        {
+          "slot_id": "s10_sh18",
+          "text": "10天完成从设计、开发到部署的全流程。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 11,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "four_card_number",
+        "why_fit": "四宫格适合展示工具调用分布。",
+        "risk": "数字是主信息，正文副文案控制简短。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s11_sh22",
+          "text": "738次"
+        },
+        {
+          "slot_id": "s11_sh23",
+          "text": "文件读取"
+        },
+        {
+          "slot_id": "s11_sh24",
+          "text": "550次"
+        },
+        {
+          "slot_id": "s11_sh25",
+          "text": "代码编辑"
+        },
+        {
+          "slot_id": "s11_sh26",
+          "text": "662次"
+        },
+        {
+          "slot_id": "s11_sh27",
+          "text": "终端命令"
+        },
+        {
+          "slot_id": "s11_sh28",
+          "text": "208次"
+        },
+        {
+          "slot_id": "s11_sh29",
+          "text": "进度标记"
+        },
+        {
+          "slot_id": "s11_sh35",
+          "text": "2754次工具调用几乎覆盖研发日常动作，AI 已完成从读文件、改代码到跑命令的全流程闭环。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 9,
+      "purpose": "chapter",
+      "layout_rationale": {
+        "layout_pattern": "chapter_divider",
+        "why_fit": "章节页用于时间线分段。",
+        "risk": "保持主句简洁。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s09_sh19",
+          "text": "第二部分"
+        },
+        {
+          "slot_id": "s09_sh20",
+          "text": "10天时间线：从设计到生产部署"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 15,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "three_card_timeline",
+        "why_fit": "无分组文本框，模板填充可写入；三列结构能概括时间线关键阶段。",
+        "risk": "项目搭建阶段被合并进设计与搭建。"
+      },
+      "notes": "十个自然日按三个关键阶段展开：设计与搭建、功能开发、打磨与部署。",
+      "replacements": [
+        {
+          "slot_id": "s15_sh22",
+          "text": "10天时间线：设计→功能开发→打磨部署"
+        },
+        {
+          "slot_id": "s15_sh23",
+          "text": "设计与搭建"
+        },
+        {
+          "slot_id": "s15_sh24",
+          "text": "2个工作日20条指令，确认PRD并打通前后端链路。"
+        },
+        {
+          "slot_id": "s15_sh25",
+          "text": "功能开发"
+        },
+        {
+          "slot_id": "s15_sh26",
+          "text": "4个工作日89条指令，约80%功能代码完成。"
+        },
+        {
+          "slot_id": "s15_sh27",
+          "text": "打磨与部署"
+        },
+        {
+          "slot_id": "s15_sh28",
+          "text": "4个工作日108条指令，重构、修复并成功上线。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 21,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "three_case_comparison",
+        "why_fit": "三列对比页承载三个典型案例。",
+        "risk": "每案控制在两句话内。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s21_sh30",
+          "text": "AI驱动产品设计"
+        },
+        {
+          "slot_id": "s21_sh31",
+          "text": "无PM、无UI设计师，一人通过Role Rules完成PRD+高保真原型+研发文档。"
+        },
+        {
+          "slot_id": "s21_sh32",
+          "text": "SDD驱动前端研发"
+        },
+        {
+          "slot_id": "s21_sh33",
+          "text": "定时任务模块对接6个后端接口，SDD+MCP让联调一次通过，单日人效提升3倍。"
+        },
+        {
+          "slot_id": "s21_sh36",
+          "text": "SDD驱动系统重构"
+        },
+        {
+          "slot_id": "s21_sh37",
+          "text": "34个子任务全部完成，useChat拆为3个hook，ChatInterface从17个props降至6-8个。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 20,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "title_paragraph",
+        "why_fit": "标题+正文页适合讲规范体系。",
+        "risk": "正文略长，注意容量。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s20_sh10",
+          "text": "三层规范体系落地"
+        },
+        {
+          "slot_id": "s20_sh25",
+          "text": "约束 + 示范 + 视觉"
+        },
+        {
+          "slot_id": "s20_sh26",
+          "text": "规范体系用三层结构约束AI行为：全局约束、角色规则、视觉参考；实际效果是减少无效尝试、保持代码风格一致、提升可审计性。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 22,
+      "purpose": "content",
+      "layout_rationale": {
+        "layout_pattern": "title_double_body",
+        "why_fit": "标题+双正文页适合介绍两个MCP能力。",
+        "risk": "两个段落都需控制在两句内。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s22_sh7",
+          "text": "MCP 工具：消除信息断层"
+        },
+        {
+          "slot_id": "s22_sh8",
+          "text": "接口文档直连 + 飞书云文档直读"
+        },
+        {
+          "slot_id": "s22_sh13",
+          "text": "直连接口文档，一次生成接口文件，联调一次通过。"
+        },
+        {
+          "slot_id": "s22_sh14",
+          "text": "飞书文档直读，让产品上下文直接进入编码。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 23,
+      "purpose": "chapter",
+      "layout_rationale": {
+        "layout_pattern": "chapter_divider",
+        "why_fit": "章节页用于收束总结。",
+        "risk": "主句保持清晰。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s23_sh14",
+          "text": "第四部分"
+        },
+        {
+          "slot_id": "s23_sh15",
+          "text": "AI 经验总结：能力边界、失效模式与开发者角色重构"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 27,
+      "purpose": "ending",
+      "layout_rationale": {
+        "layout_pattern": "closing",
+        "why_fit": "收尾页保留原模板风格。",
+        "risk": "只需简短致谢。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s27_sh18",
+          "text": "谢谢观看"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    }
+  ]
+}

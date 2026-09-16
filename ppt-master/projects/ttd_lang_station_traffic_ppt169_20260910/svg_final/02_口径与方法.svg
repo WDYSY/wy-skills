@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81" />
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">口径先行：这次按语言站看，不再按景点</text>
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="112">结论的可信度取决于口径：统一数据表与过滤条件、统一时间窗，</text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="150">并把「站点」定义为 locale 语言站。</text><line x1="60" y1="172" x2="1220" y2="172" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="spec-card-env">
+    <path fill="#F7F9FB" d="M70,192 H418 A10,10 0 0 1 428,202 V362 A10,10 0 0 1 418,372 H70 A10,10 0 0 1 60,362 V202 A10,10 0 0 1 70,192 Z" />
+    
+  <g transform="translate(84, 214) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M3.6 9h16.8" />
+    <path d="M3.6 15h16.8" />
+    <path d="M11.5 3a17 17 0 0 0 0 18" />
+    <path d="M12.5 3a17 17 0 0 1 0 18" />
+  </g>
+    <text x="124" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">环境</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="84" y="288">SGP 集群，</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="84" y="320">T 站海外数据</text></g>
+
+  <g id="spec-card-table">
+    <path fill="#F7F9FB" d="M466,192 H814 A10,10 0 0 1 824,202 V362 A10,10 0 0 1 814,372 H466 A10,10 0 0 1 456,362 V202 A10,10 0 0 1 466,192 Z" />
+    
+  <g transform="translate(480, 214) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M4 6a8 3 0 1 0 16 0a8 3 0 1 0 -16 0" />
+    <path d="M4 6v6a8 3 0 0 0 16 0v-6" />
+    <path d="M4 12v6a8 3 0 0 0 16 0v-6" />
+  </g>
+    <text x="520" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">数据表</text>
+    <text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="480" y="292">dw_ticketdb.edw_log_</text><text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="480" y="318">ttd_traffic_order_d_ext</text></g>
+
+  <g id="spec-card-filter">
+    <path fill="#F7F9FB" d="M862,192 H1210 A10,10 0 0 1 1220,202 V362 A10,10 0 0 1 1210,372 H862 A10,10 0 0 1 852,362 V202 A10,10 0 0 1 862,192 Z" />
+    
+  <g transform="translate(876, 214) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M4 4h16v2.172a2 2 0 0 1 -.586 1.414l-4.414 4.414v7l-6 2v-8.5l-4.48 -4.928a2 2 0 0 1 -.52 -1.345v-2.227" />
+  </g>
+    <text x="916" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">过滤条件</text>
+    <text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="876" y="292">page_ct='trip'</text><text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="876" y="318">+ sub_bu_name='ibu门票'</text></g>
+
+  <g id="spec-card-locale">
+    <path fill="#F7F9FB" d="M70,396 H418 A10,10 0 0 1 428,406 V566 A10,10 0 0 1 418,576 H70 A10,10 0 0 1 60,566 V406 A10,10 0 0 1 70,396 Z" />
+    
+  <g transform="translate(84, 418) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M9 11a3 3 0 1 0 6 0a3 3 0 0 0 -6 0" />
+    <path d="M17.657 16.657l-4.243 4.243a2 2 0 0 1 -2.827 0l-4.244 -4.243a8 8 0 1 1 11.314 0" />
+  </g>
+    <text x="124" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">站点口径</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="84" y="496">按 locale 字段</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="84" y="526">定义语言站</text><text x="84" y="556" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">例：zh-hk 香港繁体 · en-sg 新加坡英文</text>
+  </g>
+
+  <g id="spec-card-metric">
+    <path fill="#F7F9FB" d="M466,396 H814 A10,10 0 0 1 824,406 V566 A10,10 0 0 1 814,576 H466 A10,10 0 0 1 456,566 V406 A10,10 0 0 1 466,396 Z" />
+    
+  <g transform="translate(480, 418) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M4 19l16 0" />
+    <path d="M4 15l4 -6l4 2l4 -5l4 4" />
+  </g>
+    <text x="520" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">指标定义</text>
+    <text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="480" y="496">PV = count(distinct com_pv)</text><text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="480" y="522">UV = count(distinct vid)</text><text fill="#1B2430" font-family="Consolas, 'Courier New', monospace" font-size="18" x="480" y="548">流量来源 = trip_channel</text></g>
+
+  <g id="spec-card-window">
+    <path fill="#F7F9FB" d="M862,396 H1210 A10,10 0 0 1 1220,406 V566 A10,10 0 0 1 1210,576 H862 A10,10 0 0 1 852,566 V406 A10,10 0 0 1 862,396 Z" />
+    
+  <g transform="translate(876, 418) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M4 7a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2v-12" />
+    <path d="M16 3v4" />
+    <path d="M8 3v4" />
+    <path d="M4 11h16" />
+    <path d="M11 15h1" />
+    <path d="M12 15v3" />
+  </g>
+    <text x="916" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">时间窗</text>
+    <text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="876" y="500">数据截止 2026-08-17</text><text fill="#5A6675" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="876" y="532">最近完整 7 天：8/10–8/17</text></g>
+
+  <g id="note-correction">
+    <path fill="#EEF2F6" d="M68,596 H1212 A8,8 0 0 1 1220,604 V644 A8,8 0 0 1 1212,652 H68 A8,8 0 0 1 60,644 V604 A8,8 0 0 1 68,596 Z" />
+    
+  <g transform="translate(80, 611) scale(1.08333)" fill="none" stroke="#E8833A" stroke-width="2">
+    <path d="M12 9v4" />
+    <path d="M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0" />
+    <path d="M12 16h.01" />
+  </g>
+    <text x="122" y="631" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">上一轮按景点（viewspotname）统计，口径答偏；本轮改为按语言站重新统计。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext · page_ct='trip' · sub_bu_name='ibu门票'</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P02 / 12</text>
+  </g>
+</svg>

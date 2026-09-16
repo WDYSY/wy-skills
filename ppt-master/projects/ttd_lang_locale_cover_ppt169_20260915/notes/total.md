@@ -1,0 +1,9 @@
+# 01_封面
+
+这一页是 T 站门票海外流量的语言站口径总览，数据窗口是 2026-08-10 到 08-17，环境是 SGP 集群，站点口径按 locale 语言站切分。
+
+一句话结论：五十多个语言站里，头部两个站（香港繁体 zh-hk、新加坡英文 en-sg）合计吃下百分之五十九的 PV，TOP10 覆盖百分之八十八点六。所以流量高度集中在港澳台、东南亚与俄韩，投放策略必须一站一策。
+
+口径备注：PV 用 com_pv 去重计数，UV 用 vid 去重计数，流量来源取 trip_channel；底表是 dw_ticketdb.edw_log_ttd_traffic_order_d_ext，过滤条件为 page_ct 等于 trip、sub_bu_name 等于 ibu门票。
+
+---

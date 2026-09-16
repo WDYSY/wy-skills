@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">一站一策：四类站点，四套投放配方</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">按站点类型选择主抓手，而不是用一张全网通投表。</text>
+    <line x1="60" y1="150" x2="1220" y2="150" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="recipe-onsite">
+    <!-- icon: tabler-outline/home -->
+  <g transform="translate(60, 202) scale(1.08333)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M5 12l-2 0l9 -9l9 9l-2 0" />
+    <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+    <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+  </g>
+    <text x="100" y="226" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">站内自转型</text>
+    <text x="100" y="254" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">zh-hk 香港繁体</text>
+    <text x="420" y="238" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">优先用 <tspan font-weight="bold" fill="#0F4C81">Partner 联盟</tspan>放大站内自然流转，控制买量规模。</text>
+    <line x1="60" y1="275" x2="1220" y2="275" stroke="#E7EDF3" stroke-width="1"/>
+  </g>
+
+  <g id="recipe-push">
+    <!-- icon: tabler-outline/bell -->
+  <g transform="translate(60, 297) scale(1.08333)" fill="none" stroke="#E8833A" stroke-width="2">
+    <path d="M10 5a2 2 0 1 1 4 0a7 7 0 0 1 4 6v3a4 4 0 0 0 2 3h-16a4 4 0 0 0 2 -3v-3a7 7 0 0 1 4 -6" />
+    <path d="M9 17v1a3 3 0 0 0 6 0v-1" />
+  </g>
+    <text x="100" y="321" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#E8833A">Push 驱动型</text>
+    <text x="100" y="349" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">en-sg 新加坡英文</text>
+    <text x="420" y="333" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">把 <tspan font-weight="bold" fill="#E8833A">Push 节奏</tspan>与演出开票、大促绑定，守住召回基本盘。</text>
+    <line x1="60" y1="370" x2="1220" y2="370" stroke="#E7EDF3" stroke-width="1"/>
+  </g>
+
+  <g id="recipe-seo">
+    <!-- icon: tabler-outline/search -->
+  <g transform="translate(60, 392) scale(1.08333)" fill="none" stroke="#4A90C4" stroke-width="2">
+    <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+  </g>
+    <text x="100" y="416" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#4A90C4">SEO 自然流入型</text>
+    <text x="100" y="444" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">ru-ru 俄语</text>
+    <text x="420" y="428" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">用 <tspan font-weight="bold" fill="#4A90C4">SEO 内容与落地页</tspan>承接自然流量，投放只作 PPC 补位。</text>
+    <line x1="60" y1="465" x2="1220" y2="465" stroke="#E7EDF3" stroke-width="1"/>
+  </g>
+
+  <g id="recipe-balanced">
+    <!-- icon: tabler-outline/adjustments -->
+  <g transform="translate(60, 487) scale(1.08333)" fill="none" stroke="#5A6675" stroke-width="2">
+    <path d="M4 10a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M6 4v4" />
+    <path d="M6 12v8" />
+    <path d="M10 16a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M12 4v10" />
+    <path d="M12 18v2" />
+    <path d="M16 7a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M18 4v1" />
+    <path d="M18 9v11" />
+  </g>
+    <text x="100" y="511" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#5A6675">多渠道均衡型</text>
+    <text x="100" y="539" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">ko-kr 韩语 · en-my 马来西亚英文</text>
+    <text x="420" y="523" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430"><tspan font-weight="bold" fill="#5A6675">组合投放、小步试错</tspan>，不押注单一渠道。</text>
+    <line x1="60" y1="560" x2="1220" y2="560" stroke="#D5DDE6" stroke-width="2"/>
+  </g>
+
+  <g id="next-step">
+    <text x="60" y="600" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">下一步：可按这一版语言站分析生成 HTML 动态页面；</text>
+    <text x="60" y="634" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">也可进一步看各语言站下单转化（订单量、GMV），评估投放 ROI。</text>
+    <text x="60" y="670" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">口径不变：SGP 集群 · 门票业务 · locale 语言站 · trip_channel 流量来源。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据窗口 2026-08-10 至 2026-08-17 · 截止 2026-08-17</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P12 / 12</text>
+  </g>
+</svg>

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">五站渠道结构：站内仍是主力，但差异极大</text>
+    <text x="60" y="110" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">
+      <tspan x="60" dy="0">站内流量在各站占 <tspan fill="#E8833A" font-weight="bold">31.7%–66.6%</tspan>；</tspan>
+      <tspan x="60" dy="38">对外投放的四个抓手是 Partner、SEO、APP-PUSH 与 PPC，配比因站而异。</tspan>
+    </text>
+  </g>
+
+  <g id="channel-matrix">
+    <text x="60" y="178" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#5A6675">流量来源</text>
+    <text x="356" y="178" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#0F4C81">zh-hk 香港繁体</text>
+    <text x="548" y="178" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#0F4C81">en-sg 新加坡英文</text>
+    <text x="740" y="178" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#0F4C81">en-my 马来西亚英文</text>
+    <text x="932" y="178" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#0F4C81">ru-ru 俄语</text>
+    <text x="1124" y="178" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#0F4C81">ko-kr 韩语</text>
+    <line x1="60" y1="188" x2="1220" y2="188" stroke="#5A6675" stroke-width="2"/>
+
+    <g id="row-onsite">
+      <rect x="60" y="216" width="6" height="26" rx="3" fill="#0F4C81"/>
+      <text x="80" y="238" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">站内</text>
+      <line x1="260" y1="196" x2="1220" y2="196" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">66.6%</text>
+      <rect x="284" y="236" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="236" width="137.0" height="8" rx="4" fill="#0F4C81"/>
+      <text x="548" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">42.7%</text>
+      <rect x="476" y="236" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="236" width="87.8" height="8" rx="4" fill="#0F4C81"/>
+      <text x="740" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">55.0%</text>
+      <rect x="668" y="236" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="236" width="113.1" height="8" rx="4" fill="#0F4C81"/>
+      <text x="932" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">31.7%</text>
+      <rect x="860" y="236" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="236" width="65.2" height="8" rx="4" fill="#0F4C81"/>
+      <text x="1124" y="226" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">44.3%</text>
+      <rect x="1052" y="236" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="236" width="91.1" height="8" rx="4" fill="#0F4C81"/>
+    </g>
+
+    <g id="row-apppush">
+      <rect x="60" y="280" width="6" height="26" rx="3" fill="#E8833A"/>
+      <text x="80" y="302" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">APP-PUSH</text>
+      <line x1="260" y1="260" x2="1220" y2="260" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="290" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">5.4%</text>
+      <rect x="284" y="300" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="300" width="11.1" height="8" rx="4" fill="#E8833A"/>
+      <text x="548" y="290" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">23.0%</text>
+      <rect x="476" y="300" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="300" width="47.3" height="8" rx="4" fill="#E8833A"/>
+      <text x="740" y="290" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">9.3%</text>
+      <rect x="668" y="300" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="300" width="19.1" height="8" rx="4" fill="#E8833A"/>
+      <text x="932" y="290" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">14.5%</text>
+      <rect x="860" y="300" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="300" width="29.8" height="8" rx="4" fill="#E8833A"/>
+      <text x="1124" y="290" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">6.5%</text>
+      <rect x="1052" y="300" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="300" width="13.4" height="8" rx="4" fill="#E8833A"/>
+    </g>
+
+    <g id="row-partner">
+      <rect x="60" y="344" width="6" height="26" rx="3" fill="#4A90C4"/>
+      <text x="80" y="366" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">Partner</text>
+      <line x1="260" y1="324" x2="1220" y2="324" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="354" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">13.3%</text>
+      <rect x="284" y="364" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="364" width="27.4" height="8" rx="4" fill="#4A90C4"/>
+      <text x="548" y="354" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">10.8%</text>
+      <rect x="476" y="364" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="364" width="22.2" height="8" rx="4" fill="#4A90C4"/>
+      <text x="740" y="354" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">16.1%</text>
+      <rect x="668" y="364" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="364" width="33.1" height="8" rx="4" fill="#4A90C4"/>
+      <text x="932" y="354" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">10.6%</text>
+      <rect x="860" y="364" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="364" width="21.8" height="8" rx="4" fill="#4A90C4"/>
+      <text x="1124" y="354" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">15.0%</text>
+      <rect x="1052" y="364" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="364" width="30.9" height="8" rx="4" fill="#4A90C4"/>
+    </g>
+
+    <g id="row-seo">
+      <rect x="60" y="408" width="6" height="26" rx="3" fill="#0F4C81" fill-opacity="0.55"/>
+      <text x="80" y="430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">SEO</text>
+      <line x1="260" y1="388" x2="1220" y2="388" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="418" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">4.5%</text>
+      <rect x="284" y="428" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="428" width="9.3" height="8" rx="4" fill="#0F4C81" fill-opacity="0.55"/>
+      <text x="548" y="418" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">12.1%</text>
+      <rect x="476" y="428" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="428" width="24.9" height="8" rx="4" fill="#0F4C81" fill-opacity="0.55"/>
+      <text x="740" y="418" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">5.2%</text>
+      <rect x="668" y="428" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="428" width="10.7" height="8" rx="4" fill="#0F4C81" fill-opacity="0.55"/>
+      <text x="932" y="418" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">28.4%</text>
+      <rect x="860" y="428" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="428" width="58.4" height="8" rx="4" fill="#0F4C81" fill-opacity="0.55"/>
+      <text x="1124" y="418" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">9.7%</text>
+      <rect x="1052" y="428" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="428" width="20.0" height="8" rx="4" fill="#0F4C81" fill-opacity="0.55"/>
+    </g>
+
+    <g id="row-ppc">
+      <rect x="60" y="472" width="6" height="26" rx="3" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="80" y="494" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">PPC</text>
+      <line x1="260" y1="452" x2="1220" y2="452" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="482" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">5.0%</text>
+      <rect x="284" y="492" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="492" width="10.3" height="8" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="548" y="482" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">7.4%</text>
+      <rect x="476" y="492" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="492" width="15.2" height="8" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="740" y="482" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">8.4%</text>
+      <rect x="668" y="492" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="492" width="17.3" height="8" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="932" y="482" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">12.0%</text>
+      <rect x="860" y="492" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="492" width="24.7" height="8" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="1124" y="482" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">11.6%</text>
+      <rect x="1052" y="492" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="492" width="23.9" height="8" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    </g>
+
+    <g id="row-other">
+      <rect x="60" y="536" width="6" height="26" rx="3" fill="#8A94A2"/>
+      <text x="80" y="558" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">其他/EDM 等</text>
+      <line x1="260" y1="516" x2="1220" y2="516" stroke="#E7EDF3" stroke-width="1"/>
+      <text x="356" y="546" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">5.2%</text>
+      <rect x="284" y="556" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="284" y="556" width="10.7" height="8" rx="4" fill="#8A94A2"/>
+      <text x="548" y="546" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">4.0%</text>
+      <rect x="476" y="556" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="476" y="556" width="8.2" height="8" rx="4" fill="#8A94A2"/>
+      <text x="740" y="546" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">6.0%</text>
+      <rect x="668" y="556" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="668" y="556" width="12.3" height="8" rx="4" fill="#8A94A2"/>
+      <text x="932" y="546" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">2.8%</text>
+      <rect x="860" y="556" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="860" y="556" width="5.8" height="8" rx="4" fill="#8A94A2"/>
+      <text x="1124" y="546" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">12.9%</text>
+      <rect x="1052" y="556" width="144" height="8" rx="4" fill="#E7EDF3"/>
+      <rect x="1052" y="556" width="26.5" height="8" rx="4" fill="#8A94A2"/>
+    </g>
+  </g>
+
+  <g id="page-note">
+    <text x="60" y="620" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">表内为各语言站自身的渠道构成占比，每列横向合计 100%；微条按统一 0–70% 刻度绘制，便于跨站横向比较。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">流量来源口径 = trip_channel · 数据窗口 2026-08-10 至 2026-08-17</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P06 / 12</text>
+  </g>
+</svg>

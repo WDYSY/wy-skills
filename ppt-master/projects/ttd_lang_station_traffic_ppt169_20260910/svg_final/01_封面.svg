@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <radialGradient id="panelWash" cx="85%" cy="12%" r="60%">
+      <stop offset="0%" stop-color="#0F4C81" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0F4C81" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+    <rect x="0" y="0" width="1280" height="720" fill="url(#panelWash)" />
+  </g>
+
+  <g id="cover-kicker">
+    <text x="56" y="132" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#8A94A2" letter-spacing="2">T 站海外数据 · SGP 集群 · 门票业务</text>
+  </g>
+
+  <g id="cover-title">
+    <text font-weight="bold" fill="#0F4C81" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="96" x="56" y="272">T 站门票</text><text font-weight="bold" fill="#0F4C81" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="96" x="56" y="380">语言站流量分析</text><rect x="56" y="418" width="140" height="5" fill="#E8833A" />
+  </g>
+
+  <g id="cover-subtitle">
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="32" x="56" y="484"><tspan>50+ 个语言站里，TOP2 吃下 <tspan fill="#E8833A" font-weight="bold">59%</tspan> 的门票流量</tspan>
+      </text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="32" x="56" y="528">投放必须一站一策</text></g>
+
+  <g id="cover-chart">
+    <text x="1220" y="170" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">50+ 个语言站 · PV 分布</text>
+    <path fill="#0F4C81" d="M803,210 H1217 A3,3 0 0 1 1220,213 V221 A3,3 0 0 1 1217,224 H803 A3,3 0 0 1 800,221 V213 A3,3 0 0 1 803,210 Z" />
+    <path fill="#E8833A" d="M818,242 H1217 A3,3 0 0 1 1220,245 V253 A3,3 0 0 1 1217,256 H818 A3,3 0 0 1 815,253 V245 A3,3 0 0 1 818,242 Z" />
+    <path fill="#D5DDE6" d="M1120,274 H1217 A3,3 0 0 1 1220,277 V285 A3,3 0 0 1 1217,288 H1120 A3,3 0 0 1 1117,285 V277 A3,3 0 0 1 1120,274 Z" />
+    <path fill="#D5DDE6" d="M1121,306 H1217 A3,3 0 0 1 1220,309 V317 A3,3 0 0 1 1217,320 H1121 A3,3 0 0 1 1118,317 V309 A3,3 0 0 1 1121,306 Z" />
+    <path fill="#D5DDE6" d="M1176,338 H1217 A3,3 0 0 1 1220,341 V349 A3,3 0 0 1 1217,352 H1176 A3,3 0 0 1 1173,349 V341 A3,3 0 0 1 1176,338 Z" />
+    <path fill="#D5DDE6" d="M1184,370 H1217 A3,3 0 0 1 1220,373 V381 A3,3 0 0 1 1217,384 H1184 A3,3 0 0 1 1181,381 V373 A3,3 0 0 1 1184,370 Z" />
+    <path fill="#D5DDE6" d="M1187,402 H1217 A3,3 0 0 1 1220,405 V413 A3,3 0 0 1 1217,416 H1187 A3,3 0 0 1 1184,413 V405 A3,3 0 0 1 1187,402 Z" />
+    <path fill="#D5DDE6" d="M1190,434 H1217 A3,3 0 0 1 1220,437 V445 A3,3 0 0 1 1217,448 H1190 A3,3 0 0 1 1187,445 V437 A3,3 0 0 1 1190,434 Z" />
+    <path fill="#D5DDE6" d="M1194,466 H1217 A3,3 0 0 1 1220,469 V477 A3,3 0 0 1 1217,480 H1194 A3,3 0 0 1 1191,477 V469 A3,3 0 0 1 1194,466 Z" />
+    <path fill="#D5DDE6" d="M1195,498 H1217 A3,3 0 0 1 1220,501 V509 A3,3 0 0 1 1217,512 H1195 A3,3 0 0 1 1192,509 V501 A3,3 0 0 1 1195,498 Z" />
+    <line x1="800" y1="536" x2="1220" y2="536" stroke="#D5DDE6" stroke-width="1" />
+    <text x="1220" y="600" text-anchor="end" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">59%</text>
+    <text x="1220" y="634" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">TOP2（zh-hk + en-sg）合计 PV 占比</text>
+  </g>
+
+  <g id="cover-footer">
+    <line x1="56" y1="572" x2="700" y2="572" stroke="#D5DDE6" stroke-width="1" />
+    <text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" x="56" y="612">数据窗口 8/10–8/17（截止 2026-08-17）· 站点口径 = locale 语言站</text><text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" x="56" y="640">PV = count(distinct com_pv) · UV = count(distinct vid) · 流量来源 = trip_channel</text></g>
+</svg>

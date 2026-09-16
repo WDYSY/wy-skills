@@ -1,0 +1,12 @@
+{
+  "schema": "template_fill_pptx_validate.v1",
+  "project": "/Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/ttd_template_fill_ppt169_20260904",
+  "export": "/Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/ttd_template_fill_ppt169_20260904/exports/ttd_language_traffic_20260904_140700.pptx",
+  "readback": "/Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/ttd_template_fill_ppt169_20260904/validation/readback.md",
+  "summary": {
+    "ok": 10,
+    "warn": 0,
+    "error": 0
+  },
+  "results": []
+}

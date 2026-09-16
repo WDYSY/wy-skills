@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">en-sg 新加坡英文：Push 驱动型，依赖度 23% 全站最高</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">新加坡站 PV 体量全站第二，却最依赖 Push 召回。</text>
+    <line x1="60" y1="150" x2="1220" y2="150" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="site-volume">
+    <text x="60" y="196" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">站点体量</text>
+    <text x="60" y="262" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">PV 581,867</text>
+    <text x="60" y="306" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">PV 占比 29.0% · 全站第二</text>
+    <text x="60" y="342" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">UV 37,249</text>
+    <line x1="60" y1="378" x2="620" y2="378" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="site-channels">
+    <text x="60" y="406" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">渠道结构（按该站自身占比）</text>
+
+    <text x="60" y="433" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">站内</text>
+    <rect x="190" y="418" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="418" width="244.0" height="20" rx="4" fill="#0F4C81"/>
+    <text x="620" y="433" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#0F4C81">42.7%</text>
+
+    <text x="60" y="471" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">APP-PUSH</text>
+    <rect x="190" y="456" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="456" width="131.4" height="20" rx="4" fill="#E8833A"/>
+    <text x="620" y="471" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">23.0%</text>
+
+    <text x="60" y="509" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">Partner</text>
+    <rect x="190" y="494" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="494" width="61.7" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="620" y="509" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">10.8%</text>
+
+    <text x="60" y="547" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">SEO</text>
+    <rect x="190" y="532" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="532" width="69.1" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="620" y="547" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">12.1%</text>
+
+    <text x="60" y="585" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">PPC</text>
+    <rect x="190" y="570" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="570" width="42.3" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="620" y="585" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">7.4%</text>
+
+    <text x="60" y="623" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">其他/EDM</text>
+    <rect x="190" y="608" width="400" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="190" y="608" width="22.9" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="620" y="623" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">4.0%</text>
+  </g>
+
+  <g id="insight-push">
+    <use data-icon="tabler-outline/bell" x="680" y="196" width="28" height="28" fill="#E8833A" stroke-width="2"/>
+    <text x="720" y="220" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#E8833A">Push 依赖度六站最高</text>
+    <text x="680" y="268" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">
+      <tspan x="680" dy="0">APP-PUSH 23% 是六站里最高的，</tspan>
+      <tspan x="680" dy="34">而 PV 体量又是全站第二——</tspan>
+      <tspan x="680" dy="34">这一站高度依赖 Push 召回。</tspan>
+    </text>
+  </g>
+
+  <g id="insight-binding">
+    <line x1="680" y1="376" x2="1220" y2="376" stroke="#D5DDE6" stroke-width="1"/>
+    <use data-icon="tabler-outline/device-mobile" x="680" y="400" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="720" y="424" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">Push 节奏即大盘节奏</text>
+    <text x="680" y="472" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">
+      <tspan x="680" dy="0">这一结构很可能与 BIGBANG 新加坡</tspan>
+      <tspan x="680" dy="34">演唱会等演出的开票提醒强绑定。</tspan>
+    </text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据窗口 2026-08-10 至 2026-08-17 · 站点口径 = locale 语言站</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P09 / 12</text>
+  </g>
+</svg>

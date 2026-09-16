@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P05 - 平台化四层能力架构</title>
+  <desc>四层产品能力框架，anchor类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P05 · 平台架构</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">可产品化方案必须同时具备</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">Agent、编排、工作台与治理四层能力</text>
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <!-- 副标题 -->
+  <text x="64" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">企业最终买单的是治理与工作流能力，而不只是模型本身</text>
+
+  <!-- 四层架构垂直堆叠 -->
+  <!-- Layer 1: Control Plane (top, accent) -->
+  <g transform="translate(64, 228)">
+    <rect x="0" y="0" width="1152" height="96" rx="12" fill="#17324D"/>
+    <!-- 图标：盾牌 -->
+    <g transform="translate(24, 18)" stroke="white" stroke-width="2" fill="none">
+      <path d="M16 4 L4 10 L4 20 C4 26 10 30 16 32 C22 30 28 26 28 20 L28 10 Z"/>
+      <polyline points="11,18 15,22 21,14"/>
+    </g>
+    <text x="80" y="38" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="white">Control Plane</text>
+    <text x="80" y="66" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#8A94A1">治理与安全层：权限管理、审计日志、合规策略、跨系统策略配置</text>
+    <!-- 标签 -->
+    <rect x="1040" y="28" width="88" height="40" rx="8" fill="#1F6FB2"/>
+    <text x="1084" y="54" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="white" text-anchor="middle">企业必需</text>
+  </g>
+
+  <!-- Layer 2: Orchestrator (accent) -->
+  <g transform="translate(64, 340)">
+    <rect x="0" y="0" width="1152" height="96" rx="12" fill="#1F6FB2"/>
+    <!-- 图标：路由 -->
+    <g transform="translate(24, 18)" stroke="white" stroke-width="2" fill="none">
+      <circle cx="8" cy="32" r="6"/>
+      <line x1="8" y1="26" x2="8" y2="8"/>
+      <polyline points="4,14 8,8 12,14"/>
+      <line x1="8" y1="8" x2="24" y2="8"/>
+      <circle cx="24" cy="8" r="6"/>
+    </g>
+    <text x="80" y="38" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="white">Orchestrator</text>
+    <text x="80" y="66" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#D8DEE6">智能路由层：多 Agent 协同编排、意图识别、任务分发与状态管理</text>
+    <rect x="1040" y="28" width="88" height="40" rx="8" fill="white"/>
+    <text x="1084" y="54" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="#1F6FB2" text-anchor="middle">核心能力</text>
+  </g>
+
+  <!-- Layer 3: Agent Studio -->
+  <g transform="translate(64, 452)">
+    <rect x="0" y="0" width="1152" height="96" rx="12" fill="#EEF1F4" stroke="#7FA9D6" stroke-width="2"/>
+    <!-- 图标：机器人 -->
+    <g transform="translate(24, 18)" stroke="#1F6FB2" stroke-width="2" fill="none">
+      <rect x="4" y="10" width="24" height="18" rx="6"/>
+      <circle cx="10" cy="18" r="2" fill="#1F6FB2"/>
+      <circle cx="22" cy="18" r="2" fill="#1F6FB2"/>
+      <line x1="16" y1="4" x2="16" y2="10"/>
+      <circle cx="16" cy="4" r="3"/>
+    </g>
+    <text x="80" y="38" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">Agent Studio</text>
+    <text x="80" y="66" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">模型与技能层：多模型接入、技能配置、知识库挂载、记忆管理</text>
+    <rect x="1040" y="28" width="88" height="40" rx="8" fill="#7FA9D6"/>
+    <text x="1084" y="54" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="white" text-anchor="middle">智能引擎</text>
+  </g>
+
+  <!-- Layer 4: Workspace -->
+  <g transform="translate(64, 564)">
+    <rect x="0" y="0" width="1152" height="96" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="2"/>
+    <!-- 图标：工作台 -->
+    <g transform="translate(24, 18)" stroke="#5B6773" stroke-width="2" fill="none">
+      <rect x="2" y="4" width="28" height="20" rx="3"/>
+      <line x1="2" y1="10" x2="30" y2="10"/>
+      <line x1="10" y1="24" x2="10" y2="30"/>
+      <line x1="22" y1="24" x2="22" y2="30"/>
+      <line x1="6" y1="30" x2="26" y2="30"/>
+    </g>
+    <text x="80" y="38" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="600" fill="#17324D">Workspace</text>
+    <text x="80" y="66" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">用户交互层：坐席工作台、销售支持界面、CRM 深度集成、操作入口统一</text>
+    <rect x="1040" y="28" width="88" height="40" rx="8" fill="#D8DEE6"/>
+    <text x="1084" y="54" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" font-weight="600" fill="#5B6773" text-anchor="middle">用户触点</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P05</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">3 / 6</text>
+</svg>

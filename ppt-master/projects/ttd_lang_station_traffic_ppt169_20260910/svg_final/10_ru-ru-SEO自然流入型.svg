@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81" />
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">ru-ru 俄语：SEO 自然流入型，占比 28.4% 全站最高</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">俄罗斯用户大量通过搜索引擎自然流入，对投放依赖低。</text>
+    <path fill="#EEF2F6" d="M1057,92 H1203 A17,17 0 0 1 1220,109 V109 A17,17 0 0 1 1203,126 H1057 A17,17 0 0 1 1040,109 V109 A17,17 0 0 1 1057,92 Z" />
+    <text x="1130" y="116" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="bold" fill="#E8833A">结构最特殊</text>
+    <line x1="60" y1="150" x2="1220" y2="150" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="site-volume">
+    <text x="60" y="196" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">站点体量</text>
+    <text x="60" y="262" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">PV 68,933</text>
+    <text x="60" y="306" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">PV 占比 3.4% · 语言站第 5 位</text>
+    <text x="60" y="342" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">UV 16,647</text>
+    <line x1="60" y1="378" x2="620" y2="378" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="site-channels">
+    <text x="60" y="406" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">渠道结构（按该站自身占比）</text>
+
+    <text x="60" y="433" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">站内</text>
+    <path fill="#E7EDF3" d="M194,418 H586 A4,4 0 0 1 590,422 V434 A4,4 0 0 1 586,438 H194 A4,4 0 0 1 190,434 V422 A4,4 0 0 1 194,418 Z" />
+    <path fill="#0F4C81" d="M194,418 H367.10 A4,4 0 0 1 371.10,422 V434 A4,4 0 0 1 367.10,438 H194 A4,4 0 0 1 190,434 V422 A4,4 0 0 1 194,418 Z" />
+    <text x="620" y="433" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#0F4C81">31.7%</text>
+
+    <text x="60" y="471" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">APP-PUSH</text>
+    <path fill="#E7EDF3" d="M194,456 H586 A4,4 0 0 1 590,460 V472 A4,4 0 0 1 586,476 H194 A4,4 0 0 1 190,472 V460 A4,4 0 0 1 194,456 Z" />
+    <path fill="#4A90C4" fill-opacity="0.55" d="M194,456 H268.90 A4,4 0 0 1 272.90,460 V472 A4,4 0 0 1 268.90,476 H194 A4,4 0 0 1 190,472 V460 A4,4 0 0 1 194,456 Z" />
+    <text x="620" y="471" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">14.5%</text>
+
+    <text x="60" y="509" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">Partner</text>
+    <path fill="#E7EDF3" d="M194,494 H586 A4,4 0 0 1 590,498 V510 A4,4 0 0 1 586,514 H194 A4,4 0 0 1 190,510 V498 A4,4 0 0 1 194,494 Z" />
+    <path fill="#4A90C4" fill-opacity="0.55" d="M194,494 H246.60 A4,4 0 0 1 250.60,498 V510 A4,4 0 0 1 246.60,514 H194 A4,4 0 0 1 190,510 V498 A4,4 0 0 1 194,494 Z" />
+    <text x="620" y="509" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">10.6%</text>
+
+    <text x="60" y="547" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">SEO</text>
+    <path fill="#E7EDF3" d="M194,532 H586 A4,4 0 0 1 590,536 V548 A4,4 0 0 1 586,552 H194 A4,4 0 0 1 190,548 V536 A4,4 0 0 1 194,532 Z" />
+    <path fill="#E8833A" d="M194,532 H348.30 A4,4 0 0 1 352.30,536 V548 A4,4 0 0 1 348.30,552 H194 A4,4 0 0 1 190,548 V536 A4,4 0 0 1 194,532 Z" />
+    <text x="620" y="547" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">28.4%</text>
+
+    <text x="60" y="585" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">PPC</text>
+    <path fill="#E7EDF3" d="M194,570 H586 A4,4 0 0 1 590,574 V586 A4,4 0 0 1 586,590 H194 A4,4 0 0 1 190,586 V574 A4,4 0 0 1 194,570 Z" />
+    <path fill="#4A90C4" fill-opacity="0.55" d="M194,570 H254.60 A4,4 0 0 1 258.60,574 V586 A4,4 0 0 1 254.60,590 H194 A4,4 0 0 1 190,586 V574 A4,4 0 0 1 194,570 Z" />
+    <text x="620" y="585" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">12.0%</text>
+
+    <text x="60" y="623" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">其他/EDM</text>
+    <path fill="#E7EDF3" d="M194,608 H586 A4,4 0 0 1 590,612 V624 A4,4 0 0 1 586,628 H194 A4,4 0 0 1 190,624 V612 A4,4 0 0 1 194,608 Z" />
+    <path fill="#4A90C4" fill-opacity="0.55" d="M194,608 H202 A4,4 0 0 1 206,612 V624 A4,4 0 0 1 202,628 H194 A4,4 0 0 1 190,624 V612 A4,4 0 0 1 194,608 Z" />
+    <text x="620" y="623" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">2.8%</text>
+  </g>
+
+  <g id="insight-seo">
+    
+  <g transform="translate(680, 196) scale(1.16667)" fill="none" stroke="#E8833A" stroke-width="2">
+    <path d="M3 10a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" />
+    <path d="M21 21l-6 -6" />
+  </g>
+    <text x="720" y="220" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#E8833A">SEO 是这一站的主入口</text>
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="680" y="268">SEO 占 28.4%（全站最高）</text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="680" y="302">远超其他渠道，说明俄罗斯</text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="680" y="336">用户大量通过搜索引擎自然流入。</text></g>
+
+  <g id="insight-lowpaid">
+    <line x1="680" y1="376" x2="1220" y2="376" stroke="#D5DDE6" stroke-width="1" />
+    
+  <g transform="translate(680, 400) scale(1.16667)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+    <path d="M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4" />
+    <path d="M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5" />
+  </g>
+    <text x="720" y="424" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">对投放依赖最低</text>
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="680" y="472">站内 31.7% 是六站最低，</text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" x="680" y="506">这一站的流量结构在五站里最特殊。</text></g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据窗口 2026-08-10 至 2026-08-17 · 站点口径 = locale 语言站</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P10 / 12</text>
+  </g>
+</svg>

@@ -1,0 +1,5556 @@
+{
+  "schema": "template_fill_pptx_library.v1",
+  "source_pptx": "/Users/temptrip/Downloads/唯美森系水彩晕染小鹿PPT模板.pptx",
+  "slide_count": 28,
+  "canvas_px": {
+    "width": 1280,
+    "height": 720
+  },
+  "slides": [
+    {
+      "slide_index": 1,
+      "page_type": "cover_candidate",
+      "text_summary": "森系水彩\n于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海\n教育培训PPT模板",
+      "slots": [
+        {
+          "slot_id": "s01_sh18",
+          "role": "title_candidate",
+          "text": "森系水彩",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 983,
+            "y": 145,
+            "width": 149,
+            "height": 430
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh30",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 906,
+            "y": 189,
+            "width": 78,
+            "height": 397
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s01_sh34",
+          "role": "label_candidate",
+          "text": "教育培训PPT模板",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1139,
+            "y": 189,
+            "width": 48,
+            "height": 341
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 2,
+      "page_type": "toc_candidate",
+      "text_summary": "目录\n于时光深处，一分喜欢，\n一分冷暖，心思渐渐入了沧海\n于时光深处，一分喜欢，\n一分冷暖，心思渐渐入了沧海",
+      "slots": [
+        {
+          "slot_id": "s02_sh10",
+          "role": "title_candidate",
+          "text": "目录",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1048,
+            "y": 139,
+            "width": 197,
+            "height": 116
+          },
+          "text_metrics": {
+            "font_size_px": 88.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh18",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 669,
+            "y": 263,
+            "width": 474,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh19",
+          "role": "label_candidate",
+          "text": "一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 634,
+            "y": 381,
+            "width": 575,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh20",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 679,
+            "y": 481,
+            "width": 474,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s02_sh21",
+          "role": "label_candidate",
+          "text": "一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 644,
+            "y": 599,
+            "width": 575,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 3,
+      "page_type": "chapter_candidate",
+      "text_summary": "第一部分\n于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+      "slots": [
+        {
+          "slot_id": "s03_sh29",
+          "role": "title_candidate",
+          "text": "第一部分",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 28,
+            "y": 187,
+            "width": 450,
+            "height": 139
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s03_sh30",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 54,
+            "y": 344,
+            "width": 549,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 4,
+      "page_type": "toc_candidate",
+      "text_summary": "If you haven’t found the public domain images you were looking for at public domain archive.\nFree images and videos you can use anywhere.\ntitle\ncontent\nhttps://www.ypppt.com/",
+      "slots": [
+        {
+          "slot_id": "s04_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 194,
+            "width": 1280,
+            "height": 446
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh15",
+          "role": "body_candidate",
+          "text": "If you haven’t found the public domain images you were looking for at public domain archive.\nFree images and videos you can use anywhere.",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 50,
+            "y": 486,
+            "width": 374,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s04_sh16",
+          "role": "label_candidate",
+          "text": "title\ncontent",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 102,
+            "y": 342,
+            "width": 322,
+            "height": 139
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s04_sh17",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 294,
+            "y": 213,
+            "width": 117,
+            "height": 117
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh20",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh21",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh22",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh23",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s04_sh2",
+          "role": "title_candidate",
+          "text": "https://www.ypppt.com/",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 910,
+            "y": 88,
+            "width": 345,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 5,
+      "page_type": "toc_candidate",
+      "text_summary": "Input\nthe\ntitle content\nI decided to make A list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive.\nFree images and videos you can use anywhere.\nAll images and videos on Pixabay\nYOUR TITLE HERE\nAs a web designer,\nI am always looking for awesome photos to include in my designs and mockups.",
+      "slots": [
+        {
+          "slot_id": "s05_sh14",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 115,
+            "y": 413,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh9",
+          "role": "title_candidate",
+          "text": "Input\nthe\ntitle content",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 96,
+            "y": 118,
+            "width": 321,
+            "height": 223
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s05_sh11",
+          "role": "body_candidate",
+          "text": "I decided to make A list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive.\nFree images and videos you can use anywhere.\nAll images and videos on Pixabay",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 513,
+            "y": 194,
+            "width": 658,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s05_sh12",
+          "role": "title_candidate",
+          "text": "YOUR TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 747,
+            "y": 131,
+            "width": 190,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s05_sh13",
+          "role": "label_candidate",
+          "text": "As a web designer,\nI am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 103,
+            "y": 509,
+            "width": 287,
+            "height": 78
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s05_sh16",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 474,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh17",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 500,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 526,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 553,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 579,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 605,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 631,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh23",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 658,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh24",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 684,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh25",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 710,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh26",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 737,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh27",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 763,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh28",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 789,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh29",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 815,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh30",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 842,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh31",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 868,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh32",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 894,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh33",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 921,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh34",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 947,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh35",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 973,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh36",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1000,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh37",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1026,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh38",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1052,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh39",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1078,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh40",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1105,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh41",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1131,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh42",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1157,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh43",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1184,
+            "y": 337,
+            "width": 26,
+            "height": 325
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh44",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh45",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh46",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s05_sh47",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 6,
+      "page_type": "toc_candidate",
+      "text_summary": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive\nTitle content\nInput\nthe\ntitle content\nAlthough, you’re more than welcome to let me know if you use images for a website.\nFree images and videos you can use anywhere. All images and videos on Pixabay",
+      "slots": [
+        {
+          "slot_id": "s06_sh18",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 43,
+            "y": 163,
+            "width": 935,
+            "height": 484
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 307,
+            "width": 597,
+            "height": 219
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 322,
+            "y": 526,
+            "width": 23,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh12",
+          "role": "body_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 36,
+            "y": 381,
+            "width": 559,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s06_sh13",
+          "role": "label_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 247,
+            "y": 300,
+            "width": 138,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s06_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 256,
+            "y": 352,
+            "width": 120,
+            "height": 5
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh15",
+          "role": "label_candidate",
+          "text": "Input\nthe\ntitle content",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 747,
+            "y": 209,
+            "width": 188,
+            "height": 294
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s06_sh16",
+          "role": "body_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website.\nFree images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 88,
+            "y": 538,
+            "width": 847,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s06_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 725,
+            "y": 300,
+            "width": 59,
+            "height": 101
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh32",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh33",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh34",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s06_sh35",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 7,
+      "page_type": "toc_candidate",
+      "text_summary": "Input\nThe Content\nI decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive.  Although, you’re more than welcome to let me know if you use images for a website\nYOUR TITLE\nUnder the blue below the template input title\nYOUR TITLE\nUnder the blue below the template input title",
+      "slots": [
+        {
+          "slot_id": "s07_sh49",
+          "role": "title_candidate",
+          "text": "Input\nThe Content",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 723,
+            "y": 129,
+            "width": 280,
+            "height": 174
+          },
+          "text_metrics": {
+            "font_size_px": 72.0,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s07_sh50",
+          "role": "body_candidate",
+          "text": "I decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive.  Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 723,
+            "y": 307,
+            "width": 499,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 738,
+            "y": 474,
+            "width": 53,
+            "height": 16
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh51",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 738,
+            "y": 566,
+            "width": 53,
+            "height": 16
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh52",
+          "role": "label_candidate",
+          "text": "YOUR TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 806,
+            "y": 463,
+            "width": 85,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh53",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 806,
+            "y": 498,
+            "width": 401,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh54",
+          "role": "label_candidate",
+          "text": "YOUR TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 806,
+            "y": 560,
+            "width": 85,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh55",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 806,
+            "y": 596,
+            "width": 401,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s07_sh40",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh56",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh57",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s07_sh58",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 8,
+      "page_type": "toc_candidate",
+      "text_summary": "TITLE\nCONTENT\nAlthough, you’re more than welcome to let me know if you use images for a website. Free images and videos you can use anywhere. All images and videos on Pixabay.\nTITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website\nTITLE HERE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nTITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website",
+      "slots": [
+        {
+          "slot_id": "s08_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 247,
+            "y": 115,
+            "width": 287,
+            "height": 181
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh10",
+          "role": "title_candidate",
+          "text": "TITLE\nCONTENT",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 178,
+            "y": 156,
+            "width": 190,
+            "height": 210
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s08_sh11",
+          "role": "body_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website. Free images and videos you can use anywhere. All images and videos on Pixabay.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 126,
+            "y": 385,
+            "width": 438,
+            "height": 78
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh14",
+          "role": "title_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 729,
+            "y": 114,
+            "width": 101,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh15",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 651,
+            "y": 153,
+            "width": 629,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh16",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 729,
+            "y": 440,
+            "width": 101,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh17",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 651,
+            "y": 479,
+            "width": 617,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh20",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 729,
+            "y": 572,
+            "width": 101,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh21",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 651,
+            "y": 623,
+            "width": 629,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s08_sh25",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 671,
+            "y": 116,
+            "width": 44,
+            "height": 35
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh26",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 685,
+            "y": 562,
+            "width": 16,
+            "height": 59
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh27",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 664,
+            "y": 443,
+            "width": 58,
+            "height": 34
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh22",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh23",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh24",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s08_sh28",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 9,
+      "page_type": "chapter_candidate",
+      "text_summary": "第二部分\n于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+      "slots": [
+        {
+          "slot_id": "s09_sh19",
+          "role": "title_candidate",
+          "text": "第二部分",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1058,
+            "y": 28,
+            "width": 149,
+            "height": 441
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s09_sh20",
+          "role": "title_candidate",
+          "text": "于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 980,
+            "y": 77,
+            "width": 78,
+            "height": 397
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 10,
+      "page_type": "content_candidate",
+      "text_summary": "01\n02\n03\n04\n于时光深处，一分喜欢，\nTITLE\nTITLE\nTITLE\nTITLE\nUnder the blue below the template input title\nAlthough, you’re more than welcome to let me know if you use images\nIf you haven’t found the public domain images\nyou were looking\nFree images and videos you can use anywhere.",
+      "slots": [
+        {
+          "slot_id": "s10_sh3",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 149,
+            "y": 0,
+            "width": 249,
+            "height": 473
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s10_sh4",
+          "role": "title_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 601,
+            "y": 80,
+            "width": 40,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh5",
+          "role": "title_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 750,
+            "y": 80,
+            "width": 46,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh6",
+          "role": "title_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 898,
+            "y": 80,
+            "width": 47,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh7",
+          "role": "title_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1047,
+            "y": 80,
+            "width": 46,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh11",
+          "role": "title_candidate",
+          "text": "于时光深处，一分喜欢，",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 159,
+            "y": 7,
+            "width": 220,
+            "height": 486
+          },
+          "text_metrics": {
+            "font_size_px": 80.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh12",
+          "role": "title_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 589,
+            "y": 158,
+            "width": 62,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh13",
+          "role": "title_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 735,
+            "y": 158,
+            "width": 62,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh14",
+          "role": "title_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 885,
+            "y": 158,
+            "width": 62,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh15",
+          "role": "title_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1035,
+            "y": 158,
+            "width": 62,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh16",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 593,
+            "y": 221,
+            "width": 95,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh17",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 731,
+            "y": 221,
+            "width": 103,
+            "height": 145
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s10_sh18",
+          "role": "label_candidate",
+          "text": "If you haven’t found the public domain images\nyou were looking",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 885,
+            "y": 221,
+            "width": 103,
+            "height": 168
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s10_sh19",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1039,
+            "y": 220,
+            "width": 107,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 11,
+      "page_type": "content_candidate",
+      "text_summary": "TITLE\nblue below the template\nTITLE\nblue below the template\nTITLE\nblue below the template\nTITLE\nblue below the template\nI decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+      "slots": [
+        {
+          "slot_id": "s11_sh16",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 708,
+            "y": 156,
+            "width": 234,
+            "height": 234
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh17",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 942,
+            "y": 156,
+            "width": 234,
+            "height": 234
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 708,
+            "y": 390,
+            "width": 234,
+            "height": 234
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 942,
+            "y": 390,
+            "width": 234,
+            "height": 234
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh22",
+          "role": "label_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 791,
+            "y": 281,
+            "width": 54,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh23",
+          "role": "label_candidate",
+          "text": "blue below the template",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 708,
+            "y": 320,
+            "width": 234,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh24",
+          "role": "label_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1025,
+            "y": 281,
+            "width": 54,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh25",
+          "role": "label_candidate",
+          "text": "blue below the template",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 943,
+            "y": 320,
+            "width": 234,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh26",
+          "role": "label_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 791,
+            "y": 530,
+            "width": 54,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh27",
+          "role": "label_candidate",
+          "text": "blue below the template",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 708,
+            "y": 569,
+            "width": 234,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh28",
+          "role": "label_candidate",
+          "text": "TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1025,
+            "y": 530,
+            "width": 54,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh29",
+          "role": "label_candidate",
+          "text": "blue below the template",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 943,
+            "y": 569,
+            "width": 234,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh30",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 797,
+            "y": 208,
+            "width": 50,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh31",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1026,
+            "y": 202,
+            "width": 47,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh32",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1052,
+            "y": 436,
+            "width": 23,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh33",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 794,
+            "y": 458,
+            "width": 62,
+            "height": 47
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh35",
+          "role": "body_candidate",
+          "text": "I decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 178,
+            "y": 548,
+            "width": 530,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s11_sh40",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh41",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh42",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s11_sh43",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 12,
+      "page_type": "toc_candidate",
+      "text_summary": "The\ntitle content\nFree images and videos you can use anywhere. All images and videos on Pixabay\nYOUR TITLE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nYOUR TITLE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nYOUR TITLE\nI decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere. A",
+      "slots": [
+        {
+          "slot_id": "s12_sh15",
+          "role": "title_candidate",
+          "text": "The\ntitle content",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 108,
+            "y": 432,
+            "width": 344,
+            "height": 152
+          },
+          "text_metrics": {
+            "font_size_px": 58.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s12_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 401,
+            "y": 587,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 758,
+            "y": 224,
+            "width": 56,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 754,
+            "y": 489,
+            "width": 71,
+            "height": 44
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 762,
+            "y": 354,
+            "width": 48,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh22",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 241,
+            "width": 385,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh23",
+          "role": "label_candidate",
+          "text": "YOUR TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 205,
+            "width": 94,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh24",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 386,
+            "width": 385,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh25",
+          "role": "label_candidate",
+          "text": "YOUR TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 351,
+            "width": 94,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh26",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 519,
+            "width": 385,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh27",
+          "role": "label_candidate",
+          "text": "YOUR TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 838,
+            "y": 484,
+            "width": 94,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s12_sh29",
+          "role": "body_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 28,
+            "y": 209,
+            "width": 424,
+            "height": 155
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s12_sh28",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh30",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh31",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s12_sh32",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 13,
+      "page_type": "toc_candidate",
+      "text_summary": "Although, you’re more than welcome to let me know if you use images for a website\nAlthough, you’re more than welcome to let me know if you use images for a website\nAlthough, you’re more than welcome to let me know if you use images for a website\nAlthough, you’re more than welcome to let me know if you use images for a website\nThe title content\nThe title content\nThe title content\nThe title content\nUnder the blue below the template input title\nTitle content",
+      "slots": [
+        {
+          "slot_id": "s13_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 183,
+            "y": 273,
+            "width": 159,
+            "height": 159
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh13",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 234,
+            "y": 328,
+            "width": 56,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 443,
+            "y": 273,
+            "width": 159,
+            "height": 159
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 496,
+            "y": 320,
+            "width": 53,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh11",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 704,
+            "y": 273,
+            "width": 159,
+            "height": 159
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 768,
+            "y": 321,
+            "width": 31,
+            "height": 63
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh12",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 965,
+            "y": 273,
+            "width": 159,
+            "height": 159
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh16",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1013,
+            "y": 325,
+            "width": 62,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh17",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 163,
+            "y": 552,
+            "width": 199,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh18",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 429,
+            "y": 552,
+            "width": 199,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh19",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 681,
+            "y": 552,
+            "width": 199,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh20",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 948,
+            "y": 552,
+            "width": 199,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh21",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 167,
+            "y": 484,
+            "width": 189,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh22",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 434,
+            "y": 484,
+            "width": 189,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh23",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 685,
+            "y": 484,
+            "width": 189,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh24",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 953,
+            "y": 484,
+            "width": 189,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh25",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 441,
+            "y": 182,
+            "width": 398,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh26",
+          "role": "title_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 567,
+            "y": 126,
+            "width": 146,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s13_sh27",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh28",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh29",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s13_sh30",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 14,
+      "page_type": "chapter_candidate",
+      "text_summary": "第三部分\n于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+      "slots": [
+        {
+          "slot_id": "s14_sh11",
+          "role": "title_candidate",
+          "text": "第三部分",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 57,
+            "y": 104,
+            "width": 450,
+            "height": 139
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s14_sh12",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 83,
+            "y": 262,
+            "width": 549,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 15,
+      "page_type": "content_candidate",
+      "text_summary": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere. All images and videos on Pixabay\nTITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website\nTITLE HERE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nTITLE HERE\nAs a web designer, I am always looking for awesome photos to",
+      "slots": [
+        {
+          "slot_id": "s15_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 908,
+            "y": 201,
+            "width": 372,
+            "height": 416
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh11",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 201,
+            "width": 428,
+            "height": 135
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 337,
+            "width": 428,
+            "height": 144
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 482,
+            "width": 428,
+            "height": 135
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh22",
+          "role": "body_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 912,
+            "y": 259,
+            "width": 368,
+            "height": 252
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s15_sh23",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 6,
+            "y": 224,
+            "width": 101,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh24",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 6,
+            "y": 275,
+            "width": 405,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh25",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 6,
+            "y": 504,
+            "width": 101,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh26",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 6,
+            "y": 547,
+            "width": 427,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh27",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 296,
+            "y": 360,
+            "width": 110,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh28",
+          "role": "label_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 37,
+            "y": 401,
+            "width": 368,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s15_sh32",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh33",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh34",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s15_sh35",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 16,
+      "page_type": "toc_candidate",
+      "text_summary": "If you haven’t found\nthe public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere.\nAll images and videos on Pixabay\nI decided to make\nA list of some of my favorite sites for free stock photos. Free images and videos you can use anywhere. All images and videos on Pixabay\nThe title content\nUnder the blue below the template input title",
+      "slots": [
+        {
+          "slot_id": "s16_sh3",
+          "role": "title_candidate",
+          "text": "If you haven’t found\nthe public domain images you were looking for at public domain archive\nFree images and videos you can use anywhere.\nAll images and videos on Pixabay",
+          "paragraph_count": 4,
+          "geometry": {
+            "x": 126,
+            "y": 570,
+            "width": 402,
+            "height": 129
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 4
+          }
+        },
+        {
+          "slot_id": "s16_sh4",
+          "role": "body_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos. Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 749,
+            "y": 570,
+            "width": 356,
+            "height": 107
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s16_sh15",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 942,
+            "y": 186,
+            "width": 257,
+            "height": 295
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 81,
+            "y": 186,
+            "width": 257,
+            "height": 295
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh2",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 485,
+            "y": 322,
+            "width": 299,
+            "height": 212
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh23",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 570,
+            "y": 444,
+            "width": 130,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh25",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 511,
+            "y": 477,
+            "width": 248,
+            "height": 29
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s16_sh18",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 42,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh20",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 42,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh21",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 42,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s16_sh22",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 42,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 17,
+      "page_type": "toc_candidate",
+      "text_summary": "TITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website\nTITLE HERE\nAs a web designer, I am always looking for awesome photos to include in my designs and mockups.\nTITLE HERE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nTITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website\nTitle content\nAs a web designer, I am always looking for awesome photos to include in my designs and mockups. I hate b",
+      "slots": [
+        {
+          "slot_id": "s17_sh5",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 103,
+            "y": 290,
+            "width": 1077,
+            "height": 304
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh6",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 361,
+            "y": 290,
+            "width": 261,
+            "height": 304
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh8",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 161,
+            "y": 402,
+            "width": 138,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh9",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 115,
+            "y": 463,
+            "width": 230,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 196,
+            "y": 321,
+            "width": 67,
+            "height": 57
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh11",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1003,
+            "y": 320,
+            "width": 59,
+            "height": 58
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh12",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 420,
+            "y": 402,
+            "width": 138,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh13",
+          "role": "label_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 375,
+            "y": 463,
+            "width": 225,
+            "height": 123
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh14",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 689,
+            "y": 402,
+            "width": 138,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh15",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 640,
+            "y": 463,
+            "width": 240,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh16",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 964,
+            "y": 402,
+            "width": 138,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh17",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 908,
+            "y": 463,
+            "width": 255,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 724,
+            "y": 313,
+            "width": 83,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 466,
+            "y": 315,
+            "width": 36,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s17_sh20",
+          "role": "title_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 496,
+            "y": 50,
+            "width": 287,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s17_sh21",
+          "role": "body_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups. I hate buying stock photos just to use them once.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 189,
+            "y": 118,
+            "width": 903,
+            "height": 64
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 18,
+      "page_type": "content_candidate",
+      "text_summary": "THE TITLE\nTHE TITLE\nTHE TITLE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nAlthough, you’re more than welcome to let me know if you use images for a website\nIf you haven’t found the public domain images you were looking for at Public Domain Archive",
+      "slots": [
+        {
+          "slot_id": "s18_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 609,
+            "y": 249,
+            "width": 77,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 1008,
+            "y": 247,
+            "width": 57,
+            "height": 59
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh12",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 186,
+            "y": 240,
+            "width": 39,
+            "height": 72
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh13",
+          "role": "label_candidate",
+          "text": "THE TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 126,
+            "y": 362,
+            "width": 159,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh14",
+          "role": "label_candidate",
+          "text": "THE TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 568,
+            "y": 362,
+            "width": 159,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh15",
+          "role": "label_candidate",
+          "text": "THE TITLE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 958,
+            "y": 362,
+            "width": 159,
+            "height": 45
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh16",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 96,
+            "y": 471,
+            "width": 376,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh17",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 504,
+            "y": 466,
+            "width": 341,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh18",
+          "role": "label_candidate",
+          "text": "If you haven’t found the public domain images you were looking for at Public Domain Archive",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 904,
+            "y": 466,
+            "width": 356,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s18_sh23",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh24",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh25",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s18_sh26",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 73,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 19,
+      "page_type": "content_candidate",
+      "text_summary": "01\nTITLE HERE\nAs a web designer, I am always looking for awesome photos to include in my designs and mockups.\n03\nTITLE HERE\nAlthough, you’re more than welcome to let me know if you use images for a website\n02\nTITLE HERE\nI decided to make\nA list of some of my favorite sites for free stock photos.\n04\nTITLE HERE\nFree images and videos you can use anywhere. All images and videos on Pixabay\nI decided to make A list of some of my favorite sites for free stock photos.\nIf you haven’t found the public do",
+      "slots": [
+        {
+          "slot_id": "s19_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 164,
+            "y": 171,
+            "width": 212,
+            "height": 370
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh10",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 367,
+            "y": 232,
+            "width": 32,
+            "height": 23
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh21",
+          "role": "label_candidate",
+          "text": "01",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 206,
+            "y": 322,
+            "width": 54,
+            "height": 74
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh34",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 167,
+            "y": 494,
+            "width": 92,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh35",
+          "role": "label_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 136,
+            "y": 534,
+            "width": 197,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh16",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 164,
+            "y": 171,
+            "width": 212,
+            "height": 370
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh17",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 367,
+            "y": 232,
+            "width": 32,
+            "height": 23
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh23",
+          "role": "label_candidate",
+          "text": "03",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 748,
+            "y": 322,
+            "width": 66,
+            "height": 74
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh38",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 709,
+            "y": 494,
+            "width": 92,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh39",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 678,
+            "y": 534,
+            "width": 197,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh13",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 164,
+            "y": 171,
+            "width": 212,
+            "height": 370
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh14",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 367,
+            "y": 232,
+            "width": 32,
+            "height": 23
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh22",
+          "role": "label_candidate",
+          "text": "02",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 475,
+            "y": 322,
+            "width": 64,
+            "height": 74
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh52",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 437,
+            "y": 494,
+            "width": 92,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh53",
+          "role": "label_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos.",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 405,
+            "y": 534,
+            "width": 197,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s19_sh19",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 164,
+            "y": 171,
+            "width": 212,
+            "height": 370
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 367,
+            "y": 232,
+            "width": 32,
+            "height": 23
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh24",
+          "role": "label_candidate",
+          "text": "04",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1023,
+            "y": 322,
+            "width": 63,
+            "height": 74
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh45",
+          "role": "label_candidate",
+          "text": "TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 984,
+            "y": 494,
+            "width": 92,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh46",
+          "role": "label_candidate",
+          "text": "Free images and videos you can use anywhere. All images and videos on Pixabay",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 952,
+            "y": 534,
+            "width": 197,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh57",
+          "role": "body_candidate",
+          "text": "I decided to make A list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive.",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 267,
+            "y": 176,
+            "width": 746,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s19_sh58",
+          "role": "title_candidate",
+          "text": "YOUR TITLE HERE",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 560,
+            "y": 126,
+            "width": 161,
+            "height": 42
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s19_sh47",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh48",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh49",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s19_sh50",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 20,
+      "page_type": "toc_candidate",
+      "text_summary": "Title content\nThe title content\nI decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+      "slots": [
+        {
+          "slot_id": "s20_sh8",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 186,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh10",
+          "role": "title_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 567,
+            "y": 126,
+            "width": 146,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s20_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 398,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh24",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 704,
+            "y": 304,
+            "width": 367,
+            "height": 214
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh25",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 716,
+            "y": 321,
+            "width": 240,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 42.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s20_sh26",
+          "role": "body_candidate",
+          "text": "I decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 716,
+            "y": 383,
+            "width": 343,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s20_sh15",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh16",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh17",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s20_sh18",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 21,
+      "page_type": "toc_candidate",
+      "text_summary": "The title content\nAlthough, you’re more than welcome to let me know if you use images for a website\nThe title content\nAlthough, you’re more than welcome to let me know if you use images for a website\nThe title content\nAlthough, you’re more than welcome to let me know if you use images for a website",
+      "slots": [
+        {
+          "slot_id": "s21_sh4",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 118,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s21_sh8",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 327,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s21_sh9",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 530,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s21_sh30",
+          "role": "title_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 203,
+            "y": 79,
+            "width": 185,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s21_sh31",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 203,
+            "y": 129,
+            "width": 346,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s21_sh32",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 203,
+            "y": 502,
+            "width": 185,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s21_sh33",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 203,
+            "y": 552,
+            "width": 346,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s21_sh36",
+          "role": "label_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 763,
+            "y": 277,
+            "width": 185,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s21_sh37",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 763,
+            "y": 327,
+            "width": 346,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 22,
+      "page_type": "toc_candidate",
+      "text_summary": "Under the blue below the template input title\nTitle content\nThe title content\nAlthough, you’re more than welcome to let me know if you use images for a website",
+      "slots": [
+        {
+          "slot_id": "s22_sh6",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 510,
+            "y": 292,
+            "width": 261,
+            "height": 261
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s22_sh7",
+          "role": "label_candidate",
+          "text": "Under the blue below the template input title",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 518,
+            "y": 420,
+            "width": 244,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s22_sh8",
+          "role": "label_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 567,
+            "y": 368,
+            "width": 146,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s22_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 627,
+            "y": 133,
+            "width": 26,
+            "height": 26
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s22_sh13",
+          "role": "title_candidate",
+          "text": "The title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 763,
+            "y": 92,
+            "width": 185,
+            "height": 48
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s22_sh14",
+          "role": "label_candidate",
+          "text": "Although, you’re more than welcome to let me know if you use images for a website",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 763,
+            "y": 142,
+            "width": 346,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s22_sh15",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 746,
+            "y": 80,
+            "width": 367,
+            "height": 151
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 23,
+      "page_type": "chapter_candidate",
+      "text_summary": "第四部分\n于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+      "slots": [
+        {
+          "slot_id": "s23_sh14",
+          "role": "title_candidate",
+          "text": "第四部分",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 535,
+            "y": 313,
+            "width": 450,
+            "height": 139
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s23_sh15",
+          "role": "label_candidate",
+          "text": "于时光深处，一分喜欢，一分冷暖，心思渐渐入了沧海",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 561,
+            "y": 470,
+            "width": 549,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 32.0,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 24,
+      "page_type": "toc_candidate",
+      "text_summary": "INPUT\nTITLE CONTENT\nA list of some of my favorite\nsites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive",
+      "slots": [
+        {
+          "slot_id": "s24_sh11",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 576,
+            "y": 209,
+            "width": 665,
+            "height": 428
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s24_sh14",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 158,
+            "y": 154,
+            "width": 386,
+            "height": 465
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s24_sh12",
+          "role": "label_candidate",
+          "text": "INPUT\nTITLE CONTENT",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 221,
+            "y": 209,
+            "width": 304,
+            "height": 132
+          },
+          "text_metrics": {
+            "font_size_px": 53.33,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s24_sh13",
+          "role": "body_candidate",
+          "text": "A list of some of my favorite\nsites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 176,
+            "y": 420,
+            "width": 349,
+            "height": 107
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s24_sh15",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s24_sh16",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s24_sh17",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s24_sh18",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 25,
+      "page_type": "toc_candidate",
+      "text_summary": "Input\nthe content\nI decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive\nAs a web designer, I am always looking for awesome photos to include in my designs and mockups.\nTitle content\nIf you haven’t found the public domain images you were looking for at Public Domain Archive. Under the blue below the template input title.\nYour title here\nYour title here\nYour title here\n78%\n82%\n65%",
+      "slots": [
+        {
+          "slot_id": "s25_sh9",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 0,
+            "y": 111,
+            "width": 398,
+            "height": 537
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh13",
+          "role": "label_candidate",
+          "text": "Input\nthe content",
+          "paragraph_count": 2,
+          "geometry": {
+            "x": 20,
+            "y": 182,
+            "width": 355,
+            "height": 165
+          },
+          "text_metrics": {
+            "font_size_px": 64.0,
+            "paragraph_count": 2
+          }
+        },
+        {
+          "slot_id": "s25_sh14",
+          "role": "body_candidate",
+          "text": "I decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 20,
+            "y": 456,
+            "width": 358,
+            "height": 100
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh15",
+          "role": "label_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 20,
+            "y": 356,
+            "width": 355,
+            "height": 55
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh10",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 889,
+            "y": 111,
+            "width": 391,
+            "height": 537
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh16",
+          "role": "label_candidate",
+          "text": "Title content",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 910,
+            "y": 186,
+            "width": 208,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 48.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh17",
+          "role": "body_candidate",
+          "text": "If you haven’t found the public domain images you were looking for at Public Domain Archive. Under the blue below the template input title.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 915,
+            "y": 257,
+            "width": 353,
+            "height": 68
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh18",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 400,
+            "width": 300,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh20",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 400,
+            "width": 247,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh21",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 477,
+            "width": 300,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh22",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 477,
+            "width": 269,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh23",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 553,
+            "width": 300,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh24",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 930,
+            "y": 553,
+            "width": 216,
+            "height": 13
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh25",
+          "role": "label_candidate",
+          "text": "Your title here",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 919,
+            "y": 365,
+            "width": 105,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh26",
+          "role": "label_candidate",
+          "text": "Your title here",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 919,
+            "y": 444,
+            "width": 105,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh27",
+          "role": "label_candidate",
+          "text": "Your title here",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 919,
+            "y": 523,
+            "width": 105,
+            "height": 32
+          },
+          "text_metrics": {
+            "font_size_px": 18.67,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh28",
+          "role": "label_candidate",
+          "text": "78%",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1149,
+            "y": 356,
+            "width": 55,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh29",
+          "role": "label_candidate",
+          "text": "82%",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1149,
+            "y": 434,
+            "width": 55,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh30",
+          "role": "label_candidate",
+          "text": "65%",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 1149,
+            "y": 514,
+            "width": 56,
+            "height": 39
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s25_sh31",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh32",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh33",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s25_sh34",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 26,
+      "page_type": "content_candidate",
+      "text_summary": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.\nI decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive\nI decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive",
+      "slots": [
+        {
+          "slot_id": "s26_sh11",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 2,
+            "y": -3,
+            "width": 1280,
+            "height": 257
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh12",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 2,
+            "y": 463,
+            "width": 1280,
+            "height": 257
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh13",
+          "role": "label_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 421,
+            "y": 254,
+            "width": 862,
+            "height": 209
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh21",
+          "role": "label_candidate",
+          "text": "As a web designer, I am always looking for awesome photos to include in my designs and mockups.",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 293,
+            "y": 129,
+            "width": 733,
+            "height": 36
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s26_sh24",
+          "role": "body_candidate",
+          "text": "I decided to make a list of some of my favorite sites for free stock photos.  If you haven’t found the public domain images you were looking for at Public Domain Archive",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 293,
+            "y": 538,
+            "width": 816,
+            "height": 61
+          },
+          "text_metrics": {
+            "font_size_px": 21.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s26_sh27",
+          "role": "body_candidate",
+          "text": "I decided to make\nA list of some of my favorite sites for free stock photos.\nIf you haven’t found the public domain images you were looking for at public domain archive",
+          "paragraph_count": 3,
+          "geometry": {
+            "x": 570,
+            "y": 308,
+            "width": 695,
+            "height": 87
+          },
+          "text_metrics": {
+            "font_size_px": 26.67,
+            "paragraph_count": 3
+          }
+        },
+        {
+          "slot_id": "s26_sh19",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 580,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh22",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 617,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh25",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 655,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        },
+        {
+          "slot_id": "s26_sh28",
+          "role": "title_candidate",
+          "text": "",
+          "paragraph_count": 0,
+          "geometry": {
+            "x": 693,
+            "y": 58,
+            "width": 15,
+            "height": 15
+          },
+          "text_metrics": {
+            "font_size_px": null,
+            "paragraph_count": 0
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 27,
+      "page_type": "ending_candidate",
+      "text_summary": "谢谢观看",
+      "slots": [
+        {
+          "slot_id": "s27_sh18",
+          "role": "title_candidate",
+          "text": "谢谢观看",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 983,
+            "y": 140,
+            "width": 149,
+            "height": 441
+          },
+          "text_metrics": {
+            "font_size_px": 106.67,
+            "paragraph_count": 1
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    },
+    {
+      "slide_index": 28,
+      "page_type": "ending_candidate",
+      "text_summary": "www.ypppt.com\n更多精品PPT资源尽在—优品PPT！\nPPT模板下载：www.ypppt.com/moban/         节日PPT模板：www.ypppt.com/jieri/\nPPT背景图片：www.ypppt.com/beijing/          PPT图表下载：www.ypppt.com/tubiao/\nPPT素材下载： www.ypppt.com/sucai/            PPT教程下载：www.ypppt.com/jiaocheng/\n字体下载：www.ypppt.com/ziti/                       绘本故事PPT：www.ypppt.com/gushi/\nPPT课件：www.ypppt.com/kejian/",
+      "slots": [
+        {
+          "slot_id": "s28_sh4",
+          "role": "title_candidate",
+          "text": "www.ypppt.com",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 0,
+            "y": 310,
+            "width": 1280,
+            "height": 69
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s28_sh7",
+          "role": "body_candidate",
+          "text": "更多精品PPT资源尽在—优品PPT！",
+          "paragraph_count": 1,
+          "geometry": {
+            "x": 0,
+            "y": 229,
+            "width": 1280,
+            "height": 81
+          },
+          "text_metrics": {
+            "font_size_px": 37.33,
+            "paragraph_count": 1
+          }
+        },
+        {
+          "slot_id": "s28_sh12",
+          "role": "body_candidate",
+          "text": "PPT模板下载：www.ypppt.com/moban/         节日PPT模板：www.ypppt.com/jieri/\nPPT背景图片：www.ypppt.com/beijing/          PPT图表下载：www.ypppt.com/tubiao/\nPPT素材下载： www.ypppt.com/sucai/            PPT教程下载：www.ypppt.com/jiaocheng/\n字体下载：www.ypppt.com/ziti/                       绘本故事PPT：www.ypppt.com/gushi/\nPPT课件：www.ypppt.com/kejian/",
+          "paragraph_count": 5,
+          "geometry": {
+            "x": 271,
+            "y": 412,
+            "width": 725,
+            "height": 178
+          },
+          "text_metrics": {
+            "font_size_px": 16.0,
+            "paragraph_count": 5
+          }
+        }
+      ],
+      "tables": [],
+      "charts": []
+    }
+  ],
+  "plan_contract": {
+    "schema": "template_fill_pptx_plan.v1",
+    "slides": [
+      {
+        "source_slide": 1,
+        "purpose": "封面 / 章节 / 内容 / 结尾",
+        "replacements": [
+          {
+            "slot_id": "s01_sh2",
+            "text": "替换后的文字"
+          }
+        ],
+        "table_edits": [
+          {
+            "table_id": "s01_tbl3",
+            "cells": [
+              {
+                "row": 0,
+                "col": 0,
+                "text": "替换后的单元格"
+              }
+            ]
+          }
+        ],
+        "chart_edits": [
+          {
+            "chart_id": "s01_ch4",
+            "categories": [
+              "A",
+              "B"
+            ],
+            "series": [
+              {
+                "name": "系列1",
+                "values": [
+                  1,
+                  2
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P04 - 最佳切入场景分析</title>
+  <desc>客服与销售支持场景优势分析，dense类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P04 · 场景选择</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">客服与销售支持</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">同时具备高频、强流程与强 ROI 属性</text>
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <!-- 副标题 -->
+  <text x="64" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">这两个场景天然适合 Agent 商业化验证 — 价值可量化、复制有路径</text>
+
+  <!-- 三大属性标签 -->
+  <!-- 左侧大数字指标区 -->
+  <g transform="translate(64, 228)">
+    <rect x="0" y="0" width="520" height="360" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="24" y="40" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#17324D">为何选择这两个场景？</text>
+
+    <!-- 属性1: 高频 -->
+    <g transform="translate(24, 64)">
+      <rect x="0" y="0" width="472" height="80" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="80" rx="3" fill="#1F6FB2"/>
+      <text x="20" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="bold" fill="#1F6FB2">高频 × 标准化 × 复杂性并存</text>
+      <text x="20" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">每天处理大量重复性询问，部分问题需深度分析与多系统查询</text>
+    </g>
+
+    <!-- 属性2: 强知识依赖 -->
+    <g transform="translate(24, 156)">
+      <rect x="0" y="0" width="472" height="80" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="80" rx="3" fill="#2E8B57"/>
+      <text x="20" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="bold" fill="#2E8B57">强知识依赖 + 强流程依赖</text>
+      <text x="20" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">知识库、CRM、工单系统需要实时同步与智能路由</text>
+    </g>
+
+    <!-- 属性3: ROI可量化 -->
+    <g transform="translate(24, 248)">
+      <rect x="0" y="0" width="472" height="80" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="80" rx="3" fill="#17324D"/>
+      <text x="20" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="28" font-weight="bold" fill="#17324D">价值可量化，ROI 直接可见</text>
+      <text x="20" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">响应时长、升级率、线索质量、满意度均可量化追踪</text>
+    </g>
+  </g>
+
+  <!-- 右侧：量化指标矩阵 -->
+  <g transform="translate(608, 228)">
+    <rect x="0" y="0" width="608" height="360" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="24" y="40" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#17324D">关键量化指标</text>
+
+    <!-- KPI 1 -->
+    <g transform="translate(24, 64)">
+      <text x="0" y="20" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">响应时长</text>
+      <text x="0" y="52" font-family="Cambria, SimSun, serif" font-size="36" font-weight="bold" fill="#17324D">↓60%</text>
+      <text x="80" y="52" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">平均响应时间缩短</text>
+      <rect x="0" y="64" width="560" height="6" rx="3" fill="#D8DEE6"/>
+      <rect x="0" y="64" width="336" height="6" rx="3" fill="#1F6FB2"/>
+    </g>
+
+    <!-- KPI 2 -->
+    <g transform="translate(24, 156)">
+      <text x="0" y="20" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">升级率</text>
+      <text x="0" y="52" font-family="Cambria, SimSun, serif" font-size="36" font-weight="bold" fill="#17324D">↓40%</text>
+      <text x="80" y="52" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">不必要人工升级减少</text>
+      <rect x="0" y="64" width="560" height="6" rx="3" fill="#D8DEE6"/>
+      <rect x="0" y="64" width="224" height="6" rx="3" fill="#2E8B57"/>
+    </g>
+
+    <!-- KPI 3 -->
+    <g transform="translate(24, 248)">
+      <text x="0" y="20" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773">线索质量</text>
+      <text x="0" y="52" font-family="Cambria, SimSun, serif" font-size="36" font-weight="bold" fill="#17324D">↑35%</text>
+      <text x="80" y="52" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">高意向线索占比提升</text>
+      <rect x="0" y="64" width="560" height="6" rx="3" fill="#D8DEE6"/>
+      <rect x="0" y="64" width="196" height="6" rx="3" fill="#7FA9D6"/>
+    </g>
+
+    <!-- 底部标注 -->
+    <text x="304" y="360" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1" text-anchor="middle">* 数据为参考行业基准，实际效果因场景而异</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P04</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">2 / 6</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  
+  <rect width="1280" height="720" fill="#0F1B2D" />
+  
+  
+  <circle cx="150" cy="120" r="220" fill="#4FC3F7" fill-opacity="0.08" />
+  <circle cx="1100" cy="150" r="260" fill="#FFB74D" fill-opacity="0.06" />
+  <circle cx="950" cy="550" r="200" fill="#4FC3F7" fill-opacity="0.05" />
+  
+  
+  <line x1="60" y1="180" x2="1220" y2="180" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.3" />
+  <line x1="60" y1="520" x2="1220" y2="520" stroke="#FFB74D" stroke-width="1" stroke-opacity="0.25" />
+  
+  
+  <rect x="60" y="90" width="400" height="4" fill="#4FC3F7" />
+  <rect x="460" y="90" width="200" height="4" fill="#FFB74D" />
+  
+  
+  <text x="60" y="140" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#4FC3F7" letter-spacing="2">IBU 门票 · 语言站流量数据分析</text>
+  
+  
+  <text x="60" y="235" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="72" font-weight="700" fill="#E8F0FA">T站门票语言站</text>
+  <text x="60" y="320" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="72" font-weight="700" fill="#E8F0FA">流量分析</text>
+  
+  
+  <text x="60" y="440" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="68" font-weight="700" fill="#FFB74D">603K+</text>
+  <text x="280" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#8FA8C8">PV</text>
+  
+  
+  <path fill="#4FC3F7" fill-opacity="0.08" stroke="#4FC3F7" stroke-width="1" stroke-opacity="0.4" d="M76,480 H604 A16,16 0 0 1 620,496 V564 A16,16 0 0 1 604,580 H76 A16,16 0 0 1 60,564 V496 A16,16 0 0 1 76,480 Z" />
+  <text x="88" y="518" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="22" fill="#E8F0FA">数据周期：2026-08-10 ～ 08-17 · 完整 7 天</text>
+  <text x="88" y="550" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">口径：SGP 集群 · page_ct='trip' · sub_bu_name='ibu门票'</text>
+  
+  
+  <text x="60" y="640" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#5C7590">运营数据分析 · 2026-09-04</text>
+  
+  
+  <text x="1220" y="660" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">01</text>
+</svg>

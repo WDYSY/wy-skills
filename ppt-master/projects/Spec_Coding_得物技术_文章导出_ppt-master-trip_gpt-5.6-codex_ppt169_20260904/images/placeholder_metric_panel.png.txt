@@ -1,0 +1,1 @@
+Placeholder metric panel planned; if export requires bitmap replacement, generate later.

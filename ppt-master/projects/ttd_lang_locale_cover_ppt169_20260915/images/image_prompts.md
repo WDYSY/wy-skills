@@ -1,0 +1,28 @@
+# Image Generation Prompts
+
+> Auto-generated from `image_prompts.json` by `image_gen.py --render-md`.
+> Do not hand-edit — re-run the command to refresh.
+
+> Project: ttd_lang_locale_cover
+> Generated: 2026-09-15T20:20:00+08:00
+> Color scheme: Primary #2E8BFF | Secondary #F2F7FF | Accent #F5A623
+
+---
+
+### Image 1: cover_bg.png
+
+| Attribute | Value |
+|---|---|
+| Purpose | Cover hero background (Slide 01) — T站门票语言站流量洞察 |
+| Aspect ratio | 16:9 |
+| Image size | 2K |
+| Status | Pending |
+
+**Prompt**:
+
+Clean flat vector illustration with bold geometric shapes and confident solid fills. Crisp outlines define every form with a consistent stroke weight across all elements, and color is applied as flat blocks rather than painterly shading. Composition is grid-aware and balanced, with deliberate negative space carrying as much weight as the filled areas. Every motif is simplified to its essential geometry so it reads instantly at slide scale. The overall feel is modern, professional, and confidently restrained — the design-system aesthetic of a premium analytics product. Color behavior is dark-cinematic: a deep near-black navy field around #0A0E27 covers roughly 70% of the canvas as the low-light cinema background, and the dark field is the identity of the image. Primary azure #2E8BFF carries the lit structural elements — sweeping route arcs, tall light columns, highlighted data traces — at about 22% of canvas weight, with a soft halo glow where the lines bunch together. Accent warm amber #F5A623 appears in only one or two precise emphasis points, such as a single rising peak and one small marker at a route endpoint. The deck's near-white #F2F7FF shows up only as faint hairlines and a few thin separators, never as a large field. Atmospheric field with no dominant subject — restrained color blocks and subtle pattern only; any small geometric anchor sits in a corner or along an edge, never centered, and the center band of the canvas must stay calm to receive SVG title and text overlay. The scene is the abstract world of cross-language travel traffic: a faint geometric globe grid suggested by thin longitude and latitude hairlines anchored in the right third, several elegant arcs sweeping from that globe toward the left, a restrained row of tall thin vertical light columns of varying heights along the bottom edge suggesting ranked site volumes, and scattered small dots with short dotted trails implying visitors flowing between them. Everything stays abstract and unlabeled — no country outlines, no flags, no bordered maps, no charts with axes. Composed as a 16:9 widescreen full-bleed hero cover image at 2K (about 2688x1536): keep the left half and the central band dark and calm enough for a large light-colored SVG title and subtitle overlay, and concentrate the visual energy in the right third and along the bottom edge. NO text of any kind anywhere in the image — no letters, numbers, signs, watermarks, labels, or written symbols. Color values (HEX codes like #0A0E27) and color names are rendering guidance only — do NOT display HEX codes, color names, or palette labels as visible text anywhere in the image. The image must not depict identifiable brand logos, trademarks, or product likenesses.
+
+**Alt Text**:
+> 深色电影感的抽象封面背景：右侧球面网格与流动弧线，底部高低不一的光柱，代表跨语言站的流量分布。
+
+---

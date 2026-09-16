@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D" />
+  <circle cx="1000" cy="100" r="230" fill="#9C6BDB" fill-opacity="0.08" />
+  <circle cx="150" cy="550" r="180" fill="#FFB74D" fill-opacity="0.04" />
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#9C6BDB">重点站点分析 · 03</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">ru-ru 俄语站 — SEO 驱动型</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#9C6BDB" fill-opacity="0.4" />
+
+  <text x="60" y="270" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="80" font-weight="700" fill="#9C6BDB">28.4%</text>
+  <text x="320" y="270" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#8FA8C8">SEO 占比 · 全站最高</text>
+
+  <text x="60" y="315" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="22" fill="#E8F0FA">俄罗斯用户大量通过搜索引擎自然流入</text>
+  <text x="60" y="350" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8">站内占比全站最低（31.7%），对投放依赖低</text>
+
+  <text x="60" y="395" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#5C7590">PV 68,933（第 5 名）</text>
+  <text x="60" y="425" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#5C7590">UV 16,647（第 5 名）</text>
+  <text x="60" y="455" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#5C7590">PV 占比 3.4%</text>
+
+  <path fill="#9C6BDB" fill-opacity="0.08" stroke="#9C6BDB" stroke-width="1" stroke-opacity="0.35" d="M556,170 H1184 A16,16 0 0 1 1200,186 V574 A16,16 0 0 1 1184,590 H556 A16,16 0 0 1 540,574 V186 A16,16 0 0 1 556,170 Z" />
+  <text x="580" y="215" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" font-weight="700" fill="#9C6BDB">渠道构成</text>
+
+  <text x="580" y="265" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">SEO</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M684,252 H1116 A4,4 0 0 1 1120,256 V268 A4,4 0 0 1 1116,272 H684 A4,4 0 0 1 680,268 V256 A4,4 0 0 1 684,252 Z" />
+  <path fill="#9C6BDB" d="M684,252 H801 A4,4 0 0 1 805,256 V268 A4,4 0 0 1 801,272 H684 A4,4 0 0 1 680,268 V256 A4,4 0 0 1 684,252 Z" />
+  <text x="1130" y="268" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#9C6BDB">28.4%</text>
+
+  <text x="580" y="315" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">站内</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M684,302 H1116 A4,4 0 0 1 1120,306 V318 A4,4 0 0 1 1116,322 H684 A4,4 0 0 1 680,318 V306 A4,4 0 0 1 684,302 Z" />
+  <path fill="#4FC3F7" d="M684,302 H815 A4,4 0 0 1 819,306 V318 A4,4 0 0 1 815,322 H684 A4,4 0 0 1 680,318 V306 A4,4 0 0 1 684,302 Z" />
+  <text x="1130" y="318" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#4FC3F7">31.7%</text>
+
+  <text x="580" y="365" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">APP-PUSH</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M684,352 H1116 A4,4 0 0 1 1120,356 V368 A4,4 0 0 1 1116,372 H684 A4,4 0 0 1 680,368 V356 A4,4 0 0 1 684,352 Z" />
+  <path fill="#FFB74D" d="M684,352 H740 A4,4 0 0 1 744,356 V368 A4,4 0 0 1 740,372 H684 A4,4 0 0 1 680,368 V356 A4,4 0 0 1 684,352 Z" />
+  <text x="1130" y="368" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#FFB74D">14.5%</text>
+
+  <text x="580" y="415" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">PPC</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M684,402 H1116 A4,4 0 0 1 1120,406 V418 A4,4 0 0 1 1116,422 H684 A4,4 0 0 1 680,418 V406 A4,4 0 0 1 684,402 Z" />
+  <path fill="#FF6B6B" d="M684,402 H729 A4,4 0 0 1 733,406 V418 A4,4 0 0 1 729,422 H684 A4,4 0 0 1 680,418 V406 A4,4 0 0 1 684,402 Z" />
+  <text x="1130" y="418" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#FF6B6B">12.0%</text>
+
+  <text x="580" y="465" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">Partner</text>
+  <path fill="#1A2D4A" fill-opacity="0.8" d="M684,452 H1116 A4,4 0 0 1 1120,456 V468 A4,4 0 0 1 1116,472 H684 A4,4 0 0 1 680,468 V456 A4,4 0 0 1 684,452 Z" />
+  <path fill="#4CAF50" d="M684,452 H723 A4,4 0 0 1 727,456 V468 A4,4 0 0 1 723,472 H684 A4,4 0 0 1 680,468 V456 A4,4 0 0 1 684,452 Z" />
+  <text x="1130" y="468" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" font-weight="700" fill="#4CAF50">10.6%</text>
+
+  <path fill="#1A2D4A" fill-opacity="0.6" stroke="#9C6BDB" stroke-width="1" stroke-opacity="0.4" d="M76,480 H484 A16,16 0 0 1 500,496 V574 A16,16 0 0 1 484,590 H76 A16,16 0 0 1 60,574 V496 A16,16 0 0 1 76,480 Z" />
+  <text x="88" y="515" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="22" font-weight="700" fill="#9C6BDB">运营策略</text>
+  <text x="88" y="550" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">加大 SEO 内容建设</text>
+  <text x="88" y="578" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">关键词覆盖 + 自然流量增长</text>
+
+  <text x="60" y="660" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext</text>
+  <text x="1220" y="660" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">09</text>
+</svg>

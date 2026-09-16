@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P06 - 端到端协同闭环</title>
+  <desc>客服到销售支持闭环，dense类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P06 · 业务闭环</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">从一次客户问题开始</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">可串起服务、判断、跟进与回写全链路</text>
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <text x="64" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">协同价值高于单个 Agent 的局部提效 — 端到端闭环才是平台差异所在</text>
+
+  <!-- 流程图主体：4阶段横向 + 2个回写箭头 -->
+  <!-- 阶段节点 -->
+  <!-- Node 1: 客户问题进入 -->
+  <g transform="translate(64, 240)">
+    <rect x="0" y="0" width="240" height="120" rx="12" fill="#1F6FB2"/>
+    <text x="120" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="white" text-anchor="middle">① 客户问题进入</text>
+    <text x="120" y="60" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#D8DEE6" text-anchor="middle">多渠道接入</text>
+    <text x="120" y="84" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#D8DEE6" text-anchor="middle">（IM / 电话 / 表单）</text>
+    <text x="120" y="108" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1" text-anchor="middle">Trigger Point</text>
+  </g>
+
+  <!-- 箭头1 -->
+  <g transform="translate(304, 282)">
+    <line x1="0" y1="18" x2="64" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="56,12 64,18 56,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+    <text x="32" y="10" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">AI 分析</text>
+  </g>
+
+  <!-- Node 2: 分类/检索/建议/升级 -->
+  <g transform="translate(368, 240)">
+    <rect x="0" y="0" width="240" height="120" rx="12" fill="#EEF1F4" stroke="#1F6FB2" stroke-width="2"/>
+    <text x="120" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">② 智能处理</text>
+    <text x="120" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933" text-anchor="middle">意图识别 · 知识检索</text>
+    <text x="120" y="80" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933" text-anchor="middle">建议生成 · 智能升级</text>
+    <rect x="60" y="94" width="120" height="22" rx="6" fill="#2E8B57" opacity="0.15"/>
+    <text x="120" y="110" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#2E8B57" text-anchor="middle">自动解决率 ↑</text>
+  </g>
+
+  <!-- 箭头2 -->
+  <g transform="translate(608, 282)">
+    <line x1="0" y1="18" x2="64" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="56,12 64,18 56,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+    <text x="32" y="10" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">线索发现</text>
+  </g>
+
+  <!-- Node 3: 潜在线索同步到销售 -->
+  <g transform="translate(672, 240)">
+    <rect x="0" y="0" width="240" height="120" rx="12" fill="#EEF1F4" stroke="#17324D" stroke-width="2"/>
+    <text x="120" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">③ 线索同步</text>
+    <text x="120" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933" text-anchor="middle">高意向客户自动标记</text>
+    <text x="120" y="80" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933" text-anchor="middle">→ 销售支持队列</text>
+    <rect x="60" y="94" width="120" height="22" rx="6" fill="#1F6FB2" opacity="0.15"/>
+    <text x="120" y="110" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#1F6FB2" text-anchor="middle">Sales Lead ↑</text>
+  </g>
+
+  <!-- 箭头3 -->
+  <g transform="translate(912, 282)">
+    <line x1="0" y1="18" x2="64" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="56,12 64,18 56,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+    <text x="32" y="10" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">自动回写</text>
+  </g>
+
+  <!-- Node 4: CRM/工单/分析回写 -->
+  <g transform="translate(976, 240)">
+    <rect x="0" y="0" width="240" height="120" rx="12" fill="#17324D"/>
+    <text x="120" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="white" text-anchor="middle">④ 结果回写</text>
+    <text x="120" y="58" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#D8DEE6" text-anchor="middle">CRM · 工单 · 分析</text>
+    <text x="120" y="80" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#D8DEE6" text-anchor="middle">全链路记录可追溯</text>
+    <text x="120" y="108" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="middle">闭环完成</text>
+  </g>
+
+  <!-- 底部：回写循环箭头 -->
+  <g transform="translate(64, 392)">
+    <rect x="0" y="0" width="1152" height="100" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="24" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#17324D">全链路数据闭环价值</text>
+
+    <!-- 三个价值点 -->
+    <g transform="translate(24, 46)">
+      <circle cx="8" cy="8" r="6" fill="#1F6FB2"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">会话记录自动归档 → 知识沉淀</text>
+    </g>
+    <g transform="translate(400, 46)">
+      <circle cx="8" cy="8" r="6" fill="#2E8B57"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">升级决策可审计 → 合规可控</text>
+    </g>
+    <g transform="translate(760, 46)">
+      <circle cx="8" cy="8" r="6" fill="#7FA9D6"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">线索质量实时量化 → 销售赋能</text>
+    </g>
+
+    <!-- 回写循环线 -->
+    <g transform="translate(960, 56)" stroke="#7FA9D6" stroke-width="2" fill="none">
+      <path d="M0 8 C60 8, 80 -20, 140 -20 C200 -20, 200 36, 140 36 C80 36, 60 8, 0 8"/>
+      <polyline points="10,0 0,8 10,16"/>
+    </g>
+    <text x="1030" y="74" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773">数据循环</text>
+  </g>
+
+  <!-- 关键指标总结 -->
+  <g transform="translate(64, 520)">
+    <rect x="0" y="0" width="1152" height="100" rx="12" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+    <text x="24" y="30" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#17324D">闭环关键指标</text>
+    <!-- 4个指标 -->
+    <g transform="translate(24, 46)">
+      <text x="0" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F6FB2" font-weight="600">端到端时长</text>
+      <text x="100" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773"> &lt; 4h</text>
+    </g>
+    <g transform="translate(280, 46)">
+      <text x="0" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#2E8B57" font-weight="600">自动解决率</text>
+      <text x="110" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773"> &gt; 70%</text>
+    </g>
+    <g transform="translate(520, 46)">
+      <text x="0" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#17324D" font-weight="600">线索转化率</text>
+      <text x="110" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773"> +35%</text>
+    </g>
+    <g transform="translate(760, 46)">
+      <text x="0" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#7FA9D6" font-weight="600">数据完整率</text>
+      <text x="110" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#5B6773"> 100%</text>
+    </g>
+    <text x="1152" y="74" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1" text-anchor="end">全流程可追踪、可量化、可复盘</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P06</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">4 / 6</text>
+</svg>

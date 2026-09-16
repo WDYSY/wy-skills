@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <linearGradient id="coverScrim" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A1220" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#0A1220" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0A1220" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#0A1220"/>
+    <image href="../images/cover_bg.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice"/>
+    <rect width="1280" height="720" fill="url(#coverScrim)"/>
+  </g>
+
+  <g id="cover-kicker">
+    <text x="88" y="176" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="20" fill="#9FB3CC" letter-spacing="2">T 站门票 · 海外流量分析</text>
+  </g>
+
+  <g id="cover-title">
+    <text x="88" y="268" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="64" font-weight="bold" fill="#F2F7FF">语言站流量洞察</text>
+    <rect x="88" y="300" width="120" height="3" fill="#F5A623"/>
+  </g>
+
+  <g id="cover-subtitle">
+    <text x="88" y="356" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" fill="#9FB3CC">
+      <tspan x="88" dy="0">2026-08-10 — 08-17 · 50+ 个语言站</tspan>
+      <tspan x="88" dy="44">SGP 集群 · locale 口径</tspan>
+    </text>
+  </g>
+
+  <g id="cover-stats">
+    <line x1="88" y1="520" x2="560" y2="520" stroke="#1E3350" stroke-width="1"/>
+    <text x="88" y="560" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="48" font-weight="bold" fill="#F5A623">50+</text>
+    <text x="88" y="592" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#9FB3CC">语言站</text>
+    <text x="248" y="560" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="48" font-weight="bold" fill="#F5A623">59%</text>
+    <text x="248" y="592" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#9FB3CC">TOP2 集中度</text>
+    <text x="408" y="560" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="48" font-weight="bold" fill="#F5A623">88.6%</text>
+    <text x="408" y="592" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#9FB3CC">TOP10 覆盖</text>
+  </g>
+
+  <g id="cover-footer">
+    <text x="88" y="688" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#9FB3CC">数据源 dw_ticketdb.edw_log_ttd_traffic_order_d_ext</text>
+  </g>
+</svg>

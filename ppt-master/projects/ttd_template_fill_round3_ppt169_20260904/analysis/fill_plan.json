@@ -1,0 +1,398 @@
+{
+  "schema": "template_fill_pptx_plan.v1",
+  "status": "confirmed",
+  "source_pptx": "/Users/temptrip/Downloads/唯美森系水彩晕染小鹿PPT模板.pptx",
+  "accepted_warnings": [],
+  "slides": [
+    {
+      "source_slide": 1,
+      "purpose": "cover",
+      "layout_rationale": {
+        "layout_pattern": "hero cover",
+        "why_fit": "封面的大标题+副标题结构适合承载主题、口径和产出标识。",
+        "risk": "副标题过长会挤压版心。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s01_sh1",
+          "text": "T站门票语言站流量周报"
+        },
+        {
+          "slot_id": "s01_sh2",
+          "text": "SGP集群｜2026-08-10 至 2026-08-17｜按 locale 统计语言站流量"
+        },
+        {
+          "slot_id": "s01_sh3",
+          "text": "唯美森系水彩模板 · ppt-master-trip · gpt-5"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 2,
+      "purpose": "toc",
+      "layout_rationale": {
+        "layout_pattern": "two-section agenda",
+        "why_fit": "目录页只需四个短句，能清晰建立阅读路径。",
+        "risk": "每条目录需控制在一行内。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s02_sh1",
+          "text": "目录"
+        },
+        {
+          "slot_id": "s02_sh2",
+          "text": "01 头部站点格局"
+        },
+        {
+          "slot_id": "s02_sh3",
+          "text": "TOP10规模与集中度"
+        },
+        {
+          "slot_id": "s02_sh4",
+          "text": "02 渠道结构差异"
+        },
+        {
+          "slot_id": "s02_sh5",
+          "text": "核心站点流量来源对比"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 3,
+      "purpose": "chapter",
+      "layout_rationale": {
+        "layout_pattern": "chapter divider",
+        "why_fit": "章节页适合切入第一结论。",
+        "risk": "只适合一句主结论。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s03_sh1",
+          "text": "第一部分"
+        },
+        {
+          "slot_id": "s03_sh2",
+          "text": "头部语言站格局：TOP2吃掉近六成PV"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 10,
+      "purpose": "summary",
+      "layout_rationale": {
+        "layout_pattern": "four-key-messages",
+        "why_fit": "四卡片摘要页适合先讲结论，再展开数据。",
+        "risk": "正文需压缩为短句。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s10_sh2",
+          "text": "01"
+        },
+        {
+          "slot_id": "s10_sh3",
+          "text": "02"
+        },
+        {
+          "slot_id": "s10_sh4",
+          "text": "03"
+        },
+        {
+          "slot_id": "s10_sh5",
+          "text": "04"
+        },
+        {
+          "slot_id": "s10_sh6",
+          "text": "核心发现"
+        },
+        {
+          "slot_id": "s10_sh7",
+          "text": "TOP2占59%"
+        },
+        {
+          "slot_id": "s10_sh8",
+          "text": "TOP10占88.6%"
+        },
+        {
+          "slot_id": "s10_sh9",
+          "text": "港新双核驱动"
+        },
+        {
+          "slot_id": "s10_sh10",
+          "text": "俄韩新马跟进"
+        },
+        {
+          "slot_id": "s10_sh11",
+          "text": "语言站流量高度集中，前两站已覆盖近六成PV。"
+        },
+        {
+          "slot_id": "s10_sh12",
+          "text": "zh-hk与en-sg双站并列头部，体量显著高于其他站点。"
+        },
+        {
+          "slot_id": "s10_sh13",
+          "text": "第二梯队由zh-tw、en-my、ru-ru、ko-kr等站组成，形成补充盘。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 11,
+      "purpose": "top4",
+      "layout_rationale": {
+        "layout_pattern": "four-card comparison",
+        "why_fit": "四宫格能承载TOP4站点的对比信息。",
+        "risk": "数值文字较长，需避免换行过多。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s11_sh5",
+          "text": "zh-hk 香港繁体"
+        },
+        {
+          "slot_id": "s11_sh6",
+          "text": "PV 603,658｜占比30.1%｜UV 49,043"
+        },
+        {
+          "slot_id": "s11_sh7",
+          "text": "en-sg 新加坡英文"
+        },
+        {
+          "slot_id": "s11_sh8",
+          "text": "PV 581,867｜占比29.0%｜UV 37,249"
+        },
+        {
+          "slot_id": "s11_sh9",
+          "text": "zh-tw 台湾繁体"
+        },
+        {
+          "slot_id": "s11_sh10",
+          "text": "PV 148,331｜占比7.4%｜UV 28,092"
+        },
+        {
+          "slot_id": "s11_sh11",
+          "text": "en-my 马来英文"
+        },
+        {
+          "slot_id": "s11_sh12",
+          "text": "PV 146,071｜占比7.3%｜UV 11,297"
+        },
+        {
+          "slot_id": "s11_sh17",
+          "text": "TOP4中，港新两站形成绝对头部；台湾与马来站构成第二梯队，单站体量约为头部的四分之一。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 19,
+      "purpose": "long_tail",
+      "layout_rationale": {
+        "layout_pattern": "four-card continuation",
+        "why_fit": "继续沿用同类卡片布局展示5-10名，形成阅读连续性。",
+        "risk": "最后一格需要概括而非堆太多站点。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s19_sh3",
+          "text": "01"
+        },
+        {
+          "slot_id": "s19_sh4",
+          "text": "ru-ru 俄语"
+        },
+        {
+          "slot_id": "s19_sh5",
+          "text": "PV 68,933｜占比3.4%｜UV 16,647"
+        },
+        {
+          "slot_id": "s19_sh8",
+          "text": "03"
+        },
+        {
+          "slot_id": "s19_sh9",
+          "text": "en-id 印尼英文"
+        },
+        {
+          "slot_id": "s19_sh10",
+          "text": "PV 52,135｜占比2.6%｜UV 2,955"
+        },
+        {
+          "slot_id": "s19_sh13",
+          "text": "02"
+        },
+        {
+          "slot_id": "s19_sh14",
+          "text": "ko-kr 韩语"
+        },
+        {
+          "slot_id": "s19_sh15",
+          "text": "PV 55,648｜占比2.8%｜UV 14,796"
+        },
+        {
+          "slot_id": "s19_sh18",
+          "text": "04"
+        },
+        {
+          "slot_id": "s19_sh19",
+          "text": "长尾补充盘"
+        },
+        {
+          "slot_id": "s19_sh20",
+          "text": "zh-my 48,370、zh-sg 42,422、en-xx 39,366，TOP10合计占88.6%。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 9,
+      "purpose": "chapter",
+      "layout_rationale": {
+        "layout_pattern": "chapter divider",
+        "why_fit": "章节分隔适合切入渠道分析。",
+        "risk": "保持一句话结论。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s09_sh1",
+          "text": "第二部分"
+        },
+        {
+          "slot_id": "s09_sh2",
+          "text": "渠道结构分化：同样做门票，不同语言站打法完全不同"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 20,
+      "purpose": "channel-overview",
+      "layout_rationale": {
+        "layout_pattern": "title plus narrative",
+        "why_fit": "该页适合放一个总括段，给后页明细铺垫。",
+        "risk": "正文过长会压缩可读性。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s20_sh2",
+          "text": "核心站渠道画像"
+        },
+        {
+          "slot_id": "s20_sh5",
+          "text": "站内仍是主力，但不同站点对APP-PUSH、SEO、Partner、PPC的依赖差异明显。"
+        },
+        {
+          "slot_id": "s20_sh6",
+          "text": "zh-hk站内占比66.6%居首；en-sg的APP-PUSH占23.0%最强；ru-ru的SEO占28.4%最高；ko-kr与en-my则呈现更均衡的多渠道结构。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 21,
+      "purpose": "channel-cases",
+      "layout_rationale": {
+        "layout_pattern": "three-case comparison",
+        "why_fit": "三列对比页适合放三个最有代表性的站点案例。",
+        "risk": "每个案例必须控制在两句内。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s21_sh4",
+          "text": "zh-hk 香港繁体"
+        },
+        {
+          "slot_id": "s21_sh5",
+          "text": "站内66.6%，为所有站最高；Partner 13.3%为第二抓手，外投依赖较低。"
+        },
+        {
+          "slot_id": "s21_sh6",
+          "text": "en-sg 新加坡英文"
+        },
+        {
+          "slot_id": "s21_sh7",
+          "text": "APP-PUSH 23.0%全站最高，且PV体量全站第二，召回属性非常强。"
+        },
+        {
+          "slot_id": "s21_sh8",
+          "text": "ru-ru 俄语"
+        },
+        {
+          "slot_id": "s21_sh9",
+          "text": "SEO占28.4%远高于其他渠道，搜索自然流入是核心来源。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 22,
+      "purpose": "implication",
+      "layout_rationale": {
+        "layout_pattern": "single insight page",
+        "why_fit": "适合落管理建议和运营动作。",
+        "risk": "长句可能需要人工微调。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s22_sh2",
+          "text": "补充判断"
+        },
+        {
+          "slot_id": "s22_sh3",
+          "text": "en-my 与 ko-kr 更均衡"
+        },
+        {
+          "slot_id": "s22_sh5",
+          "text": "en-my站内55.0%，Partner 16.1%，PPC 8.4%；ko-kr站内44.3%，Partner 15.0%，PPC 11.6%，其他12.9%。"
+        },
+        {
+          "slot_id": "s22_sh6",
+          "text": "整体看，T站门票流量以站内为底盘，但投放侧重必须一站一策：香港重站内经营，新加坡重Push召回，俄语重SEO承接，韩语/马来走多渠道协同。"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    },
+    {
+      "source_slide": 27,
+      "purpose": "ending",
+      "layout_rationale": {
+        "layout_pattern": "closing page",
+        "why_fit": "保留原模板收尾页风格。",
+        "risk": "结束页信息不宜过多。"
+      },
+      "notes": "",
+      "replacements": [
+        {
+          "slot_id": "s27_sh1",
+          "text": "谢谢观看"
+        }
+      ],
+      "table_edits": [],
+      "chart_edits": []
+    }
+  ]
+}

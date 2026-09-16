@@ -1,0 +1,67 @@
+{
+  "canvas": "ppt169",
+  "page_count": "16",
+  "audience": "技术团队、AI Coding 实践者、研发管理者",
+  "content_divergence": "忠于原文事实，适度重组以增强演示表达",
+  "mode": "pyramid",
+  "visual_style": "editorial",
+  "color": {
+    "name": "科技编辑蓝",
+    "note": "克制、专业、适合方法论复盘",
+    "palette": {
+      "background": "#F7F9FC",
+      "secondary_bg": "#EEF3F8",
+      "primary": "#1F4E79",
+      "accent": "#4F8EF7",
+      "secondary_accent": "#7FB3FF",
+      "body_text": "#1F2937"
+    }
+  },
+  "icons": "tabler-outline",
+  "typography": {
+    "name": "现代中文无衬线",
+    "note": "信息清晰，适合技术复盘",
+    "sample_heading": "AI 编程能力边界探索",
+    "sample_heading_latin": "AI Coding in Practice",
+    "sample_body": "用结构化规范把不确定性消除在执行之前",
+    "sample_body_latin": "Use structured specs to reduce uncertainty before execution.",
+    "heading": {
+      "cjk": "思源黑体",
+      "latin": "Inter",
+      "css": "\"Source Han Sans SC\",\"Microsoft YaHei\",Inter,Arial,sans-serif"
+    },
+    "body": {
+      "cjk": "思源黑体",
+      "latin": "Inter",
+      "css": "\"Source Han Sans SC\",\"Microsoft YaHei\",Inter,Arial,sans-serif"
+    },
+    "body_size": 24,
+    "body_size_unit": "px",
+    "sizes": {
+      "title": 42,
+      "subtitle": 30,
+      "annotation": 18
+    }
+  },
+  "delivery_purpose": "balanced",
+  "formula_policy": "text-only",
+  "image_usage": [
+    "ai",
+    "placeholder"
+  ],
+  "image_notes": "封面和章节过渡页用 AI 主视觉；正文分析页以文字、结构图、数据卡片为主；缺图位置允许 placeholder；不做写实人物海报。",
+  "image_ai_path": "auto",
+  "image_strategy": {
+    "name": "方案A",
+    "rendering": "editorial",
+    "palette": "cool-corporate",
+    "visual": "抽象系统界面、流程图层、屏幕与节点拼贴",
+    "color": "冷静蓝灰底，局部高亮蓝色强调",
+    "mood": "专业、理性、具方法论感"
+  },
+  "generation_mode": "continuous",
+  "refine_spec": false,
+  "stage": "final",
+  "status": "confirmed",
+  "confirmed_at": "2026-09-04T15:30:00"
+}

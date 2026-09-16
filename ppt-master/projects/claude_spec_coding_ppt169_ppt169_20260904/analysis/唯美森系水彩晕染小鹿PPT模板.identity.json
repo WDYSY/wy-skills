@@ -1,0 +1,157 @@
+{
+  "source": "/Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/claude_spec_coding_ppt169_ppt169_20260904/sources/唯美森系水彩晕染小鹿PPT模板.pptx",
+  "slide_count": 28,
+  "canvas": {
+    "width_px": 1280,
+    "height_px": 720,
+    "aspect": 1.7778
+  },
+  "theme": {
+    "palette": {
+      "background": "#FFFFFF",
+      "background_alt": "#E7E6E6",
+      "text": "#000000",
+      "text_alt": "#44546A",
+      "hyperlink": "#0563C1",
+      "accent1": "#4472C4",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "primary": "#4472C4"
+    },
+    "fonts": {
+      "title": {
+        "latin": "等线 Light"
+      },
+      "body": {
+        "latin": "等线"
+      }
+    },
+    "sizes": {
+      "title": 44.0,
+      "body": 28.0,
+      "body_levels": [
+        28.0,
+        24.0,
+        20.0,
+        18.0,
+        18.0,
+        18.0,
+        18.0,
+        18.0,
+        18.0
+      ]
+    }
+  },
+  "observed": {
+    "fonts": {
+      "latin": [
+        {
+          "value": "字魂36号-正文宋楷",
+          "count": 473
+        },
+        {
+          "value": "Calibri",
+          "count": 90
+        },
+        {
+          "value": "微软雅黑",
+          "count": 53
+        },
+        {
+          "value": "Segoe UI",
+          "count": 12
+        }
+      ],
+      "ea": [
+        {
+          "value": "字魂36号-正文宋楷",
+          "count": 473
+        },
+        {
+          "value": "宋体",
+          "count": 90
+        },
+        {
+          "value": "微软雅黑",
+          "count": 53
+        },
+        {
+          "value": "Segoe UI Symbol",
+          "count": 5
+        }
+      ]
+    },
+    "sizes_pt": [
+      {
+        "value": 12.0,
+        "count": 79
+      },
+      {
+        "value": 14.0,
+        "count": 66
+      },
+      {
+        "value": 16.0,
+        "count": 22
+      },
+      {
+        "value": 24.0,
+        "count": 17
+      },
+      {
+        "value": 20.0,
+        "count": 12
+      },
+      {
+        "value": 28.0,
+        "count": 9
+      },
+      {
+        "value": 44.0,
+        "count": 9
+      },
+      {
+        "value": 40.0,
+        "count": 7
+      }
+    ],
+    "colors": [
+      {
+        "value": "#B1D4DD",
+        "count": 102
+      },
+      {
+        "value": "#36333A",
+        "count": 94
+      },
+      {
+        "value": "#FFFFFF",
+        "count": 45
+      },
+      {
+        "value": "#EEECE1",
+        "count": 43
+      },
+      {
+        "value": "#222222",
+        "count": 20
+      },
+      {
+        "value": "#000000",
+        "count": 11
+      },
+      {
+        "value": "#BFBFBF",
+        "count": 11
+      },
+      {
+        "value": "#2C2C2C",
+        "count": 6
+      }
+    ]
+  },
+  "layout_sizes_pt": []
+}

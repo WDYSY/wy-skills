@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <defs>
+    <radialGradient id="panelWash" cx="85%" cy="12%" r="60%">
+      <stop offset="0%" stop-color="#0F4C81" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0F4C81" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+    <rect x="0" y="0" width="1280" height="720" fill="url(#panelWash)"/>
+  </g>
+
+  <g id="cover-kicker">
+    <text x="56" y="132" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#8A94A2" letter-spacing="2">T 站海外数据 · SGP 集群 · 门票业务</text>
+  </g>
+
+  <g id="cover-title">
+    <text x="56" y="272" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="96" font-weight="bold" fill="#0F4C81">
+      <tspan x="56" dy="0">T 站门票</tspan>
+      <tspan x="56" dy="108">语言站流量分析</tspan>
+    </text>
+    <rect x="56" y="418" width="140" height="5" fill="#E8833A"/>
+  </g>
+
+  <g id="cover-subtitle">
+    <text x="56" y="484" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="32" fill="#1B2430">
+      <tspan x="56" dy="0">50+ 个语言站里，TOP2 吃下 <tspan fill="#E8833A" font-weight="bold">59%</tspan> 的门票流量</tspan>
+      <tspan x="56" dy="44">投放必须一站一策</tspan>
+    </text>
+  </g>
+
+  <g id="cover-chart">
+    <text x="1220" y="170" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">50+ 个语言站 · PV 分布</text>
+    <rect x="800" y="210" width="420" height="14" rx="3" fill="#0F4C81"/>
+    <rect x="815" y="242" width="405" height="14" rx="3" fill="#E8833A"/>
+    <rect x="1117" y="274" width="103" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1118" y="306" width="102" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1173" y="338" width="47" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1181" y="370" width="39" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1184" y="402" width="36" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1187" y="434" width="33" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1191" y="466" width="29" height="14" rx="3" fill="#D5DDE6"/>
+    <rect x="1192" y="498" width="28" height="14" rx="3" fill="#D5DDE6"/>
+    <line x1="800" y1="536" x2="1220" y2="536" stroke="#D5DDE6" stroke-width="1"/>
+    <text x="1220" y="600" text-anchor="end" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">59%</text>
+    <text x="1220" y="634" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">TOP2（zh-hk + en-sg）合计 PV 占比</text>
+  </g>
+
+  <g id="cover-footer">
+    <line x1="56" y1="572" x2="700" y2="572" stroke="#D5DDE6" stroke-width="1"/>
+    <text x="56" y="612" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">
+      <tspan x="56" dy="0">数据窗口 8/10–8/17（截止 2026-08-17）· 站点口径 = locale 语言站</tspan>
+      <tspan x="56" dy="28">PV = count(distinct com_pv) · UV = count(distinct vid) · 流量来源 = trip_channel</tspan>
+    </text>
+  </g>
+</svg>

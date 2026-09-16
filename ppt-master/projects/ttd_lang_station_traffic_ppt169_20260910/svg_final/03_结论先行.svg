@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81" />
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">结论先行：流量高度头部集中，渠道结构各站迥异</text>
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="112"><tspan>语言站流量高度头部集中：TOP2 占 <tspan fill="#E8833A" font-weight="bold">59%</tspan>、TOP10 占 <tspan fill="#E8833A" font-weight="bold">88.6%</tspan>，</tspan>
+      </text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="150">但各语言站的渠道结构差异巨大——对外投放必须按站定制。</text><line x1="60" y1="172" x2="1220" y2="172" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="kpi-card-sites">
+    <path fill="#F7F9FB" d="M70,190 H322 A10,10 0 0 1 332,200 V430 A10,10 0 0 1 322,440 H70 A10,10 0 0 1 60,430 V200 A10,10 0 0 1 70,190 Z" />
+    
+  <g transform="translate(84, 212) scale(1.08333)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" />
+    <path d="M3.6 9h16.8" />
+    <path d="M3.6 15h16.8" />
+    <path d="M11.5 3a17 17 0 0 0 0 18" />
+    <path d="M12.5 3a17 17 0 0 1 0 18" />
+  </g>
+    <text x="122" y="232" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">全量语言站数量</text>
+    <text x="84" y="340" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">50+</text>
+    <text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="84" y="388">按 locale 字段切分</text><text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="84" y="414">头部集中度很高</text></g>
+
+  <g id="kpi-card-top2">
+    <path fill="#F7F9FB" d="M366,190 H618 A10,10 0 0 1 628,200 V430 A10,10 0 0 1 618,440 H366 A10,10 0 0 1 356,430 V200 A10,10 0 0 1 366,190 Z" />
+    
+  <g transform="translate(380, 212) scale(1.08333)" fill="none" stroke="#E8833A" stroke-width="2">
+    <path d="M3 13a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v6a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -6" />
+    <path d="M15 9a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -10" />
+    <path d="M9 5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1l0 -14" />
+    <path d="M4 20h14" />
+  </g>
+    <text x="418" y="232" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">TOP2 合计 PV 占比</text>
+    <text x="380" y="340" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#E8833A">59%</text>
+    <text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="380" y="388">zh-hk 香港繁体 +</text><text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="380" y="414">en-sg 新加坡英文</text></g>
+
+  <g id="kpi-card-top10">
+    <path fill="#F7F9FB" d="M662,190 H914 A10,10 0 0 1 924,200 V430 A10,10 0 0 1 914,440 H662 A10,10 0 0 1 652,430 V200 A10,10 0 0 1 662,190 Z" />
+    
+  <g transform="translate(676, 212) scale(1.08333)" fill="none" stroke="#0F4C81" stroke-width="2">
+    <path d="M3 17l6 -6l4 4l8 -8" />
+    <path d="M14 7l7 0l0 7" />
+  </g>
+    <text x="714" y="232" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">TOP10 合计 PV 占比</text>
+    <text x="676" y="340" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">88.6%</text>
+    <text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="676" y="388">前 10 个语言站</text><text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="676" y="414">几乎等于全站大盘</text></g>
+
+  <g id="kpi-card-longtail">
+    <path fill="#F7F9FB" d="M958,190 H1210 A10,10 0 0 1 1220,200 V430 A10,10 0 0 1 1210,440 H958 A10,10 0 0 1 948,430 V200 A10,10 0 0 1 958,190 Z" />
+    
+  <g transform="translate(972, 212) scale(1.08333)" fill="none" stroke="#4A90C4" stroke-width="2">
+    <path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" />
+    <path d="M9 5a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2" />
+    <path d="M9 17v-5" />
+    <path d="M12 17v-1" />
+    <path d="M15 17v-3" />
+  </g>
+    <text x="1010" y="232" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">其余语言站合计占比</text>
+    <text x="972" y="340" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#4A90C4">11.4%</text>
+    <text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="972" y="388">40+ 个长尾语言站</text><text fill="#8A94A2" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" x="972" y="414">合计不足一成二</text></g>
+
+  <g id="conclusion-band">
+    <path fill="#0F4C81" d="M70,460 H1210 A10,10 0 0 1 1220,470 V636 A10,10 0 0 1 1210,646 H70 A10,10 0 0 1 60,636 V470 A10,10 0 0 1 70,460 Z" />
+    <rect x="60" y="460" width="6" height="186" fill="#E8833A" />
+    
+  <g transform="translate(96, 488) scale(1.25)" fill="none" stroke="#FFFFFF" stroke-width="2">
+    <path d="M11 12a1 1 0 1 0 2 0a1 1 0 1 0 -2 0" />
+    <path d="M7 12a5 5 0 1 0 10 0a5 5 0 1 0 -10 0" />
+    <path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" />
+  </g>
+    <text x="140" y="508" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#FFFFFF">主力客源区：港澳台 + 东南亚（新马）+ 俄韩</text>
+    <text x="96" y="556" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#FFFFFF" fill-opacity="0.85">站内流量占各站 31.7%–66.6%，仍是大盘主力；对外投放的四个主要抓手</text>
+    <text x="96" y="590" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#FFFFFF" fill-opacity="0.85">是 Partner 联盟、SEO、APP-PUSH 与 PPC。</text>
+    <text x="96" y="626" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#FFFFFF" fill-opacity="0.65">但四个抓手在每个语言站的配比差异巨大——这正是「一站一策」的依据。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext · 2026-08-10 至 2026-08-17</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P03 / 12</text>
+  </g>
+</svg>

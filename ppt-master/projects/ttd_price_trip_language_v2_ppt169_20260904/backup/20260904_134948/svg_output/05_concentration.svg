@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#0F1B2D"/>
+  <circle cx="400" cy="380" r="250" fill="#4FC3F7" fill-opacity="0.06"/>
+  <circle cx="1100" cy="600" r="200" fill="#FFB74D" fill-opacity="0.04"/>
+
+  <text x="60" y="70" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" font-weight="500" fill="#4FC3F7">集中度分析</text>
+  <text x="60" y="125" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="42" font-weight="700" fill="#E8F0FA">TOP 2 占 59%：流量高度集中</text>
+  <rect x="60" y="145" width="1160" height="2" fill="#4FC3F7" fill-opacity="0.4"/>
+
+  <!-- Donut chart: 中心 (400, 380), outer r=160, inner r=100, 精确计算 -->
+  <!-- zh-hk 30.1% (Orange #FFB74D) -->
+  <path d="M 400.0,220.0 A 160,160 0 0,1 551.9,430.4 L 494.9,411.5 A 100,100 0 0,0 400.0,280.0 Z" fill="#FFB74D"/>
+  <!-- en-sg 29.0% (Blue #4FC3F7) -->
+  <path d="M 551.9,430.4 A 160,160 0 0,1 313.4,514.6 L 345.9,464.1 A 100,100 0 0,0 494.9,411.5 Z" fill="#4FC3F7"/>
+  <!-- zh-tw 7.4% (Purple #9C6BDB) -->
+  <path d="M 313.4,514.6 A 160,160 0 0,1 262.3,461.4 L 313.9,430.9 A 100,100 0 0,0 345.9,464.1 Z" fill="#9C6BDB"/>
+  <!-- en-my 7.3% (Green #4CAF50) -->
+  <path d="M 262.3,461.4 A 160,160 0 0,1 240.5,392.1 L 300.3,387.5 A 100,100 0 0,0 313.9,430.9 Z" fill="#4CAF50"/>
+  <!-- Others 26.2% (Gray) -->
+  <path d="M 240.5,392.1 A 160,160 0 0,1 400.0,220.0 L 400.0,280.0 A 100,100 0 0,0 300.3,387.5 Z" fill="#5C7590"/>
+
+  <!-- 中心圆更为安全的正确圆形 -->
+  <circle cx="400" cy="380" r="100" fill="#0F1B2D"/>
+  
+  <text x="400" y="375" font-family="Georgia, 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#FFB74D" text-anchor="middle">59%</text>
+  <text x="400" y="410" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8FA8C8" text-anchor="middle">TOP 2 合计</text>
+
+  <!-- Legend -->
+  <g transform="translate(640, 180)">
+    <rect x="0" y="0" width="16" height="16" rx="4" fill="#FFB74D"/>
+    <text x="26" y="14" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">zh-hk 香港</text>
+    <text x="180" y="14" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">30.1% / 603,658 PV</text>
+
+    <rect x="0" y="35" width="16" height="16" rx="4" fill="#4FC3F7"/>
+    <text x="26" y="49" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">en-sg 新加坡</text>
+    <text x="180" y="49" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">29.0% / 581,867 PV</text>
+
+    <rect x="0" y="70" width="16" height="16" rx="4" fill="#9C6BDB"/>
+    <text x="26" y="84" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">zh-tw 台湾</text>
+    <text x="180" y="84" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">7.4% / 148,331 PV</text>
+
+    <rect x="0" y="105" width="16" height="16" rx="4" fill="#4CAF50"/>
+    <text x="26" y="119" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">en-my 马来</text>
+    <text x="180" y="119" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">7.3% / 146,071 PV</text>
+
+    <rect x="0" y="140" width="16" height="16" rx="4" fill="#5C7590"/>
+    <text x="26" y="154" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">其他 46+ 站</text>
+    <text x="180" y="154" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#8FA8C8">26.2% / ~524,414 PV</text>
+  </g>
+
+  <!-- Key insight -->
+  <rect x="640" y="420" width="540" height="100" rx="16" fill="#1A2D4A" fill-opacity="0.6" stroke="#FFB74D" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="676" y="458" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="22" font-weight="700" fill="#4FC3F7">主力客源区域</text>
+  <text x="676" y="492" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#E8F0FA">港澳台 + 东南亚（新马）+ 俄韩</text>
+
+  <text x="60" y="660" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590">全量共 50+ 个语言站，长尾站点共享约 11% 流量</text>
+  <text x="1220" y="660" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="14" fill="#5C7590" text-anchor="end">05</text>
+</svg>

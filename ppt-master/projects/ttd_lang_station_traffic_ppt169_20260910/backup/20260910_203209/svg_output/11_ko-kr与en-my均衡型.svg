@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">ko-kr 与 en-my：多渠道并进，没有单一依赖</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">韩语与马来英文两站的渠道构成相对均衡，站内 44%–55%，其余渠道各占 8%–16%。</text>
+    <line x1="60" y1="150" x2="1220" y2="150" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="panel-ko-kr">
+    <text x="60" y="204" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">ko-kr 韩语</text>
+    <text x="60" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">PV 55,648 · 占比 2.8% · UV 14,796</text>
+    <line x1="60" y1="252" x2="620" y2="252" stroke="#E7EDF3" stroke-width="1"/>
+
+    <text x="60" y="285" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">站内</text>
+    <rect x="170" y="270" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="270" width="289.9" height="20" rx="4" fill="#0F4C81"/>
+    <text x="610" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#0F4C81">44.3%</text>
+
+    <text x="60" y="323" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">APP-PUSH</text>
+    <rect x="170" y="308" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="308" width="42.5" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="610" y="323" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">6.5%</text>
+
+    <text x="60" y="361" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">Partner</text>
+    <rect x="170" y="346" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="346" width="98.2" height="20" rx="4" fill="#E8833A"/>
+    <text x="610" y="361" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">15.0%</text>
+
+    <text x="60" y="399" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">SEO</text>
+    <rect x="170" y="384" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="384" width="63.5" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="610" y="399" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">9.7%</text>
+
+    <text x="60" y="437" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">PPC</text>
+    <rect x="170" y="422" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="422" width="75.9" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="610" y="437" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">11.6%</text>
+
+    <text x="60" y="475" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">其他/EDM</text>
+    <rect x="170" y="460" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="170" y="460" width="84.4" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="610" y="475" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">12.9%</text>
+  </g>
+
+  <g id="panel-en-my">
+    <text x="660" y="204" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">en-my 马来西亚英文</text>
+    <text x="660" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">PV 146,071 · 占比 7.3% · UV 11,297</text>
+    <line x1="660" y1="252" x2="1220" y2="252" stroke="#E7EDF3" stroke-width="1"/>
+
+    <text x="660" y="285" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">站内</text>
+    <rect x="770" y="270" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="270" width="360.0" height="20" rx="4" fill="#0F4C81"/>
+    <text x="1210" y="285" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#0F4C81">55.0%</text>
+
+    <text x="660" y="323" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">APP-PUSH</text>
+    <rect x="770" y="308" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="308" width="60.9" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="1210" y="323" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">9.3%</text>
+
+    <text x="660" y="361" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">Partner</text>
+    <rect x="770" y="346" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="346" width="105.4" height="20" rx="4" fill="#E8833A"/>
+    <text x="1210" y="361" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">16.1%</text>
+
+    <text x="660" y="399" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">SEO</text>
+    <rect x="770" y="384" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="384" width="34.0" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="1210" y="399" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">5.2%</text>
+
+    <text x="660" y="437" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">PPC</text>
+    <rect x="770" y="422" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="422" width="55.0" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="1210" y="437" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">8.4%</text>
+
+    <text x="660" y="475" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430">其他/EDM</text>
+    <rect x="770" y="460" width="360" height="20" rx="4" fill="#E7EDF3"/>
+    <rect x="770" y="460" width="39.3" height="20" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+    <text x="1210" y="475" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">6.0%</text>
+  </g>
+
+  <g id="conclusion-band">
+    <rect x="60" y="516" width="1160" height="92" rx="10" fill="#EEF2F6"/>
+    <rect x="60" y="516" width="6" height="92" fill="#E8833A"/>
+    <use data-icon="tabler-outline/adjustments" x="96" y="540" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="140" y="562" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">两站没有明显短板，站内 44–55%，Partner / PPC / SEO 各占 8–16%。</text>
+    <text x="96" y="594" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">适合组合投放、小步试错，而不是押注单一渠道。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据窗口 2026-08-10 至 2026-08-17 · 两条微条共用同一 0–55% 刻度</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P11 / 12</text>
+  </g>
+</svg>

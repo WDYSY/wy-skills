@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P10 - 行动号召</title>
+  <desc>CTA结尾页，anchor类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P10 · 行动号召</text>
+  <!-- 标题 -->
+  <text x="64" y="110" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">现在启动联合试点</text>
+  <text x="64" y="160" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">是进入平台扩张曲线的最低成本方式</text>
+  <rect x="64" y="180" width="80" height="3" fill="#1F6FB2"/>
+  <!-- 副标题 -->
+  <text x="64" y="215" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">认知红利仍在、组织壁垒尚未固化的窗口期 — 建议从"客服 + 销售支持"联合试点开始</text>
+
+  <!-- 三个 CTA 理由卡片 -->
+  <!-- 为什么值得做 -->
+  <g transform="translate(64, 252)">
+    <rect x="0" y="0" width="368" height="200" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="8" rx="12" fill="#1F6FB2"/>
+    <rect x="0" y="8" width="368" height="8" fill="#1F6FB2"/>
+    <!-- 星星图标 -->
+    <g transform="translate(20, 28)" stroke="#1F6FB2" stroke-width="2" fill="none">
+      <polygon points="18,2 21,12 32,13 24,21 26,32 18,26 10,32 12,21 4,13 15,12"/>
+    </g>
+    <text x="70" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="600" fill="#17324D">为什么值得做</text>
+    <g transform="translate(20, 72)">
+      <circle cx="8" cy="8" r="5" fill="#1F6FB2"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">ROI 清晰且可量化</text>
+    </g>
+    <g transform="translate(20, 102)">
+      <circle cx="8" cy="8" r="5" fill="#1F6FB2"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">高频场景验证周期短（4-8周）</text>
+    </g>
+    <g transform="translate(20, 132)">
+      <circle cx="8" cy="8" r="5" fill="#1F6FB2"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">形成规模化复制的标杆案例</text>
+    </g>
+    <g transform="translate(20, 162)">
+      <circle cx="8" cy="8" r="5" fill="#1F6FB2"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">平台化后可向其他场景延伸</text>
+    </g>
+  </g>
+
+  <!-- 为什么能做成 -->
+  <g transform="translate(456, 252)">
+    <rect x="0" y="0" width="368" height="200" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="8" rx="12" fill="#2E8B57"/>
+    <rect x="0" y="8" width="368" height="8" fill="#2E8B57"/>
+    <!-- 对勾图标 -->
+    <g transform="translate(20, 28)" stroke="#2E8B57" stroke-width="2" fill="none">
+      <circle cx="18" cy="18" r="16"/>
+      <polyline points="10,18 15,23 26,11"/>
+    </g>
+    <text x="70" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="600" fill="#17324D">为什么能做成</text>
+    <g transform="translate(20, 72)">
+      <circle cx="8" cy="8" r="5" fill="#2E8B57"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">成熟的技术栈与集成方案</text>
+    </g>
+    <g transform="translate(20, 102)">
+      <circle cx="8" cy="8" r="5" fill="#2E8B57"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">有可复制的成功路径</text>
+    </g>
+    <g transform="translate(20, 132)">
+      <circle cx="8" cy="8" r="5" fill="#2E8B57"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">客户已有明确的痛点认知</text>
+    </g>
+    <g transform="translate(20, 162)">
+      <circle cx="8" cy="8" r="5" fill="#2E8B57"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">实施团队已有成熟方法论</text>
+    </g>
+  </g>
+
+  <!-- 为什么现在做 -->
+  <g transform="translate(848, 252)">
+    <rect x="0" y="0" width="368" height="200" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="368" height="8" rx="12" fill="#17324D"/>
+    <rect x="0" y="8" width="368" height="8" fill="#17324D"/>
+    <!-- 时钟图标 -->
+    <g transform="translate(20, 28)" stroke="#17324D" stroke-width="2" fill="none">
+      <circle cx="18" cy="18" r="16"/>
+      <polyline points="18,8 18,18 25,23"/>
+    </g>
+    <text x="70" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="600" fill="#17324D">为什么现在做</text>
+    <g transform="translate(20, 72)">
+      <circle cx="8" cy="8" r="5" fill="#17324D"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">AI 认知窗口仍在，决策层关注度高</text>
+    </g>
+    <g transform="translate(20, 102)">
+      <circle cx="8" cy="8" r="5" fill="#17324D"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">竞争对手尚未完成平台化布局</text>
+    </g>
+    <g transform="translate(20, 132)">
+      <circle cx="8" cy="8" r="5" fill="#17324D"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">数据与知识积累越早越有价值</text>
+    </g>
+    <g transform="translate(20, 162)">
+      <circle cx="8" cy="8" r="5" fill="#17324D"/>
+      <text x="24" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" fill="#1F2933">组织变革阻力随时间增加而非减少</text>
+    </g>
+  </g>
+
+  <!-- CTA 行动框 -->
+  <g transform="translate(64, 480)">
+    <rect x="0" y="0" width="1152" height="140" rx="16" fill="#17324D"/>
+    <!-- CTA 主文字 -->
+    <text x="576" y="50" font-family="Cambria, SimSun, serif" font-size="36" font-weight="bold" fill="white" text-anchor="middle">建议从"客服 + 销售支持"联合试点开始</text>
+    <text x="576" y="90" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" fill="#8A94A1" text-anchor="middle">在 8 周内验证效率与治理闭环，形成可复制的平台化扩张路径</text>
+    <!-- 按钮形状 -->
+    <rect x="416" y="102" width="320" height="32" rx="16" fill="#1F6FB2"/>
+    <text x="576" y="125" font-family="Microsoft YaHei, Arial, sans-serif" font-size="18" font-weight="600" fill="white" text-anchor="middle">预约联合试点讨论</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P10</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">agentflow_case01 · 2026-09-03</text>
+</svg>

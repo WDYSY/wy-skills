@@ -1,0 +1,39 @@
+{
+  "image_ai_path": "manual",
+  "deck_rendering": "editorial",
+  "deck_palette": "cool-corporate",
+  "items": [
+    {
+      "filename": "cover_editorial_ai.png",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "prompt": "Magazine-style editorial illustration with sophisticated visual hierarchy and confident negative space. Elements are arranged with editorial pacing — one dominant focal area, deliberate alignment to invisible columns, generous gutters between blocks. Color is restrained and balanced, refined, intelligent, premium and suitable for analytical technical content. Color behavior is restrained-corporate: background #F7F9FC carries most of the canvas as calm breathing space, primary #1F4E79 forms the dominant structural block, accent #4F8EF7 appears only in one or two emphasis points, with #7FB3FF as a subtle transition accent. Create an atmospheric hero-page backdrop about AI Coding and Spec Coding: layered code windows, document cards, workflow nodes, tiny chart fragments and execution arrows composed like a technology magazine cover, with the visual mass biased to the right and lower edge. The left-center 40% of the canvas should remain calm enough for SVG title overlay. Composed as a 1280x720 full-bleed presentation cover. No text, no letters, no numbers, no logos, no watermarks."
+    },
+    {
+      "filename": "chapter_workflow_ai.png",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "prompt": "Magazine-style editorial illustration with refined rules, layered document planes and balanced negative space. Use cool-corporate color behavior: light field #F7F9FC dominant, primary deep blue #1F4E79 as the main compositional anchor, accent blue #4F8EF7 used sparingly. Create a chapter-divider image for the Spec Coding method section: specification document, branching workflow, task checklist, design blueprint fragments and execution path connected in a clean editorial composition. Keep one dominant focal cluster off-center and preserve a calm text-safe region for overlaid chapter title. 1280x720 chapter opener, flat and premium, no text or labels."
+    },
+    {
+      "filename": "chapter_cases_ai.png",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "prompt": "Magazine-style editorial technology collage with clear hierarchy and restrained motion. Use the deck colors in cool-corporate behavior: #F7F9FC as the broad field, #1F4E79 for structural blocks, #4F8EF7 and #7FB3FF only as sparse highlight accents. Depict four abstract case domains in one coherent chapter visual: product design, feature delivery, system refactor, and troubleshooting, each represented by simplified modular scenes that feel related rather than boxed into a dashboard. The image should read like a premium technical feature spread, with enough calm area for a chapter title overlay. Full-bleed 1280x720, no text, no letters, no numbers."
+    },
+    {
+      "filename": "chapter_boundary_ai.png",
+      "aspect_ratio": "16:9",
+      "image_size": "2K",
+      "page_role": "hero_page",
+      "text_policy": "none",
+      "prompt": "Refined editorial illustration for a technical reflection section, intelligent and restrained rather than flashy. Color behavior follows cool-corporate: spacious pale background #F7F9FC, deep blue #1F4E79 as the dominant structural tone, accent blue #4F8EF7 appearing in only a few focused marks. Visualize capability boundaries and reflection: dividing lines, warning markers, fragmented logs, dependency graph hints, and a developer-facing system silhouette arranged like a magazine explainer cover. Emphasize tension between visibility and uncertainty, but keep the composition calm and professional. Reserve open space for overlaid section title. 1280x720, no text or symbols."
+    }
+  ]
+}

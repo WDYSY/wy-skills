@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P08 - 商业化扩张路径</title>
+  <desc>四阶段扩张路径，dense类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P08 · 商业路径</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">最优商业化路径：逐层放大已验证能力</text>
+  <rect x="64" y="120" width="80" height="3" fill="#1F6FB2"/>
+  <text x="64" y="152" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">订阅费 + 调度量计费 + 实施服务费 → 稳定收入结构</text>
+
+  <!-- 四阶段时间线 -->
+  <!-- 连接线背景 -->
+  <rect x="64" y="248" width="1152" height="8" rx="4" fill="#D8DEE6"/>
+
+  <!-- 阶段1 -->
+  <g transform="translate(64, 196)">
+    <circle cx="80" cy="60" r="24" fill="#1F6FB2"/>
+    <text x="80" y="67" font-family="Cambria, SimSun, serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">1</text>
+    <rect x="0" y="96" width="240" height="260" rx="12" fill="#EEF1F4" stroke="#1F6FB2" stroke-width="2"/>
+    <rect x="0" y="96" width="240" height="10" rx="12" fill="#1F6FB2"/>
+    <rect x="0" y="106" width="240" height="10" fill="#1F6FB2"/>
+    <text x="120" y="136" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">单部门试点</text>
+    <text x="120" y="164" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">客服 or 销售支持</text>
+    <rect x="12" y="180" width="216" height="1" fill="#D8DEE6"/>
+    <!-- 里程碑 -->
+    <g transform="translate(12, 196)">
+      <circle cx="8" cy="8" r="4" fill="#1F6FB2"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">选定 1 个高频场景</text>
+    </g>
+    <g transform="translate(12, 228)">
+      <circle cx="8" cy="8" r="4" fill="#1F6FB2"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">Agent + 知识库上线</text>
+    </g>
+    <g transform="translate(12, 260)">
+      <circle cx="8" cy="8" r="4" fill="#1F6FB2"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">4 周内跑通基础闭环</text>
+    </g>
+    <g transform="translate(12, 292)">
+      <circle cx="8" cy="8" r="4" fill="#1F6FB2"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">验证核心 ROI 假设</text>
+    </g>
+    <!-- 收入标签 -->
+    <rect x="12" y="320" width="216" height="28" rx="6" fill="#1F6FB2" opacity="0.1"/>
+    <text x="120" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F6FB2" text-anchor="middle">实施服务费</text>
+    <text x="120" y="356" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773" text-anchor="middle">周期：4-8 周</text>
+  </g>
+
+  <!-- 连接箭头 1→2 -->
+  <g transform="translate(304, 292)">
+    <line x1="0" y1="18" x2="60" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="52,12 60,18 52,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- 阶段2 -->
+  <g transform="translate(364, 196)">
+    <circle cx="80" cy="60" r="24" fill="#2E8B57"/>
+    <text x="80" y="67" font-family="Cambria, SimSun, serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">2</text>
+    <rect x="0" y="96" width="240" height="260" rx="12" fill="#EEF1F4" stroke="#2E8B57" stroke-width="2"/>
+    <rect x="0" y="96" width="240" height="10" rx="12" fill="#2E8B57"/>
+    <rect x="0" y="106" width="240" height="10" fill="#2E8B57"/>
+    <text x="120" y="136" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">双场景联动</text>
+    <text x="120" y="164" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">客服 + 销售支持协同</text>
+    <rect x="12" y="180" width="216" height="1" fill="#D8DEE6"/>
+    <g transform="translate(12, 196)">
+      <circle cx="8" cy="8" r="4" fill="#2E8B57"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">跨场景闭环跑通</text>
+    </g>
+    <g transform="translate(12, 228)">
+      <circle cx="8" cy="8" r="4" fill="#2E8B57"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">数据互通与线索同步</text>
+    </g>
+    <g transform="translate(12, 260)">
+      <circle cx="8" cy="8" r="4" fill="#2E8B57"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">ROI 数据可量化呈现</text>
+    </g>
+    <g transform="translate(12, 292)">
+      <circle cx="8" cy="8" r="4" fill="#2E8B57"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">→ 正式订阅合同</text>
+    </g>
+    <rect x="12" y="320" width="216" height="28" rx="6" fill="#2E8B57" opacity="0.1"/>
+    <text x="120" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#2E8B57" text-anchor="middle">订阅费（年框）</text>
+    <text x="120" y="356" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773" text-anchor="middle">周期：3-6 个月</text>
+  </g>
+
+  <!-- 连接箭头 2→3 -->
+  <g transform="translate(604, 292)">
+    <line x1="0" y1="18" x2="60" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="52,12 60,18 52,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- 阶段3 -->
+  <g transform="translate(664, 196)">
+    <circle cx="80" cy="60" r="24" fill="#17324D"/>
+    <text x="80" y="67" font-family="Cambria, SimSun, serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">3</text>
+    <rect x="0" y="96" width="240" height="260" rx="12" fill="#EEF1F4" stroke="#17324D" stroke-width="2"/>
+    <rect x="0" y="96" width="240" height="10" rx="12" fill="#17324D"/>
+    <rect x="0" y="106" width="240" height="10" fill="#17324D"/>
+    <text x="120" y="136" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">模板沉淀</text>
+    <text x="120" y="164" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">跨行业可复用模板</text>
+    <rect x="12" y="180" width="216" height="1" fill="#D8DEE6"/>
+    <g transform="translate(12, 196)">
+      <circle cx="8" cy="8" r="4" fill="#17324D"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">最佳实践模板化</text>
+    </g>
+    <g transform="translate(12, 228)">
+      <circle cx="8" cy="8" r="4" fill="#17324D"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">新客户部署周期缩短</text>
+    </g>
+    <g transform="translate(12, 260)">
+      <circle cx="8" cy="8" r="4" fill="#17324D"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">行业解决方案打包</text>
+    </g>
+    <g transform="translate(12, 292)">
+      <circle cx="8" cy="8" r="4" fill="#17324D"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">→ 调度量计费引入</text>
+    </g>
+    <rect x="12" y="320" width="216" height="28" rx="6" fill="#17324D" opacity="0.1"/>
+    <text x="120" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#17324D" text-anchor="middle">订阅 + 调度量</text>
+    <text x="120" y="356" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773" text-anchor="middle">周期：3-6 个月</text>
+  </g>
+
+  <!-- 连接箭头 3→4 -->
+  <g transform="translate(904, 292)">
+    <line x1="0" y1="18" x2="60" y2="18" stroke="#7FA9D6" stroke-width="2"/>
+    <polyline points="52,12 60,18 52,24" stroke="#7FA9D6" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- 阶段4 -->
+  <g transform="translate(964, 196)">
+    <circle cx="80" cy="60" r="24" fill="#7FA9D6"/>
+    <text x="80" y="67" font-family="Cambria, SimSun, serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">4</text>
+    <rect x="0" y="96" width="252" height="260" rx="12" fill="#EEF1F4" stroke="#7FA9D6" stroke-width="2"/>
+    <rect x="0" y="96" width="252" height="10" rx="12" fill="#7FA9D6"/>
+    <rect x="0" y="106" width="252" height="10" fill="#7FA9D6"/>
+    <text x="126" y="136" font-family="Microsoft YaHei, Arial, sans-serif" font-size="22" font-weight="600" fill="#17324D" text-anchor="middle">平台化扩张</text>
+    <text x="126" y="164" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773" text-anchor="middle">多行业 / 多BU 复制</text>
+    <rect x="12" y="180" width="228" height="1" fill="#D8DEE6"/>
+    <g transform="translate(12, 196)">
+      <circle cx="8" cy="8" r="4" fill="#7FA9D6"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">Control Plane 标准化</text>
+    </g>
+    <g transform="translate(12, 228)">
+      <circle cx="8" cy="8" r="4" fill="#7FA9D6"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">多租户运营体系</text>
+    </g>
+    <g transform="translate(12, 260)">
+      <circle cx="8" cy="8" r="4" fill="#7FA9D6"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">生态合作与 API 变现</text>
+    </g>
+    <g transform="translate(12, 292)">
+      <circle cx="8" cy="8" r="4" fill="#7FA9D6"/>
+      <text x="20" y="14" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F2933">平台规模化 → 利润率提升</text>
+    </g>
+    <rect x="12" y="320" width="228" height="28" rx="6" fill="#7FA9D6" opacity="0.15"/>
+    <text x="126" y="340" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#1F6FB2" text-anchor="middle">平台费 + 生态分成</text>
+    <text x="126" y="356" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#5B6773" text-anchor="middle">持续规模增长</text>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P08</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">6 / 6</text>
+</svg>

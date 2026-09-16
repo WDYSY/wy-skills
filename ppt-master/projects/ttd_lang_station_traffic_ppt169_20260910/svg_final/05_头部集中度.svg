@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF" />
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81" />
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">头部集中：前 10 个语言站吃掉近九成</text>
+    <line x1="60" y1="118" x2="1220" y2="118" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="concentration-message">
+    <text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="228">50+ 个语言站里，前 10 个</text><text fill="#1B2430" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" x="60" y="266"><tspan>就贡献了 <tspan fill="#E8833A" font-weight="bold">88.6%</tspan> 的门票 PV。</tspan>
+    </text><line x1="60" y1="318" x2="520" y2="318" stroke="#D5DDE6" stroke-width="1" />
+  </g>
+
+  <g id="legend-breakdown">
+    <path fill="#0F4C81" d="M63,372 H73 A3,3 0 0 1 76,375 V385 A3,3 0 0 1 73,388 H63 A3,3 0 0 1 60,385 V375 A3,3 0 0 1 63,372 Z" />
+    <text x="92" y="386" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">TOP2（zh-hk + en-sg）</text>
+    <text x="520" y="386" text-anchor="end" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#0F4C81">59%</text>
+
+    <path fill="#E8833A" d="M63,424 H73 A3,3 0 0 1 76,427 V437 A3,3 0 0 1 73,440 H63 A3,3 0 0 1 60,437 V427 A3,3 0 0 1 63,424 Z" />
+    <text x="92" y="438" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">第 3–10 名</text>
+    <text x="520" y="438" text-anchor="end" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#E8833A">29.6%</text>
+
+    <path fill="#D5DDE6" d="M63,476 H73 A3,3 0 0 1 76,479 V489 A3,3 0 0 1 73,492 H63 A3,3 0 0 1 60,489 V479 A3,3 0 0 1 63,476 Z" />
+    <text x="92" y="490" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#1B2430">其余 40+ 个语言站</text>
+    <text x="520" y="490" text-anchor="end" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="24" font-weight="bold" fill="#5A6675">11.4%</text>
+  </g>
+
+  <g id="donut-figure">
+    
+    <path d="M 880,240 A 160,160 0 1,1 794.3,535.1 L 827.5,482.7 A 98,98 0 1,0 880,302 Z" fill="#0F4C81" />
+    <path d="M 794.3,535.1 A 160,160 0 0,1 775.0,279.3 L 815.7,326.0 A 98,98 0 0,0 827.5,482.7 Z" fill="#E8833A" />
+    <path d="M 775.0,279.3 A 160,160 0 0,1 880,240 L 880,302 A 98,98 0 0,0 815.7,326.0 Z" fill="#D5DDE6" />
+    <text x="880" y="412" text-anchor="middle" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="56" font-weight="bold" fill="#0F4C81">88.6%</text>
+    <text x="880" y="452" text-anchor="middle" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">TOP10 合计 PV 占比</text>
+  </g>
+
+  <g id="page-note">
+    <text x="60" y="668" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">注：29.6% 由源数据 TOP10 88.6% 与 TOP2 59% 相减得出；各口径分别四舍五入，存在 ±0.5pp 舍入差。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">主力客源区：港澳台 + 东南亚（新马）+ 俄韩 · 全量共 50+ 个语言站</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P05 / 12</text>
+  </g>
+</svg>

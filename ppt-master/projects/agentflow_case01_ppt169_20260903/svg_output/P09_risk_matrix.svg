@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <title>P09 - 风险与成功条件矩阵</title>
+  <desc>风险矩阵与成功条件，dense类型</desc>
+  <rect width="1280" height="720" fill="#F7F8FA"/>
+  <rect x="0" y="0" width="1280" height="52" fill="#17324D"/>
+  <text x="64" y="35" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#8A94A1">P09 · 风险与条件</text>
+  <!-- 标题 -->
+  <text x="64" y="100" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">真正的护城河来自治理与流程接入</text>
+  <text x="64" y="148" font-family="Cambria, SimSun, serif" font-size="42" font-weight="bold" fill="#17324D">而非单一模型能力</text>
+  <rect x="64" y="168" width="80" height="3" fill="#1F6FB2"/>
+  <text x="64" y="200" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" fill="#5B6773">有清晰成功条件，也有必须正视的实施风险 — 平台与组织协同缺一不可</text>
+
+  <!-- 左侧：成功条件 -->
+  <g transform="translate(64, 228)">
+    <rect x="0" y="0" width="568" height="400" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="568" height="10" rx="12" fill="#2E8B57"/>
+    <rect x="0" y="10" width="568" height="10" fill="#2E8B57"/>
+    <!-- 对勾图标 -->
+    <g transform="translate(24, 28)" stroke="#2E8B57" stroke-width="2" fill="none">
+      <circle cx="16" cy="16" r="14"/>
+      <polyline points="9,16 14,21 23,11"/>
+    </g>
+    <text x="68" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="600" fill="#17324D">成功条件</text>
+
+    <!-- 4条成功条件 -->
+    <g transform="translate(24, 80)">
+      <rect x="0" y="0" width="520" height="64" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#2E8B57"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">① 高层支持与明确 Owner</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">跨部门项目需 VP 级背书，设立专职产品 Owner</text>
+    </g>
+    <g transform="translate(24, 156)">
+      <rect x="0" y="0" width="520" height="64" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#2E8B57"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">② 知识库与 CRM 数据基础</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">历史知识整理入库，CRM 字段规范，接口可对接</text>
+    </g>
+    <g transform="translate(24, 232)">
+      <rect x="0" y="0" width="520" height="64" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#2E8B57"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">③ 渐进式推广策略</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">单场景验证 → 双场景闭环 → 规模化复制的推进节奏</text>
+    </g>
+    <g transform="translate(24, 308)">
+      <rect x="0" y="0" width="520" height="64" rx="8" fill="white" stroke="#D8DEE6" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#2E8B57"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">④ 治理与安全合规先行</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">数据权限、审计日志、合规策略在首期上线前完成</text>
+    </g>
+  </g>
+
+  <!-- 右侧：关键风险 -->
+  <g transform="translate(656, 228)">
+    <rect x="0" y="0" width="560" height="400" rx="12" fill="#EEF1F4" stroke="#D8DEE6" stroke-width="1"/>
+    <rect x="0" y="0" width="560" height="10" rx="12" fill="#C44E3B"/>
+    <rect x="0" y="10" width="560" height="10" fill="#C44E3B"/>
+    <!-- 警告图标 -->
+    <g transform="translate(24, 28)" stroke="#C44E3B" stroke-width="2" fill="none">
+      <polygon points="16,4 30,28 2,28"/>
+      <line x1="16" y1="12" x2="16" y2="20"/>
+      <circle cx="16" cy="24" r="2" fill="#C44E3B"/>
+    </g>
+    <text x="68" y="48" font-family="Microsoft YaHei, Arial, sans-serif" font-size="24" font-weight="600" fill="#17324D">关键风险</text>
+
+    <!-- 4条风险 -->
+    <g transform="translate(24, 80)">
+      <rect x="0" y="0" width="512" height="64" rx="8" fill="white" stroke="#C44E3B" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#C44E3B"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">① 数据质量与接口壁垒</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">知识库缺失或 CRM 接口不开放将显著拖慢进度</text>
+    </g>
+    <g transform="translate(24, 156)">
+      <rect x="0" y="0" width="512" height="64" rx="8" fill="white" stroke="#C44E3B" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#C44E3B"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">② 组织摩擦与变更阻力</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">跨部门协作意愿低，坐席对新工具接受度不足</text>
+    </g>
+    <g transform="translate(24, 232)">
+      <rect x="0" y="0" width="512" height="64" rx="8" fill="white" stroke="#C44E3B" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#C44E3B"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">③ 过度依赖单一模型供应商</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">建议预留模型切换路径，避免能力被绑定</text>
+    </g>
+    <g transform="translate(24, 308)">
+      <rect x="0" y="0" width="512" height="64" rx="8" fill="white" stroke="#C44E3B" stroke-width="1"/>
+      <rect x="0" y="0" width="6" height="64" rx="3" fill="#C44E3B"/>
+      <text x="20" y="26" font-family="Microsoft YaHei, Arial, sans-serif" font-size="20" font-weight="600" fill="#1F2933">④ 治理缺失导致规模化失控</text>
+      <text x="20" y="50" font-family="Microsoft YaHei, Arial, sans-serif" font-size="16" fill="#5B6773">无权限管理、无审计日志 → 企业无法合规采购</text>
+    </g>
+  </g>
+
+  <!-- 页脚 -->
+  <text x="64" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1">agentflow_case01 · P09</text>
+  <text x="1216" y="700" font-family="Microsoft YaHei, Arial, sans-serif" font-size="14" fill="#8A94A1" text-anchor="end">7 / 6</text>
+</svg>

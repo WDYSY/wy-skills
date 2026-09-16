@@ -1,0 +1,39 @@
+{
+  "lang": "zh",
+  "tier": 1,
+  "recommend": {
+    "canvas": "ppt169",
+    "mode": "pyramid",
+    "visual_style": "glassmorphism",
+    "delivery_purpose": "balanced"
+  },
+  "audience": {
+    "value": "运营团队 / 业务管理层：负责 T 站海外门票业务"
+  },
+  "content_divergence": {
+    "value": ""
+  },
+  "visual_style_spectrum": [
+    {
+      "id": "glassmorphism",
+      "tag_zh": "玻璃拟态 · 高级质感",
+      "tag_en": "Glass & Premium",
+      "note_zh": "半透明玻璃面板 + 渐变光 + 装饰图形，现代 SaaS 高级感",
+      "note_en": "like modern premium SaaS"
+    },
+    {
+      "id": "data-journalism",
+      "tag_zh": "数据新闻 · 图表丰富",
+      "tag_en": "Data Newsroom",
+      "note_zh": "多图表 + 侧边注释 + 栏目分隔线，像 Bloomberg 数据专题",
+      "note_en": "like Bloomberg feature"
+    },
+    {
+      "id": "dark-tech",
+      "tag_zh": "暗色科技 · 炫酷视觉",
+      "tag_en": "Dark Tech Glow",
+      "note_zh": "深色背景 + 发光数据条 + 装饰性几何图形",
+      "note_en": "like Apple keynote"
+    }
+  ]
+}

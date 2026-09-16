@@ -1,0 +1,46 @@
+[20:10:22] [INFO] confirm_ui: running at http://localhost:5050
+[20:10:22] [INFO] confirm_ui: project: /Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/ttd_lang_station_traffic_ppt169_20260910
+[20:10:22] [INFO] confirm_ui: idle timeout: 900s (0 = disabled)
+ * Serving Flask app 'server'
+ * Debug mode: off
+[20:10:22] [INFO] confirm_ui: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+[20:10:22] [INFO] confirm_ui: [33mPress CTRL+C to quit[0m
+[20:10:22] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:22] "GET / HTTP/1.1" 200 -
+[20:10:23] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:23] "GET /static/app.js HTTP/1.1" 200 -
+[20:10:23] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:23] "GET /static/style.css HTTP/1.1" 200 -
+[20:10:23] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:23] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:23] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:23] "GET /api/catalogs HTTP/1.1" 200 -
+[20:10:24] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[20:10:34] [INFO] confirm_ui: tier1 confirmation written to /Users/temptrip/Projects/LL/pulic-skills/trip-skills/ppt-master/projects/ttd_lang_station_traffic_ppt169_20260910/confirm_ui/result.json
+[20:10:34] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:34] "POST /api/confirm HTTP/1.1" 200 -
+[20:10:34] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:34] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:35] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:35] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:37] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:37] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:38] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:38] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:39] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:39] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:40] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:40] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:43] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:43] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:45] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:45] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:46] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:46] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:47] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:47] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:49] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:49] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:51] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:51] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:53] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:53] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:55] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:55] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:57] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:57] "GET /api/recommendations HTTP/1.1" 200 -
+[20:10:59] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:10:59] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:01] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:01] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:03] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:03] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:05] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:05] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:07] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:07] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:09] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:09] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:11] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:11] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:13] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:13] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:15] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:15] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:17] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:17] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:20] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:20] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:22] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:22] "GET /api/recommendations HTTP/1.1" 200 -
+[20:11:24] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:11:24] "GET /api/recommendations HTTP/1.1" 200 -
+[20:22:44] [INFO] confirm_ui: 127.0.0.1 - - [10/Sep/2026 20:22:44] "POST /api/shutdown HTTP/1.1" 200 -
+[20:22:44] [INFO] confirm_ui: shutting down (step4-cleanup)

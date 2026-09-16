@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+
+# evals fixtures: 大型测试输入,本地准备,不进 git
+evals/fixtures/*
+!evals/fixtures/README.md
+.DS_Store

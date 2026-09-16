@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "ppt_to_md.py",
+  "conversion_type": "pptx",
+  "source": {
+    "path": "唯美森系水彩晕染小鹿PPT模板.pptx",
+    "name": "唯美森系水彩晕染小鹿PPT模板.pptx",
+    "suffix": ".pptx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 4036174
+  },
+  "outputs": {
+    "markdown": "唯美森系水彩晕染小鹿PPT模板.md",
+    "asset_dir": "唯美森系水彩晕染小鹿PPT模板_files",
+    "image_manifest": "唯美森系水彩晕染小鹿PPT模板_files/image_manifest.json",
+    "image_count": 56
+  },
+  "markdown": {
+    "line_count": 555,
+    "char_count": 12897,
+    "heading_count": 31,
+    "table_count": 0,
+    "image_ref_count": 69,
+    "link_count": 9
+  },
+  "warnings": []
+}

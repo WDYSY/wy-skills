@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">TOP10 语言站：港澳台与新加坡撑起近九成流量</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">TOP10 语言站贡献 <tspan fill="#E8833A" font-weight="bold">88.6%</tspan> 的 PV，其中香港繁体与新加坡英文两家就占 <tspan fill="#E8833A" font-weight="bold">59%</tspan>。</text>
+    <line x1="60" y1="146" x2="1220" y2="146" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="chartArea">
+    <text x="60" y="176" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">排名 · 语言站</text>
+    <text x="990" y="176" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">PV</text>
+    <text x="1100" y="176" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">PV 占比</text>
+    <text x="1220" y="176" text-anchor="end" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">UV</text>
+
+    <line x1="310" y1="188" x2="310" y2="612" stroke="#5A6675" stroke-width="2"/>
+    <line x1="310" y1="612" x2="800" y2="612" stroke="#5A6675" stroke-width="2"/>
+    <line x1="431.8" y1="184" x2="431.8" y2="612" stroke="#E7EDF3" stroke-width="1"/>
+    <line x1="553.5" y1="184" x2="553.5" y2="612" stroke="#E7EDF3" stroke-width="1"/>
+    <line x1="675.3" y1="184" x2="675.3" y2="612" stroke="#E7EDF3" stroke-width="1"/>
+    <line x1="797" y1="184" x2="797" y2="612" stroke="#E7EDF3" stroke-width="1"/>
+    <text x="310" y="642" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">0</text>
+    <text x="431.8" y="642" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">150K</text>
+    <text x="553.5" y="642" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">300K</text>
+    <text x="675.3" y="642" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">450K</text>
+    <text x="797" y="642" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">600K</text>
+
+    <!-- chart-plot-area: 310,184,800,612 -->
+
+    <g id="bar-rank-1">
+      <text x="60" y="202" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">1 </tspan>zh-hk 香港繁体</text>
+      <rect x="310" y="184" width="490" height="24" rx="4" fill="#0F4C81"/>
+      <text x="990" y="202" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#1B2430">603,658</text>
+      <text x="1100" y="202" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#0F4C81">30.1%</text>
+      <text x="1220" y="202" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">49,043</text>
+    </g>
+
+    <g id="bar-rank-2">
+      <text x="60" y="246" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">2 </tspan>en-sg 新加坡英文</text>
+      <rect x="310" y="228" width="472" height="24" rx="4" fill="#E8833A"/>
+      <text x="990" y="246" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#1B2430">581,867</text>
+      <text x="1100" y="246" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="bold" fill="#E8833A">29.0%</text>
+      <text x="1220" y="246" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">37,249</text>
+    </g>
+
+    <g id="bar-rank-rest">
+      <text x="60" y="290" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">3 </tspan>zh-tw 台湾繁体</text>
+      <rect x="310" y="272" width="120" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="290" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">148,331</text>
+      <text x="1100" y="290" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">7.4%</text>
+      <text x="1220" y="290" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">28,092</text>
+
+      <text x="60" y="334" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">4 </tspan>en-my 马来西亚英文</text>
+      <rect x="310" y="316" width="119" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="334" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">146,071</text>
+      <text x="1100" y="334" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">7.3%</text>
+      <text x="1220" y="334" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">11,297</text>
+
+      <text x="60" y="378" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">5 </tspan>ru-ru 俄语</text>
+      <rect x="310" y="360" width="56" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="378" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">68,933</text>
+      <text x="1100" y="378" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">3.4%</text>
+      <text x="1220" y="378" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">16,647</text>
+
+      <text x="60" y="422" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">6 </tspan>ko-kr 韩语</text>
+      <rect x="310" y="404" width="45" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="422" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">55,648</text>
+      <text x="1100" y="422" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">2.8%</text>
+      <text x="1220" y="422" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">14,796</text>
+
+      <text x="60" y="466" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">7 </tspan>en-id 印尼英文</text>
+      <rect x="310" y="448" width="42" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="466" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">52,135</text>
+      <text x="1100" y="466" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">2.6%</text>
+      <text x="1220" y="466" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">2,955</text>
+
+      <text x="60" y="510" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">8 </tspan>zh-my 马来西亚繁体</text>
+      <rect x="310" y="492" width="39" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="510" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">48,370</text>
+      <text x="1100" y="510" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">2.4%</text>
+      <text x="1220" y="510" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">3,597</text>
+
+      <text x="60" y="554" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">9 </tspan>zh-sg 新加坡繁体</text>
+      <rect x="310" y="536" width="34" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="554" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">42,422</text>
+      <text x="1100" y="554" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">2.1%</text>
+      <text x="1220" y="554" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">2,916</text>
+
+      <text x="60" y="598" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#1B2430"><tspan fill="#8A94A2">10 </tspan>en-xx 泛用英文</text>
+      <rect x="310" y="580" width="32" height="24" rx="4" fill="#4A90C4" fill-opacity="0.55"/>
+      <text x="990" y="598" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">39,366</text>
+      <text x="1100" y="598" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#4A90C4">2.0%</text>
+      <text x="1220" y="598" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#5A6675">7,822</text>
+    </g>
+  </g>
+
+  <g id="chart-note">
+    <text x="60" y="668" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">注：榜内各行占比为分别四舍五入后的值，合计 89.1% 与全站口径 TOP10 = 88.6% 存在 0.5pp 舍入差。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">全量共 50+ 个语言站 · PV = count(distinct com_pv) · UV = count(distinct vid)</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P04 / 12</text>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+{
+  "lang": "zh",
+  "tier": 1,
+  "recommend": {
+    "canvas": "ppt169",
+    "mode": "pyramid",
+    "visual_style": "editorial",
+    "delivery_purpose": "balanced"
+  },
+  "audience": {
+    "value": "运营团队 / 业务管理层：负责 T 站海外门票业务，需要了解各语言站的流量分布特征与渠道策略差异"
+  },
+  "content_divergence": {
+    "value": ""
+  },
+  "visual_style_spectrum": [
+    {
+      "id": "editorial",
+      "tag_zh": "编辑质感",
+      "tag_en": "Editorial depth",
+      "note_zh": "像经济学人数据专题，三分栏 + 数据图表演化",
+      "note_en": "like an Economist feature"
+    },
+    {
+      "id": "data-journalism",
+      "tag_zh": "数据密集",
+      "tag_en": "Data-dense report",
+      "note_zh": "像 Bloomberg 市场报告，微图表 + 多列排版",
+      "note_en": "like a Bloomberg market report"
+    },
+    {
+      "id": "brutalist",
+      "tag_zh": "硬核宣言",
+      "tag_en": "Bold manifesto",
+      "note_zh": "像研究机构年度宣言，大号数字 + 强对比",
+      "note_en": "like a research-house manifesto"
+    }
+  ]
+}

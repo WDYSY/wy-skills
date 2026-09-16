@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <g id="bg">
+    <rect width="1280" height="720" fill="#FFFFFF"/>
+  </g>
+
+  <g id="page-header">
+    <rect x="60" y="46" width="4" height="28" fill="#0F4C81"/>
+    <text x="76" y="70" font-family="Georgia, SimSun, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#0F4C81">口径先行：这次按语言站看，不再按景点</text>
+    <text x="60" y="112" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="30" fill="#1B2430">
+      <tspan x="60" dy="0">结论的可信度取决于口径：统一数据表与过滤条件、统一时间窗，</tspan>
+      <tspan x="60" dy="38">并把「站点」定义为 locale 语言站。</tspan>
+    </text>
+    <line x1="60" y1="172" x2="1220" y2="172" stroke="#D5DDE6" stroke-width="1"/>
+  </g>
+
+  <g id="spec-card-env">
+    <rect x="60" y="192" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/world" x="84" y="214" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="124" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">环境</text>
+    <text x="84" y="288" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">
+      <tspan x="84" dy="0">SGP 集群，</tspan>
+      <tspan x="84" dy="32">T 站海外数据</tspan>
+    </text>
+  </g>
+
+  <g id="spec-card-table">
+    <rect x="456" y="192" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/database" x="480" y="214" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="520" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">数据表</text>
+    <text x="480" y="292" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">
+      <tspan x="480" dy="0">dw_ticketdb.edw_log_</tspan>
+      <tspan x="480" dy="26">ttd_traffic_order_d_ext</tspan>
+    </text>
+  </g>
+
+  <g id="spec-card-filter">
+    <rect x="852" y="192" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/filter" x="876" y="214" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="916" y="236" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">过滤条件</text>
+    <text x="876" y="292" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">
+      <tspan x="876" dy="0">page_ct='trip'</tspan>
+      <tspan x="876" dy="26">+ sub_bu_name='ibu门票'</tspan>
+    </text>
+  </g>
+
+  <g id="spec-card-locale">
+    <rect x="60" y="396" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/map-pin" x="84" y="418" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="124" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">站点口径</text>
+    <text x="84" y="496" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">
+      <tspan x="84" dy="0">按 locale 字段</tspan>
+      <tspan x="84" dy="30">定义语言站</tspan>
+    </text>
+    <text x="84" y="556" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#8A94A2">例：zh-hk 香港繁体 · en-sg 新加坡英文</text>
+  </g>
+
+  <g id="spec-card-metric">
+    <rect x="456" y="396" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/chart-line" x="480" y="418" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="520" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">指标定义</text>
+    <text x="480" y="496" font-family="Consolas, 'Courier New', monospace" font-size="18" fill="#1B2430">
+      <tspan x="480" dy="0">PV = count(distinct com_pv)</tspan>
+      <tspan x="480" dy="26">UV = count(distinct vid)</tspan>
+      <tspan x="480" dy="26">流量来源 = trip_channel</tspan>
+    </text>
+  </g>
+
+  <g id="spec-card-window">
+    <rect x="852" y="396" width="368" height="180" rx="10" fill="#F7F9FB"/>
+    <use data-icon="tabler-outline/calendar" x="876" y="418" width="28" height="28" fill="#0F4C81" stroke-width="2"/>
+    <text x="916" y="440" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="28" font-weight="bold" fill="#0F4C81">时间窗</text>
+    <text x="876" y="500" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="24" fill="#5A6675">
+      <tspan x="876" dy="0">数据截止 2026-08-17</tspan>
+      <tspan x="876" dy="32">最近完整 7 天：8/10–8/17</tspan>
+    </text>
+  </g>
+
+  <g id="note-correction">
+    <rect x="60" y="596" width="1160" height="56" rx="8" fill="#EEF2F6"/>
+    <use data-icon="tabler-outline/alert-triangle" x="80" y="611" width="26" height="26" fill="#E8833A" stroke-width="2"/>
+    <text x="122" y="631" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="18" fill="#5A6675">上一轮按景点（viewspotname）统计，口径答偏；本轮改为按语言站重新统计。</text>
+  </g>
+
+  <g id="page-footer">
+    <text x="60" y="694" font-family="'Microsoft YaHei', 'PingFang SC', Arial, sans-serif" font-size="16" fill="#8A94A2">数据来源：dw_ticketdb.edw_log_ttd_traffic_order_d_ext · page_ct='trip' · sub_bu_name='ibu门票'</text>
+    <text x="1220" y="694" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#8A94A2">P02 / 12</text>
+  </g>
+</svg>
