@@ -30,6 +30,7 @@ docs +fetch --doc <url> --doc-format xml --detail full --scope keyword --keyword
 | 块 | 别用的时候 |
 |---|---|
 | `<span text-color>` | 一句话里有两个以上词要染色，或者只是想让版面好看 |
+| `<code>`（行内代码） | 这个词是用眼睛看的（概念名、文件后缀、状态前缀），不是要复制的 |
 | `<callout>` | 内容本身就是普通陈述；或者这一屏已经有框了 |
 | `<pre>` | 内容是一两句人话，一句话就说得清 |
 | `<cite>` chip | 只是"相关文档"，你自己没读过 |

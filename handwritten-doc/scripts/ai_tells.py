@@ -109,10 +109,14 @@ def check_xml(text):
     for line in check_tables(text):
         print(f"[表格] {line}")
 
-    # 表格里的 <code> 是字段名和文件名，属于该用；密度只按表格外的正文算
+    # 表格和代码块里的 <code> 是字段名和命令，属于该用；只统计正文里的
     outside = re.sub(r"<table[ >].*?</table>", "", text, flags=re.S)
-    inline_code = len(re.findall(r"<code[ >]", outside)) - len(re.findall(r"<pre[ >]", outside))
-    return max(inline_code, 0)
+    outside = re.sub(r"<pre[ >].*?</pre>", "", outside, flags=re.S)
+    inline_code = len(re.findall(r"<code[ >]", outside))
+    worst = 0
+    for sec in re.split(r"<h[123][ >]", outside)[1:]:
+        worst = max(worst, len(re.findall(r"<code[ >]", sec)))
+    return inline_code, worst
 
 
 def check_markdown(lines):
@@ -144,20 +148,30 @@ def main():
 
     if is_xml:
         body = list(enumerate(lines, 1))
-        inline_code = check_xml(text)
+        inline_code, worst_section = check_xml(text)
     else:
         body, inline_code, bold = check_markdown(lines)
+        worst_section = 0
         if bold > 20:
             print(f"[提示] 加粗 {bold} 处，通篇都在强调等于没有强调。")
 
     hits = scan_banned(body)
     n = len(lines) or 1
-    density = inline_code / n * 20
+    if n <= 100:
+        cap = 10
+    elif n <= 300:
+        cap = 20
+    else:
+        cap = min(30, 20 + (n - 300) // 50)
 
     print(f"\n{path}: {n} 行")
-    if inline_code:
-        flag = "偏高" if density > 3 else "正常"
-        print(f"行内代码 {inline_code} 处，每 20 行约 {density:.1f} 处（{flag}，阈值 3）")
+    if inline_code or cap:
+        line = f"行内代码 {inline_code} 处，上限 {cap}"
+        print(line + ("（超限）" if inline_code > cap else ""))
+    if inline_code > cap:
+        print("  [超限] 概念名、文件后缀、状态前缀改用彩色 span 或加粗；反引号只留给命令、路径、字段名。")
+    if worst_section > 5:
+        print(f"  [密集] 有一节出现 {worst_section} 处行内代码，同一小节别超过 5 处，同一个词全篇只套一次。")
 
     if not hits:
         print("套话和 emoji：干净。")
