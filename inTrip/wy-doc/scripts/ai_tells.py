@@ -12,6 +12,12 @@ BANNED = [
     "核心洞察", "一句话总结", "价值主张", "最佳实践", "生态位",
 ]
 
+META = [
+    "也就是说", "换句话说", "说白了", "摆在一起",
+    "这份文档", "本文", "这篇文档",
+    "我前面", "我一开始", "我原以为", "后来发现",
+]
+
 EMOJI = re.compile(
     "[\U0001F300-\U0001FAFF\U00002600-\U000027BF\U0001F000-\U0001F2FF]"
 )
@@ -41,6 +47,9 @@ def scan_banned(lines):
         for word in BANNED:
             if word in probe:
                 hits.append((no, "套话", f"「{word}」", line.strip()[:60]))
+        for word in META:
+            if word in probe:
+                hits.append((no, "过程", f"「{word}」", line.strip()[:60]))
         for m in EMOJI.finditer(probe):
             hits.append((no, "emoji", m.group(0), line.strip()[:60]))
     return hits
@@ -156,15 +165,16 @@ def main():
             print(f"[提示] 加粗 {bold} 处，通篇都在强调等于没有强调。")
 
     hits = scan_banned(body)
-    n = len(lines) or 1
-    if n <= 100:
-        cap = 10
-    elif n <= 300:
+    plain = re.sub(r"<[^>]+>", "", text)
+    cjk = len(re.findall(r"[\u4e00-\u9fff]", plain))
+    if cjk <= 1500:
+        cap = 12
+    elif cjk <= 8000:
         cap = 20
     else:
-        cap = min(30, 20 + (n - 300) // 50)
+        cap = 25
 
-    print(f"\n{path}: {n} 行")
+    print(f"\n{path}: {len(lines)} 行，正文 {cjk} 字")
     if inline_code or cap:
         line = f"行内代码 {inline_code} 处，上限 {cap}"
         print(line + ("（超限）" if inline_code > cap else ""))

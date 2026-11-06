@@ -80,13 +80,19 @@ docs +fetch --doc <url> --doc-format xml --detail full --scope keyword --keyword
 - 引用 wiki 页面时 doc-id 传 wiki 节点的 obj_token（`wiki +node-get` 返回的那个）。
 - 这是证据链最省事的载体：一句话后面挂一个 chip，读者点一下就能核对。
 
-## 引用块
+## 引用块（补充说明）
 
 ```xml
-<blockquote><p>这是一段引用，用来放判断和原话。</p></blockquote>
+<blockquote><p>仅调研过程记录，结论待定。</p></blockquote>
+<blockquote><p>口径来自 <a href="…/docs/commands.md">docs/commands.md</a>，2026-11-02 点数。原话是「日常入口已经收口：…」。</p></blockquote>
 ```
 
-放三类东西：别人的原话、自己下的短结论、旁白式自省。不要放"核心洞察："这种标签。
+正文放事实和判断，**删掉不影响主线的补充材料放引用块**，缩进一级。三类最常用：作者备注（范围、状态、免责）、来源与口径（哪个文件、哪天的数）、原文摘录（引号包住出处那句话）。
+
+- 一块一条，超过三行就该回到正文。
+- 来源、时间、原话可以挤在同一块里，出处跟着引文走。
+- 不收作者的结论（进 `<callout>`），不收主线论证（那是正文）。
+- 不出现"我"开头的句子，不加"备注："「核心洞察：」这类标签。
 
 ## 附件与图片
 
