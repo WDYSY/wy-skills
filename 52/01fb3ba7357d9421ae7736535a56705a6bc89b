@@ -1,0 +1,278 @@
+inTrip/vbk-e2e/references/intent-schema.md
+  s_a05c700b4ef42d::t_0acec7eb3c3fd3 7-63
+inTrip/wy-todos/references/holidays.md
+  s_46aab7185700f8::t_d96c0e49c0c0d1 1-27
+inTrip/wy-todos/references/holidays.json
+  s_46aab7185700f8::t_0b70b0075fbdc5 1-17
+inTrip/wy-ask/references/question-bank.md
+  s_f481bb8459897f::t_090696ef489c3c 1-285
+inTrip/wy-pushback/SKILL.md
+  s_2322bdae3b43c0::t_fcc116848b0bdf 1-92
+inTrip/wy-oral/references/corpus-work-2026-11.md
+  s_5cdbaa5079c51e::t_e209812282070d 1-94
+inTrip/wy-pushback/references/corpus-schedule-conflicts.md
+  s_2322bdae3b43c0::t_72cc1135200eaa 1-74
+inTrip/vbk-e2e/references/seed-data-sources.md
+  s_a05c700b4ef42d::t_3fbd3d1b2e40a3 25,35-39,117-118,120
+  s_a05c700b4ef42d::t_22ac45f10a8c0b 34,128-130,145-146
+  s_a05c700b4ef42d::t_4fa8d4568a8061 44,47-50,58-60,69-71,81-108
+  s_a05c700b4ef42d::t_5af52c07a050e9 46,51-57,61-68
+  s_a05c700b4ef42d::t_f77e727a863669 1-24,26,31-33,121-127,131-144,147-164,166-174
+  s_a05c700b4ef42d::t_e42df99fad043d 40-43,45,72-80,109-116,165,175-177
+  s_a05c700b4ef42d::t_e2bc5993324e03 27-30,119
+inTrip/wy-msg/references/cards.md
+  s_6361a606c4c0d6::t_268efe08ee52c2 50,101-102
+  s_6361a606c4c0d6::t_32523e0d23e6fc 3-4,8,16,20-41,47-49,51,53,57,59-69,73,75,78,81,83,86-93,103,118-134,140-145,148-151
+  s_a298aae1bacce7::t_27c7c50c0aa70c 104-117
+  s_6361a606c4c0d6::t_502409f35f1eb6 1-2,5,10-11,13-15,17,44-46,52,54-56,58,70-72,74,76-77,94-95,97-100,135-139,146-147
+  s_6361a606c4c0d6::t_1ca3289a4c6ada 6-7,9,12,18-19,42-43,79-80,82,84-85,96
+inTrip/vbk-e2e/references/backend-reference.md
+  s_a05c700b4ef42d::t_320f509d0b2388 1-40
+inTrip/wy-test/kb/pages/product-baseinfo.md
+  s_085ca928666cde::t_622f33e6a1a843 113-126
+inTrip/vbk-e2e/references/pages.md
+  s_a05c700b4ef42d::t_715b3cd9568737 31-33
+inTrip/wy-test/references/pages.md
+  s_085ca928666cde::t_b72e7d3036955c 1-55
+inTrip/vbk-e2e/references/zaoshutai-guide.md
+  s_a05c700b4ef42d::t_ea83e99997e2f6 3-4
+inTrip/wy-ask/references/fallacies.md
+  s_f481bb8459897f::t_03a43702351d7a 1-51
+inTrip/wy-todos/SKILL.md
+  s_fe5bf7db9ad455::t_f9002585c61625 98,101,103,105-107,111-116,120,124,133
+  s_46aab7185700f8::t_070e96bf9ddd5f 1-3,5-8,10,12-17,21-28,30,32-40,42,44,67-70,73-74,76-83,86-96,99,117,119,121-123,125-129,134
+  s_fe5bf7db9ad455::t_e162c65dc7e051 20,57-58,61-62,85
+  s_fe5bf7db9ad455::t_efc8b856b23b55 65
+  s_fe5bf7db9ad455::t_dc0842d6ebe5af 4
+  s_fe5bf7db9ad455::t_55099fefe7657f 9,11,19,29,31,41,43,46-56,59-60,63-64,66,71-72,75,84,97,100,102,104,108-110,118,130-132
+  s_fe5bf7db9ad455::t_136e0215d7453a 135-137
+  s_fe5bf7db9ad455::t_9334ee53205591 45
+  s_46aab7185700f8::t_b8dd37809ddc5c 18
+inTrip/wy-todos/references/cards.md
+  s_46aab7185700f8::t_a14c39bf49abf1 1-2,4-14,16,18,20,22,24,30-32,62,86-94
+  s_46aab7185700f8::t_b106be2f67605d 37-40,55-58
+  s_fe5bf7db9ad455::t_e31f71b9ec5a73 26,41-49
+  s_fe5bf7db9ad455::t_693dad148d4375 106
+  s_fe5bf7db9ad455::t_5026292869b574 107
+  s_46aab7185700f8::t_11af1e9942b756 98
+  s_46aab7185700f8::t_1c5982c92a1341 63-85
+  s_fe5bf7db9ad455::t_c482c6f9b56ba6 17,19,21,23,25,29
+  s_fe5bf7db9ad455::t_11d970abb1bd70 3,15,27-28,105
+  s_46aab7185700f8::t_833900c35d36da 95-97
+  s_fe5bf7db9ad455::t_b5a083951373f2 99,101-104
+  s_fe5bf7db9ad455::t_9bc1b06fb6abe9 100
+  s_46aab7185700f8::t_dfeb6f5316ce76 33-36,50-54,59-61
+inTrip/wy-test/references/conventions.md
+  s_085ca928666cde::t_4a41fe0badc574 1-5,7-11,14-57
+  s_085ca928666cde::t_316605490cb69c 6,12-13
+inTrip/wy-ihub/references/pitfalls.md
+  s_282a2e8b1f7d8c::t_718a3767023e46 1-107
+inTrip/wy-ihub/scripts/cdp.mjs
+  s_282a2e8b1f7d8c::t_e3f8d80a2b9296 1-97
+inTrip/wy-clog/references/fields-cheatsheet.md
+  s_c470eae84bf3c7::t_9d80a54ed350dd 3
+  s_c470eae84bf3c7::t_5d66d5f9645209 39-50
+inTrip/vbk-e2e/references/seed-middle-state-measured.md
+  s_a05c700b4ef42d::t_f0b2300292abf2 1-7,9-15,17-28
+  s_a05c700b4ef42d::t_eacbacb87da4ea 8,16
+inTrip/wy-ihub/SKILL.md
+  s_282a2e8b1f7d8c::t_7193d01b27c2b7 25-27,29-40,42-47,53,55
+  s_282a2e8b1f7d8c::t_177480a370849b 13-20,22-24
+  s_282a2e8b1f7d8c::t_09d63c05b3b1dc 1-3,5-12,56-64,66,68-72,75-77,80-86,88-93,95-96,98-104,106-107,109-111,115-119,123-126,130-134,137-139,142-145,147,149-151
+  s_282a2e8b1f7d8c::t_6baaa1a8442103 136
+inTrip/wy-test/scripts/kb_sync.mjs
+  s_085ca928666cde::t_48d6c5d4edb38f 158-167
+  s_085ca928666cde::t_22948c0499c9d5 1-157,168-227
+inTrip/wy-clog/SKILL.md
+  s_c470eae84bf3c7::t_353895f396ad34 33-35,62-83,87-89
+  s_c470eae84bf3c7::t_9c7bb13010e2aa 1-32,36-61,84-86,90-96
+inTrip/wy-test/output/2026-11-17-product-baseinfo-pro/生产回归用例.md
+  s_085ca928666cde::t_045d18d6e1619c 207-238
+  s_085ca928666cde::t_a1a5bb4c8e23a6 1-157
+  s_085ca928666cde::t_1fa25fd9c584e5 158-206
+inTrip/wy-oral/SKILL.md
+  s_5cdbaa5079c51e::t_3b2837f8ef3ed9 1-114
+inTrip/wy-ihub/scripts/fill_answer.mjs
+  s_282a2e8b1f7d8c::t_51cf4c56f18d92 19
+  s_282a2e8b1f7d8c::t_ba712b158058c4 1-18,20-40,49-118
+  s_282a2e8b1f7d8c::t_2c8fca419cd006 41-48
+inTrip/wy-oral/references/style-profile.md
+  s_5cdbaa5079c51e::t_574e8a6bec8095 1-63
+inTrip/wy-captain/SKILL.md
+  s_4f3f5fe644bc36::t_89ac3007a98d21 171,179-183,188-191
+  s_4f3f5fe644bc36::t_b8a70d51ac68b5 173-177,184,187
+  s_4f3f5fe644bc36::t_d6439d33556b9a 185
+  s_4f3f5fe644bc36::t_551446f77fb943 186
+  s_4f3f5fe644bc36::t_b5a0fddc9ce75f 250
+  s_4f3f5fe644bc36::t_2f8ccb0d7810a5 194-204
+  s_4f3f5fe644bc36::t_f30430c9c2124f 93-96
+inTrip/vbk-e2e/references/known-facts.md
+  s_a05c700b4ef42d::t_ac2122240dfa68 54
+  s_a05c700b4ef42d::t_4db24281e723a8 45-51,56,58
+  s_a05c700b4ef42d::t_3af90d4b5de1dd 57
+  s_a05c700b4ef42d::t_9d258d591988b5 52-53,55
+inTrip/wy-clog/assets/clog-helper.user.js
+  s_c470eae84bf3c7::t_c9ef7c5a17e157 1-312
+inTrip/vbk-e2e/SKILL.md
+  s_a05c700b4ef42d::t_8b4866a983173a 163,232
+  s_a05c700b4ef42d::t_1fa45326bd8a47 155
+  s_a05c700b4ef42d::t_168b8f08d59106 4,188
+  s_a05c700b4ef42d::t_6a24c2fdae1643 14-55,133-146,149-151,160-162,201-202,231
+  s_a05c700b4ef42d::t_24803d6e796637 90,233-234
+  s_a05c700b4ef42d::t_bfe93aa3337399 147
+  s_a05c700b4ef42d::t_7d49b9c1ac7520 153-154,156-159,203-205
+inTrip/wy-todos/scripts/todo_scan.mjs
+  s_fe5bf7db9ad455::t_9ff4a9ffb4460b 65
+  s_46aab7185700f8::t_f2988e753277a4 191
+  s_fe5bf7db9ad455::t_156e808f65052b 129,131-133,135,144-146,159-160,162-164,173
+  s_46aab7185700f8::t_5d4dc27f6bcc90 95-100,104
+  s_46aab7185700f8::t_da2b86b99f48b9 106
+  s_46aab7185700f8::t_228cff596f1e66 1,6-21,27-42,44-47,50-54,56-60,71-76,84,88,90-94,101-103,105,107-128,174-177,179-181,183-190,192,197-203,208-211
+  s_fe5bf7db9ad455::t_ac10c0af18cdc4 193-194,196
+  s_fe5bf7db9ad455::t_a12a8d27380fc2 206-207
+  s_46aab7185700f8::t_14dfe49b1b7e2d 85-87,89
+  s_fe5bf7db9ad455::t_c9371684c71a7a 48-49
+  s_fe5bf7db9ad455::t_d66e16ed519b69 195
+  s_46aab7185700f8::t_5c69ce76c10972 81-83
+  s_fe5bf7db9ad455::t_d35c78d39a6abb 43,55,61-64,66-70,77-80
+  s_fe5bf7db9ad455::t_6914b32aaf32e6 22-26
+  s_fe5bf7db9ad455::t_8f435b73b3ab8e 2-5
+  s_fe5bf7db9ad455::t_b02a7fc75852c1 130,134,136-143,147-158,161,165-172
+  s_fe5bf7db9ad455::t_71c6930e7cb9cf 204-205
+  s_fe5bf7db9ad455::t_65126cd6cd6b88 178
+  s_46aab7185700f8::t_6675f92daf0070 182
+inTrip/wy-test/references/scenarios.md
+  s_085ca928666cde::t_efbe1859fae09e 1-25
+inTrip/wy-clog/assets/network-md-export-clog.user.js
+  s_c470eae84bf3c7::t_dc918ad8ec1b59 106-110
+  s_c470eae84bf3c7::t_824a817d1bd433 156-165,171-172,174-175,178-188
+  s_c470eae84bf3c7::t_d153254b21a202 1001-1008,1011,1013-1026,1028-1048,1050-1083,1085,1105-1127,1131-1132,1134,1151-1153,1155-1163,1165-1167,1178,1181-1198,1200-1202,1209-1220,1228-1229,1231-1235,1237,1239-1240,1242-1252,1255-1261
+  s_c470eae84bf3c7::t_9327288da81919 2-43,49-50,54-66,68-73,78,84,102,105,111-115,117-119,129-149,154-155,168-169,177,189-190,231-307
+  s_c470eae84bf3c7::t_1ee0369e7f7001 658-793,1334-1337
+  s_c470eae84bf3c7::t_64af9919a53bed 1103-1104,1128-1130,1133,1136-1143,1164,1168-1176,1203-1208,1236,1238
+inTrip/vbk-e2e/templates/config.template.json
+  s_a05c700b4ef42d::t_9e5d2b0da70fe8 43-81
+  s_a05c700b4ef42d::t_d69e370e282dad 17-24
+inTrip/wy-test/SKILL.md
+  s_085ca928666cde::t_027c66730ae40f 105
+  s_085ca928666cde::t_248a66389e32ce 1-37,39-85,87-104,106-115
+  s_085ca928666cde::t_bfa408589be347 86
+  s_085ca928666cde::t_772b63ff433824 38
+inTrip/wy-msg/SKILL.md
+  s_6361a606c4c0d6::t_15ee47ef5c4da2 50-58,95,97
+  s_6361a606c4c0d6::t_c197113c47f22d 60-73
+  s_6361a606c4c0d6::t_1c5711e2a91f20 1-8,10-20,22-49,59,74-94,96,98-130,132-134
+  s_6361a606c4c0d6::t_0805e2d85f9642 21,131
+inTrip/wy-test/scripts/kb_query.mjs
+  s_085ca928666cde::t_3b8e5fe3a04c89 1-113
+inTrip/wy-ask/SKILL.md
+  s_f481bb8459897f::t_2dd91b5901638d 1-177
+inTrip/vbk-e2e/references/trip-test-contract.md
+  s_a05c700b4ef42d::t_cc3dd3f2f1e772 145-147
+  s_a05c700b4ef42d::t_4b69c64eb8af75 36,148
+  s_a05c700b4ef42d::t_cbfcf3586d2a69 164-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.52-trip",
+  "base_commit_sha": "5201fb3ba7357d9421ae7736535a56705a6bc89b",
+  "prompts": {},
+  "sessions": {
+    "s_085ca928666cde": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_0ve6h42mlzmk",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_2322bdae3b43c0": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_tqc2a4dm5821",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_282a2e8b1f7d8c": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_dlwx47qyi99x",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_46aab7185700f8": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_8v24qlclgzv7",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_4f3f5fe644bc36": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_lno4qg5dd8g0",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_5cdbaa5079c51e": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_wqnrqdfu2lp8",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_6361a606c4c0d6": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_qxn0pgpr142z",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_a05c700b4ef42d": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_zv0fbousyfrb",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_a298aae1bacce7": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_5qhnnmxmpxo6",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_c470eae84bf3c7": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_7hxl574iabcx",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_f481bb8459897f": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_ns657r7axykl",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    },
+    "s_fe5bf7db9ad455": {
+      "agent_id": {
+        "tool": "chengxiaobang",
+        "id": "s_0mrr7i2klliq",
+        "model": "auto(free)"
+      },
+      "human_author": "Wang Yan <wangyan@trip.com>"
+    }
+  }
+}
