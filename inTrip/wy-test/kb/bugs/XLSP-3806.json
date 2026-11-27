@@ -1,0 +1,856 @@
+{
+  "XLSP-5014": {
+    "key": "XLSP-5014",
+    "title": "省钱产品无法勾选服务人员",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794906549000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "30804：8845992"
+  },
+  "XLSP-4993": {
+    "key": "XLSP-4993",
+    "title": "6206产品8837041原有导游资源组，导游对应服务语言不可编辑，行程段删除导游组后，服务语言还是不可编辑呢",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794835263000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "6206产品8837041"
+  },
+  "XLSP-4992": {
+    "key": "XLSP-4992",
+    "title": "简版产品将对应的导游资源组删除后，基本信息页面的费用包含还是不可点击",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794833771000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly",
+      "data_consistency"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "select * from prd_product_service_personnel_2 where product_id = 8835506;select * from prd_product_service_personnel_8 where product_id = 2145291944;30804"
+  },
+  "XLSP-4967": {
+    "key": "XLSP-4967",
+    "title": "产品本身有多个服务语言，extend表记录是否可选服务语言不正确",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794813238000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "multi_language",
+      "data_consistency"
+    ],
+    "primary": "multi_language",
+    "excerpt": "select a.ServiceLanguage,a.* from prd_product_11 a where productid=8759195; a.AddonGuideServiceLanguage,a.AddonDriverServiceLanguage,a.ServiceLanguageSelectable, a.* from prd_productextend a where productid=8759195;"
+  },
+  "XLSP-4944": {
+    "key": "XLSP-4944",
+    "title": "包车游未默认选中司机",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794730147000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206产品8822287"
+  },
+  "XLSP-4943": {
+    "key": "XLSP-4943",
+    "title": "自由行设置了管家，提示信息不对，去掉提示",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794728904000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "display_copy"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206：8827477"
+  },
+  "XLSP-4942": {
+    "key": "XLSP-4942",
+    "title": "from=6381新增用车资源，服务语言字段无露出",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794726541000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "scope_out"
+    ],
+    "primary": "scope_out",
+    "excerpt": ""
+  },
+  "XLSP-4938": {
+    "key": "XLSP-4938",
+    "title": "8802420出境短途游学跟团游关联了条款163，执行job后未关联领队(无关联服务语言不反向同步)",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794573768000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "88024208802420出境短途游学跟团游关联了条款163，执行job后未关联领队{\"productIds\": [8802420]}"
+  },
+  "XLSP-4937": {
+    "key": "XLSP-4937",
+    "title": "8495416非CN关联了关联条款40853，刷job后无关联司机(无语言关联无法刷)",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794572851000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "language_check",
+    "excerpt": "8495416关联条款40853，执行job{\"productIds\": [8495416]} * from prd_product_service_personnel_$ where product_id in (8495416,2145307345);"
+  },
+  "XLSP-4878": {
+    "key": "XLSP-4878",
+    "title": "出境短途跟团游8818127勾选了领队+导游，未勾选条款3024",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794474137000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "出境短途跟团游8818127勾选了领队+导游，未勾选条款3024"
+  },
+  "XLSP-4876": {
+    "key": "XLSP-4876",
+    "title": "6206产品非CN勾选了司机的服务人员，条款未勾选40853条款",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794473579000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "clause"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206产品8817969非CN勾选了司机的服务人员，条款未勾选40853条款"
+  },
+  "XLSP-4875": {
+    "key": "XLSP-4875",
+    "title": "复制产品，服务人员和角色未复制，简版也要复制",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794473387000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "data_consistency"
+    ],
+    "primary": "data_consistency",
+    "excerpt": "复制产品，服务人员和角色未复制6206产品8817969"
+  },
+  "XLSP-4874": {
+    "key": "XLSP-4874",
+    "title": "产品同时含有司机和领兼导，条款无默认勾选值8796273",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794471374000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "clause"
+    ],
+    "primary": "clause",
+    "excerpt": "6206产品8796273产品同时含有司机和领兼导"
+  },
+  "XLSP-4873": {
+    "key": "XLSP-4873",
+    "title": "出境短途游学7042541，产品壳服务人员司机，保存后未联动勾选条款247",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794470486000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206产品7042541，产品壳服务人员司机，保存后未联动勾选条款247"
+  },
+  "XLSP-4845": {
+    "key": "XLSP-4845",
+    "title": "8815176司兼导不含接驳非CN,未勾选条款41021",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794405476000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206产品8815176"
+  },
+  "XLSP-4844": {
+    "key": "XLSP-4844",
+    "title": "司机人员由不含讲解设置为含讲解，原来的条款未取消勾选（无匹配条款就按照原来的条款勾选）",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794404461000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "clause"
+    ],
+    "primary": "clause",
+    "excerpt": "6206简版产品8798392"
+  },
+  "XLSP-4843": {
+    "key": "XLSP-4843",
+    "title": "包装产品费用包含服务人员区域应该置灰不可点",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794401919000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "30804：8697960"
+  },
+  "XLSP-4814": {
+    "key": "XLSP-4814",
+    "title": "简版产品添加服务人员和服务语言后，未联动勾选条款",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794308594000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206简版产品8798392"
+  },
+  "XLSP-4794": {
+    "key": "XLSP-4794",
+    "title": "简版产品新增，再次刷新页面，页面无保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794281657000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [],
+    "primary": "unclassified",
+    "excerpt": "30804简版产品"
+  },
+  "XLSP-4791": {
+    "key": "XLSP-4791",
+    "title": "非CN，境外长途司机兼导游，条款未自动勾选联动",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794279043000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "language_check",
+    "excerpt": "产品8798091"
+  },
+  "XLSP-4789": {
+    "key": "XLSP-4789",
+    "title": "产品勾选了当地陪同，条款未自动勾选",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794232546000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "clause"
+    ],
+    "primary": "clause",
+    "excerpt": "6206产品8797587"
+  },
+  "XLSP-4788": {
+    "key": "XLSP-4788",
+    "title": "游学产品（境内外长短途）设置了导游+服务语言，未联动勾选条款",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "In Progress",
+    "statusCategory": 2,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794230557000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206境内短途游学：7359448境内长途游学8797117出境短途游学8797122出境长途游学8797130"
+  },
+  "XLSP-4785": {
+    "key": "XLSP-4785",
+    "title": "司机语言由普通话改成柬埔寨语，为啥灭有联动(无需修复，需要条款测补下拉的语言)",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794227937000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "language_check",
+    "excerpt": "8796652"
+  },
+  "XLSP-4777": {
+    "key": "XLSP-4777",
+    "title": "新增出境跟团产品，选择司兼导服务人员+服务语言，条款也未联动勾选3025",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794225545000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206：8796229"
+  },
+  "XLSP-4775": {
+    "key": "XLSP-4775",
+    "title": "勾选司机兼导游服务角色，未同步勾选条款",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794225054000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link",
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206产品：8796194，产品壳勾选司兼导，条款未联动勾选"
+  },
+  "XLSP-4764": {
+    "key": "XLSP-4764",
+    "title": "复制产品，新产品导游和司机服务人员填写后，新产品未自动勾选对应的条款",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794218581000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "clause",
+    "excerpt": "6206原产品：7341534复制后的新产品：8796127"
+  },
+  "XLSP-4752": {
+    "key": "XLSP-4752",
+    "title": "私家团服务人员司机，条款3018未同步",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794212146000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "clause",
+    "excerpt": "6206:8794865"
+  },
+  "XLSP-4751": {
+    "key": "XLSP-4751",
+    "title": "6206产品行程段有用车组，司机语言同步用车组语言，应该置灰",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "In Progress",
+    "statusCategory": 2,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1794211413000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly",
+      "data_consistency"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "6206产品8794865"
+  },
+  "XLSP-4696": {
+    "key": "XLSP-4696",
+    "title": "CN半自助产品途径地包含福建的景点，设置领兼导保存失败--看目的地",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793931478000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206半自助产品：8782051途径地有福建的景点，设置领兼导失败"
+  },
+  "XLSP-4694": {
+    "key": "XLSP-4694",
+    "title": "当地陪同默认非普通话，不可保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793886518000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206产品8777856当地陪同，由非CN服务语言是非普通话，勾选为CN时候，保存不成功"
+  },
+  "XLSP-4693": {
+    "key": "XLSP-4693",
+    "title": "为什么会提示：地区含中国大陆，默认普通话且不可修改。",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793886239000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "display_copy"
+    ],
+    "primary": "language_check",
+    "excerpt": ""
+  },
+  "XLSP-4692": {
+    "key": "XLSP-4692",
+    "title": "先添加导游再添加领队，导游页面会显示：由领队联动？？？",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793885897000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "308048780324"
+  },
+  "XLSP-4691": {
+    "key": "XLSP-4691",
+    "title": "8546443产品勾选领队兼导游，销售控制页面由非CN改成勾选CN，基本信息保存失败",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793885153000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "mutex_link"
+    ],
+    "primary": "language_check",
+    "excerpt": "30804产品8546443 \"RootMessageId\", Value: \"100025527-0a76de70-498301-446080\"}"
+  },
+  "XLSP-4690": {
+    "key": "XLSP-4690",
+    "title": "司机和导游设置了不同服务语言，保存失败",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793884261000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [],
+    "primary": "unclassified",
+    "excerpt": "6206产品7770227 Id: \"RootMessageId\", Value: \"100025527-0a78f8e1-498301-184549\" }"
+  },
+  "XLSP-4689": {
+    "key": "XLSP-4689",
+    "title": "勾选领队，带出了导游资源后保存，再次添加司机兼导游，会把导游移除并且不可保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793883787000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "mutex_link"
+    ],
+    "primary": "mutex_link",
+    "excerpt": "6206产品：8701229"
+  },
+  "XLSP-4688": {
+    "key": "XLSP-4688",
+    "title": "产品由未勾选CN修改为CN，领队的默认语言未改回普通话，且保存失败",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793882957000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "mutex_link"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206产品8741001销售控制页面不勾选CN进行领队添加，服务语言是英文，保存信息"
+  },
+  "XLSP-4687": {
+    "key": "XLSP-4687",
+    "title": "行程描述未勾选徒步登山也可添加专业户外向导（改需求了，不需要看这些）",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793882405000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [],
+    "primary": "unclassified",
+    "excerpt": "6206产品8323171"
+  },
+  "XLSP-4685": {
+    "key": "XLSP-4685",
+    "title": "产品勾选了司机兼导游，再次添加领导兼导游无法保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793881848000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "6206产品：7053315 Id: \"RootMessageId\", Value: \"100025527-0a76c5e2-498300-475397\" }"
+  },
+  "XLSP-4675": {
+    "key": "XLSP-4675",
+    "title": "灰度外简版供应商，基本信息页面去掉白框",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793870337000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "scope_out",
+      "display_copy"
+    ],
+    "primary": "scope_out",
+    "excerpt": "5025切供应商1362852"
+  },
+  "XLSP-4674": {
+    "key": "XLSP-4674",
+    "title": "简版产品添加导游组，对应的服务语言未同步到产品壳导游的服务语言（正式ID有，草稿无）",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "To Do",
+    "statusCategory": 1,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793869989000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "data_consistency"
+    ],
+    "primary": "data_consistency",
+    "excerpt": "30804简版产品8412829地址： * from prd_product_service_personnel_13 where product_id = 8412829; * from prd_product_service_personnel_0 where product_id = 2145309888;"
+  },
+  "XLSP-4669": {
+    "key": "XLSP-4669",
+    "title": "产品页面选择多个服务语言，无拦截提示",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793864238000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "multi_language",
+      "display_copy"
+    ],
+    "primary": "multi_language",
+    "excerpt": "6206产品8771632服务人员的服务语言选择有多个的，未进行提示"
+  },
+  "XLSP-4657": {
+    "key": "XLSP-4657",
+    "title": "签证产品无法保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793857434000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly",
+      "scope_out"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "供应商6206，产品ID：8472878"
+  },
+  "XLSP-4655": {
+    "key": "XLSP-4655",
+    "title": "邮轮套餐基本信息页保存失败",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793857027000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "scope_out"
+    ],
+    "primary": "scope_out",
+    "excerpt": "5025切供应商13041产品：8208287"
+  },
+  "XLSP-4653": {
+    "key": "XLSP-4653",
+    "title": "跟团游关联导游，且服务语言是普通话，未同步勾选条款3014",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793856744000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "language_check",
+      "clause",
+      "data_consistency"
+    ],
+    "primary": "language_check",
+    "excerpt": "6206产品8771631"
+  },
+  "XLSP-4609": {
+    "key": "XLSP-4609",
+    "title": "司机或者导游多个服务语言，页面只看到一个服务语言",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793694414000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "multi_language"
+    ],
+    "primary": "multi_language",
+    "excerpt": "30804产品：8759195"
+  },
+  "XLSP-4608": {
+    "key": "XLSP-4608",
+    "title": "基本信息无法保存",
+    "typeId": 9,
+    "typeName": "Sub-bug",
+    "status": "Done",
+    "statusCategory": 3,
+    "creator": "韩瑞莉",
+    "creatorId": "S41665",
+    "created": 1793694098000,
+    "page": "product-baseinfo",
+    "parent": "XLSP-3806",
+    "scenarios": [
+      "gray_readonly"
+    ],
+    "primary": "gray_readonly",
+    "excerpt": "30804 \"RootMessageId\", Value: \"100029702-0a777075-498248-65688\"}"
+  }
+}

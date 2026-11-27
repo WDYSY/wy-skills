@@ -1,0 +1,100 @@
+{
+  "_comment": "vbk-e2e 运行配置模板。复制到 ~/vbk-e2e/config.json 后按自己机器改：localPath 必须是本机真实路径；加页面/加仓库只改这个文件，不改技能。",
+  "repos": [
+    {
+      "key": "imvc-vbk",
+      "label": "商品后台·复杂版（vbk）",
+      "localPath": "/path/to/imvc-vbk",
+      "gitlabUrl": "https://git.dev.sh.ctripcorp.com/vacation-web/imvc-vbk",
+      "pageRoot": "src/ivbk/pages"
+    },
+    {
+      "key": "imvc-vbk-v2",
+      "label": "商品后台·简版（6381）",
+      "localPath": "/path/to/imvc-vbk-v2",
+      "gitlabUrl": "https://git.dev.sh.ctripcorp.com/vacation-web/imvc-vbk-v2",
+      "pageRoot": "src/ivbk/pages"
+    },
+    {
+      "key": "product-input-service",
+      "label": "商品录入后端（VBK/6381 产品中心）",
+      "localPath": "/path/to/product-input-service",
+      "gitlabUrl": "",
+      "pageRoot": "product-input-biz/src/main/java/com/ctrip/tour/product/input",
+      "note": "只读参考仓：页签点亮(=step)、复制、草稿/正式等后端真源；见 references/backend-reference.md"
+    }
+  ],
+  "pages": [
+    {
+      "pageKey": "priceInventory",
+      "name": "价格库存管理 → 产品班期（班期日历，人群团类型行所在）",
+      "repo": "imvc-vbk",
+      "urlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/priceInventory?productId={productId}&from=vbk",
+      "status": "verified",
+      "note": "默认 tab 是「套餐价格库存」，人群团行只在「产品班期」tab 内，用例必须先点页签"
+    },
+    {
+      "pageKey": "baseInfoMerge",
+      "name": "基本信息（含服务人员）",
+      "repo": "imvc-vbk",
+      "urlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/baseInfoMerge?productId={productId}&from=vbk",
+      "status": "verified",
+      "note": "2026-11-23 联调实跑口径"
+    },
+    {
+      "pageKey": "productListMerge",
+      "name": "产品列表（中间态源产品的搜索入口）",
+      "repo": "imvc-vbk",
+      "urlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/productListMerge?from=vbk",
+      "status": "code-verified",
+      "note": "中间态来源：产品ID支持逗号分隔，「上线状态」「有效」可筛；挑名称空、创建时间最近的产品"
+    },
+    {
+      "pageKey": "saleControlMerge",
+      "name": "销售控制（中间态默认落地页，「复制」入口在 header 右上）",
+      "repo": "imvc-vbk",
+      "urlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/saleControlMerge?from=vbk&productType=0&productId={productId}",
+      "status": "code-verified",
+      "note": "复制成功后前端就跳这个 URL（SubMenu.js:1075）；确认按钮 data-testid=copy-popconfirm"
+    }
+  ],
+  "seed": {
+    "_comment": "起点数据：ready=造数台成品；middle=中间态（列表页搜索→打开→复制）",
+    "defaultState": "middle",
+    "middle": {
+      "listUrlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/productListMerge?from=vbk",
+      "detailUrlTemplate": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com/ivbk/vendor/saleControlMerge?from=vbk&productType=0&productId={productId}",
+      "copyConfirmTestId": "copy-popconfirm",
+      "copyApi": "/15638/productDuplicate.json",
+      "copyPollApi": "/15638/getProductDuplicateResult",
+      "copyTimeoutSeconds": 60,
+      "db": {
+        "dbName": "pkgproductdb",
+        "envType": "fat",
+        "tablePattern": "prd_product_{shard}",
+        "shardCount": 16,
+        "shardRule": "ProductID % 16",
+        "vendorIdSource": "cookie 账号所属供应商（VBK FAT 测试账号常见 30804）",
+        "where": "IsDeleted='F' AND IsAbandoned='F' AND IsOnline<>'T' AND Active='F'"
+      }
+    }
+  },
+  "tripTest": {
+    "projectId": 333,
+    "appId": "5072",
+    "platform": "Web",
+    "aiModelName": "qwen3.8-flash",
+    "env": "FAT",
+    "urlHost": "https://vbooking.ctrip.fat29.qa.nt.ctripcorp.com",
+    "loginMode": "cookie",
+    "cookieRef": "按需向用户索取完整 Cookie 头；不落盘"
+  },
+  "defaults": {
+    "count": 1,
+    "maxCount": 5,
+    "draft": false,
+    "sectionLevel1": "页面名（如 价格库存/产品班期）",
+    "sectionLevel2": "<idev号>-<需求摘要>",
+    "ledgerDir": "~/vbk-e2e/ledger"
+  }
+}

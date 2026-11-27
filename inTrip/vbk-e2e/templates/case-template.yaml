@@ -1,0 +1,40 @@
+# 母版 YAML（Web · appId 5072 · 项目 333）
+# 登录只用 cookie，**不要**写 config_uid_login_info、**不要**写 config_init_network/proxy（会触发平台 cookie bug 或风控滑块）。
+#
+# 占位符（渲染时替换，产物不再含任何 {{…}}）：
+#   {{OWNER}}        = 用例负责人（填使用者自己的姓名）
+#   {{CASE_NAME}}    = <releaseKey>-<页面要点>-<productId>
+#   {{PAGE_URL}}     = 意图 JSON 的 urlTemplate（productId 已替换，URL 里不要留 {PRODUCT_ID}）
+#   {{COOKIE}}       = 从已登录 vbooking FAT 的 Chrome 复制的**完整 Cookie 头**（含 vbkticket/bticket 等 HttpOnly）
+#                      取法：F12 → Network → 任一 20698/* 请求 → Request Headers → Cookie:
+#                      只进 TripTest 平台用例，绝不进台账、日志、技能仓库
+#   {{MAIN_STEP}}    = 主操作（自然语言，如：点击提交审核按钮）
+#   {{MAIN_ASSERT}}  = 主断言（必须来自需求验收点，如：页面显示错误提示弹窗，内容为"请至少添加一个服务人员"）
+#                      ⚠️ 只断言目标项原文，别写「除了 A/B/C 之外」——线上 lang 可能与设计稿不一致（老友团→退休放飞团）
+# 说明：
+#   1) 只读 tasks[0]，一条用例一个 task；
+#   2) 顶层 tripStarter 是 Web 必需；config_jump_url 必填；
+#   3) viewport / UA 照抄已验证的参考用例（项目 83 用例 285172）；
+#   4) 睡眠/滚动等步骤按页面实际需要增删，关键字必须在该端可用列表里（get-case-yaml-contract）；
+#   5) 渲染后先过 validate-case-yaml(isNewCase=true)，再 save-case-yaml-batch(draft=false + caseSectionId=二级目录)。
+meta:
+  - owner: '{{OWNER}}'
+  - appId: '5072'
+  - platform: Web
+  - aiModelName: qwen3.8-flash
+tripStarter:
+  config_jump_url: >-
+    {"url":"{{PAGE_URL}}"}
+  viewportWidth: 1534
+  viewportHeight: 950
+  cookie: '{{COOKIE}}'
+  userAgent: >-
+    Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+tasks:
+  - name: {{CASE_NAME}}
+    flow:
+      - aiWaitFor: 页面加载完成，出现待测页面特征元素
+        timeout: 40000
+      - aiTap: {{MAIN_STEP}}
+      - sleep: '5000'
+      - aiAssert: {{MAIN_ASSERT}}
